@@ -1,0 +1,16 @@
+add_fleet 1
+get_pirate_money 1
+add_pirate 1 1
+get_pirate_money 1
+pay_pirate 1 1
+num_ships_for_fleet 1
+get_pirate_money 1
+add_fleet 2
+add_pirate 2 2
+get_pirate_money 2
+pay_pirate 2 2
+num_ships_for_fleet 2
+get_pirate_money 2
+unite_fleets 2 1
+num_ships_for_fleet 1
+num_ships_for_fleet 2

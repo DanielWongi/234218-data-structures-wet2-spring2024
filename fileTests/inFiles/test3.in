@@ -1,0 +1,118 @@
+add_fleet 1
+add_fleet 2
+add_pirate 3 1
+add_pirate 5 1
+add_pirate 4 1
+add_pirate 1 2
+add_pirate 2 2
+unite_fleets 1 2
+num_ships_for_fleet 1
+num_ships_for_fleet 2
+add_fleet 2
+add_pirate 100 2
+get_pirate_money 2
+get_pirate_money 3
+pirate_argument 2 3
+get_pirate_money 2
+get_pirate_money 3
+add_fleet 3
+add_pirate 6 3
+add_pirate 7 3
+add_pirate 8 3
+add_pirate 9 3
+add_pirate 10 3
+unite_fleets 3 2
+unite_fleets 3 1
+num_ships_for_fleet 1
+num_ships_for_fleet 3
+pirate_argument 6 3
+get_pirate_money 3
+get_pirate_money 6
+pirate_argument 2 10
+get_pirate_money 2
+get_pirate_money 10
+add_fleet 4
+add_pirate 11 4
+add_pirate 12 4
+add_pirate 13 4
+add_pirate 14 4
+add_pirate 15 4
+add_pirate 16 4
+add_pirate 17 4
+add_pirate 18 4
+add_pirate 19 4
+add_pirate 20 4
+unite_fleets 1 4
+unite_fleets 4 2
+num_ships_for_fleet 3
+num_ships_for_fleet 4
+unite_fleets 4 3
+num_ships_for_fleet 3
+num_ships_for_fleet 4
+add_fleet 5
+add_pirate 21 5
+pirate_argument 21 11
+get_pirate_money 11
+get_pirate_money 21
+get_pirate_money 6
+pirate_argument 11 6
+get_pirate_money 11
+get_pirate_money 6
+pirate_argument 11 2
+get_pirate_money 11
+get_pirate_money 2
+pirate_argument 11 1
+get_pirate_money 11
+get_pirate_money 1
+pirate_argument 11 5
+get_pirate_money 11
+get_pirate_money 5
+pirate_argument 11 4
+get_pirate_money 11
+get_pirate_money 4
+pirate_argument 11 3
+get_pirate_money 11
+get_pirate_money 3
+pirate_argument 11 10
+get_pirate_money 11
+get_pirate_money 10
+pirate_argument 11 9
+get_pirate_money 11
+get_pirate_money 9
+pirate_argument 11 8
+get_pirate_money 11
+get_pirate_money 8
+pirate_argument 11 7
+get_pirate_money 11
+get_pirate_money 7
+pirate_argument 11 20
+get_pirate_money 11
+get_pirate_money 20
+pirate_argument 11 19
+get_pirate_money 11
+get_pirate_money 19
+pirate_argument 11 18
+get_pirate_money 11
+get_pirate_money 18
+pirate_argument 11 17
+get_pirate_money 11
+get_pirate_money 17
+pirate_argument 11 16
+get_pirate_money 11
+get_pirate_money 16
+pirate_argument 11 15
+get_pirate_money 11
+get_pirate_money 15
+pirate_argument 11 14
+get_pirate_money 11
+get_pirate_money 14
+pirate_argument 11 13
+get_pirate_money 11
+get_pirate_money 13
+pirate_argument 11 12
+get_pirate_money 11
+get_pirate_money 12
+num_ships_for_fleet 1
+num_ships_for_fleet 2
+num_ships_for_fleet 3
+num_ships_for_fleet 4

@@ -1,0 +1,29 @@
+add_fleet: SUCCESS
+add_fleet: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+unite_fleets: SUCCESS
+add_fleet: FAILURE
+add_pirate: FAILURE
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -4
+get_pirate_money: SUCCESS, 4
+add_fleet: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+unite_fleets: FAILURE
+unite_fleets: SUCCESS
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -1
+get_pirate_money: SUCCESS, 5
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -9
+get_pirate_money: SUCCESS, 5

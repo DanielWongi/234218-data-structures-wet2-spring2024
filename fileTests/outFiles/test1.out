@@ -1,0 +1,13 @@
+add_fleet: SUCCESS
+add_fleet: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+unite_fleets: SUCCESS
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -4
+get_pirate_money: SUCCESS, 4

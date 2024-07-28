@@ -1,0 +1,16 @@
+add_fleet: SUCCESS
+get_pirate_money: FAILURE
+add_pirate: SUCCESS
+get_pirate_money: SUCCESS, 0
+pay_pirate: SUCCESS
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 1
+add_fleet: SUCCESS
+add_pirate: SUCCESS
+get_pirate_money: SUCCESS, 0
+pay_pirate: SUCCESS
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 2
+unite_fleets: SUCCESS
+num_ships_for_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 2
