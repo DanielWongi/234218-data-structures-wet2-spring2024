@@ -1,0 +1,88 @@
+add_fleet 1
+add_fleet 2
+add_fleet 3
+add_fleet 4
+add_fleet 5
+add_pirate 11 1
+add_pirate 21 2
+add_pirate 31 3
+add_pirate 32 3
+add_pirate 33 3
+add_pirate 41 4
+add_pirate 42 4
+add_pirate 43 4
+add_pirate 44 4
+add_pirate 45 4
+add_pirate 51 5
+add_pirate 52 5
+add_pirate 53 5
+add_pirate 54 5
+add_pirate 55 5
+add_pirate 56 5
+add_pirate 57 5
+add_pirate 58 5
+add_pirate 59 5
+get_pirate_money 11
+get_pirate_money 21
+unite_fleets 1 2
+pirate_argument 21 11
+get_pirate_money 21
+get_pirate_money 11
+get_pirate_money 11
+get_pirate_money 51
+get_pirate_money 52
+get_pirate_money 53
+get_pirate_money 54
+get_pirate_money 55
+get_pirate_money 56
+get_pirate_money 57
+get_pirate_money 58
+get_pirate_money 59
+unite_fleets 1 5
+pirate_argument 60 11
+get_pirate_money 60
+get_pirate_money 11
+get_pirate_money 31
+get_pirate_money 32
+get_pirate_money 33
+get_pirate_money 51
+get_pirate_money 52
+get_pirate_money 53
+get_pirate_money 54
+get_pirate_money 55
+get_pirate_money 56
+get_pirate_money 57
+get_pirate_money 58
+get_pirate_money 59
+unite_fleets 3 5
+pirate_argument 57 31
+get_pirate_money 57
+get_pirate_money 31
+get_pirate_money 41
+get_pirate_money 42
+get_pirate_money 43
+get_pirate_money 44
+get_pirate_money 45
+get_pirate_money 11
+unite_fleets 4 1
+pirate_argument 56 60
+get_pirate_money 56
+get_pirate_money 60
+get_pirate_money 51
+get_pirate_money 52
+get_pirate_money 53
+get_pirate_money 54
+get_pirate_money 55
+get_pirate_money 56
+get_pirate_money 57
+get_pirate_money 58
+get_pirate_money 59
+get_pirate_money 41
+get_pirate_money 42
+get_pirate_money 43
+get_pirate_money 44
+get_pirate_money 45
+unite_fleets 5 4
+pirate_argument 12 11
+get_pirate_money 12
+get_pirate_money 11

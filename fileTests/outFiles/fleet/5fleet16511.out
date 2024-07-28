@@ -1,0 +1,133 @@
+add_fleet: SUCCESS
+add_fleet: SUCCESS
+add_fleet: SUCCESS
+add_fleet: SUCCESS
+add_fleet: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+unite_fleets: SUCCESS
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -11
+get_pirate_money: SUCCESS, 11
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, -11
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 11
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+unite_fleets: FAILURE
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, 1
+get_pirate_money: SUCCESS, -1
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 11
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 1
+get_pirate_money: SUCCESS, -1
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+unite_fleets: SUCCESS
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -15
+get_pirate_money: SUCCESS, 26
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, -15
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+unite_fleets: FAILURE
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, 2
+get_pirate_money: SUCCESS, -3
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+unite_fleets: SUCCESS
+pirate_argument: FAILURE
+get_pirate_money: SUCCESS, 2
+get_pirate_money: SUCCESS, 0

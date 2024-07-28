@@ -11,9 +11,6 @@ NC='\033[0m' # No Color
 FAILED_TESTS=0
 FAILED_TEST_NUMBERS_FILE=$(mktemp)
 
-# Number of tests to run, starting from test number 0
-TESTS_TO_RUN=12
-
 # JSON result file
 JSON_RESULT_FILE="test_results.json"
 
@@ -35,15 +32,16 @@ echo "{" > "$JSON_RESULT_FILE"
 
 # Function to run a single test
 run_test() {
-    local testNumber=$1
-    local failedTestsFile=$2
-    local failedTestNumbersFile=$3
-    local jsonFile=$4
+    local inFile=$1
+    local outFileDir=$2
+    local failedTestsFile=$3
+    local failedTestNumbersFile=$4
+    local jsonFile=$5
 
-    local inFile="fileTests/inFiles/test${testNumber}.in"
-    local resultFile="fileTests/outFiles/test${testNumber}.result"
-    local expectedFile="fileTests/outFiles/test${testNumber}.out"
-    local valgrindLogFile="fileTests/inFiles/test${testNumber}.valgrind_log"
+    local testNumber=$(basename "$inFile" .in)
+    local resultFile="${outFileDir}/${testNumber}.result"
+    local expectedFile="${outFileDir}/${testNumber}.out"
+    local valgrindLogFile="${inFile}.valgrind_log"
 
     echo -e "${BLUE}Running test $testNumber >>>${NC}"
 
@@ -96,18 +94,19 @@ run_test() {
     rm -f "$valgrindLogFile"
 
     # Append the execution time to the temporary JSON result file
-    echo "\"test${testNumber}\": ${elapsed}," >> "$jsonFile"
+    echo "\"${testNumber}\": ${elapsed}," >> "$jsonFile"
 }
 
 export -f run_test
-export GREEN RED BLUE NC TESTS_TO_RUN
+export GREEN RED BLUE NC
 
 # Temporary files for storing results
 FAILED_TESTS_FILE=$(mktemp)
 JSON_TEMP_FILE=$(mktemp)
 
-# Main loop for running tests
-parallel -j $(nproc) run_test {1} "$FAILED_TESTS_FILE" "$FAILED_TEST_NUMBERS_FILE" "$JSON_TEMP_FILE" ::: $(seq 0 $TESTS_TO_RUN)
+# Main loop for running tests in parallel
+find fileTests/inFiles -name "*.in" ! -path "fileTests/inFiles/fleet/*" | parallel -j $(nproc) run_test {} fileTests/outFiles "$FAILED_TESTS_FILE" "$FAILED_TEST_NUMBERS_FILE" "$JSON_TEMP_FILE"
+find fileTests/inFiles/fleet -name "*.in" | parallel -j $(nproc) run_test {} fileTests/outFiles/fleet "$FAILED_TESTS_FILE" "$FAILED_TEST_NUMBERS_FILE" "$JSON_TEMP_FILE"
 
 # Aggregate results
 FAILED_TESTS=$(wc -l < "$FAILED_TESTS_FILE")

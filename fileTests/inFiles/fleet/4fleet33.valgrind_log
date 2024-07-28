@@ -1,0 +1,6 @@
+==3829== Memcheck, a memory error detector
+==3829== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==3829== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==3829== Command: ./FileTester
+==3829== Parent PID: 3806
+==3829== 
