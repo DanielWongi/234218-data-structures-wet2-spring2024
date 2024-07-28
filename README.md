@@ -1,4 +1,3 @@
-![Header Image](https://uca038f551b4209abaac41023519.previews.dropboxusercontent.com/p/thumb/ACW_7sO9dVolFwOxW6KQfVTmBtObZBc0z_AxHEZyXHmTsAMXRMHn8U0hSQHcTZlX6E55sjlyUhrIxRWxOiwlXBn5uG_A__5lO-MkV1JP_wv7u_rMLamMb5AXKp5ChoEvkoEUpYoUeeyDO2EWw6W7Ycx3Z5iilegkvoZA5yZ2pF0egQEy0oS_RVsZP0gHuXHn6lv-GY9FOFsGFeABYnWyBF5zDZQXuhAr_otV7wETJmzGG3IigDJYFKtu6qudR5R9E3CMeWGjZEyzZ2xLeMGeS7hULoYYJxyGKz_zaDgCMhkHN7dOf_JmNWpCrniOQ3aNfxYef_Qyd5F65UiofuTRJhKq6Q-WBpPOX3_pGXAQA7oRvQveSPBRvOsUxKxokhgjGRo/p.png?is_prewarmed=true)
 # 234218-data-structures-wet2-spring2024
 1. **First**, create a `test` folder in the root directory of the project. 
 
