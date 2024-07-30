@@ -132,5 +132,5 @@ get_pirate_money: SUCCESS, 0
 get_pirate_money: SUCCESS, -7
 unite_fleets: SUCCESS
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -13
-get_pirate_money: SUCCESS, 13
+get_pirate_money: SUCCESS, -23
+get_pirate_money: SUCCESS, 23

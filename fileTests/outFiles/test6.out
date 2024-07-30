@@ -11200,31 +11200,31 @@ pirate_argument: SUCCESS
 pirate_argument: SUCCESS
 add_fleet: FAILURE
 add_pirate: FAILURE
-get_pirate_money: SUCCESS, 14500
-get_pirate_money: SUCCESS, 14300
+get_pirate_money: SUCCESS, 51400
+get_pirate_money: SUCCESS, 51200
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, 14299
-get_pirate_money: SUCCESS, 14501
-get_pirate_money: SUCCESS, 14100
-get_pirate_money: SUCCESS, 13900
+get_pirate_money: SUCCESS, 51199
+get_pirate_money: SUCCESS, 51401
+get_pirate_money: SUCCESS, 51000
+get_pirate_money: SUCCESS, 50800
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, 13899
-get_pirate_money: SUCCESS, 14101
-get_pirate_money: SUCCESS, 13700
-get_pirate_money: SUCCESS, 13500
+get_pirate_money: SUCCESS, 50799
+get_pirate_money: SUCCESS, 51001
+get_pirate_money: SUCCESS, 50600
+get_pirate_money: SUCCESS, 50400
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, 13499
-get_pirate_money: SUCCESS, 13701
-get_pirate_money: SUCCESS, 13300
-get_pirate_money: SUCCESS, 13100
+get_pirate_money: SUCCESS, 50399
+get_pirate_money: SUCCESS, 50601
+get_pirate_money: SUCCESS, 50200
+get_pirate_money: SUCCESS, 50000
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, 13099
-get_pirate_money: SUCCESS, 13301
-get_pirate_money: SUCCESS, 12900
-get_pirate_money: SUCCESS, 12700
+get_pirate_money: SUCCESS, 49999
+get_pirate_money: SUCCESS, 50201
+get_pirate_money: SUCCESS, 49800
+get_pirate_money: SUCCESS, 49600
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, 12699
-get_pirate_money: SUCCESS, 12901
+get_pirate_money: SUCCESS, 49599
+get_pirate_money: SUCCESS, 49801
 get_pirate_money: SUCCESS, -1
 get_pirate_money: SUCCESS, -3
 pirate_argument: SUCCESS
@@ -11700,2031 +11700,2031 @@ get_pirate_money: SUCCESS, -199
 pirate_argument: SUCCESS
 get_pirate_money: SUCCESS, -200
 get_pirate_money: SUCCESS, -196
-get_pirate_money: SUCCESS, -91
-get_pirate_money: SUCCESS, -93
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -94
-get_pirate_money: SUCCESS, -90
-get_pirate_money: SUCCESS, -95
-get_pirate_money: SUCCESS, -97
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -98
-get_pirate_money: SUCCESS, -94
-get_pirate_money: SUCCESS, -99
-get_pirate_money: SUCCESS, -101
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -102
-get_pirate_money: SUCCESS, -98
-get_pirate_money: SUCCESS, -103
-get_pirate_money: SUCCESS, -105
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -106
-get_pirate_money: SUCCESS, -102
-get_pirate_money: SUCCESS, -107
-get_pirate_money: SUCCESS, -109
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -110
-get_pirate_money: SUCCESS, -106
-get_pirate_money: SUCCESS, -101
-get_pirate_money: SUCCESS, -103
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -104
-get_pirate_money: SUCCESS, -100
-get_pirate_money: SUCCESS, -105
-get_pirate_money: SUCCESS, -107
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -108
-get_pirate_money: SUCCESS, -104
-get_pirate_money: SUCCESS, -109
-get_pirate_money: SUCCESS, -111
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -112
-get_pirate_money: SUCCESS, -108
-get_pirate_money: SUCCESS, -113
-get_pirate_money: SUCCESS, -115
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -116
-get_pirate_money: SUCCESS, -112
-get_pirate_money: SUCCESS, -117
-get_pirate_money: SUCCESS, -119
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -120
-get_pirate_money: SUCCESS, -116
-get_pirate_money: SUCCESS, -111
-get_pirate_money: SUCCESS, -113
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -114
-get_pirate_money: SUCCESS, -110
-get_pirate_money: SUCCESS, -115
-get_pirate_money: SUCCESS, -117
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -118
-get_pirate_money: SUCCESS, -114
-get_pirate_money: SUCCESS, -119
-get_pirate_money: SUCCESS, -121
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -122
-get_pirate_money: SUCCESS, -118
-get_pirate_money: SUCCESS, -123
-get_pirate_money: SUCCESS, -125
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -126
-get_pirate_money: SUCCESS, -122
-get_pirate_money: SUCCESS, -127
-get_pirate_money: SUCCESS, -129
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -130
-get_pirate_money: SUCCESS, -126
-get_pirate_money: SUCCESS, -121
-get_pirate_money: SUCCESS, -123
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -124
-get_pirate_money: SUCCESS, -120
-get_pirate_money: SUCCESS, -125
-get_pirate_money: SUCCESS, -127
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -128
-get_pirate_money: SUCCESS, -124
-get_pirate_money: SUCCESS, -129
-get_pirate_money: SUCCESS, -131
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -132
-get_pirate_money: SUCCESS, -128
-get_pirate_money: SUCCESS, -133
-get_pirate_money: SUCCESS, -135
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -136
-get_pirate_money: SUCCESS, -132
-get_pirate_money: SUCCESS, -137
-get_pirate_money: SUCCESS, -139
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -140
-get_pirate_money: SUCCESS, -136
-get_pirate_money: SUCCESS, -131
-get_pirate_money: SUCCESS, -133
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -134
-get_pirate_money: SUCCESS, -130
-get_pirate_money: SUCCESS, -135
-get_pirate_money: SUCCESS, -137
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -138
-get_pirate_money: SUCCESS, -134
-get_pirate_money: SUCCESS, -139
-get_pirate_money: SUCCESS, -141
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -142
-get_pirate_money: SUCCESS, -138
-get_pirate_money: SUCCESS, -143
-get_pirate_money: SUCCESS, -145
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -146
-get_pirate_money: SUCCESS, -142
-get_pirate_money: SUCCESS, -147
-get_pirate_money: SUCCESS, -149
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -150
-get_pirate_money: SUCCESS, -146
-get_pirate_money: SUCCESS, -141
-get_pirate_money: SUCCESS, -143
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -144
-get_pirate_money: SUCCESS, -140
-get_pirate_money: SUCCESS, -145
-get_pirate_money: SUCCESS, -147
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -148
-get_pirate_money: SUCCESS, -144
-get_pirate_money: SUCCESS, -149
-get_pirate_money: SUCCESS, -151
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -152
-get_pirate_money: SUCCESS, -148
-get_pirate_money: SUCCESS, -153
-get_pirate_money: SUCCESS, -155
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -156
-get_pirate_money: SUCCESS, -152
-get_pirate_money: SUCCESS, -157
-get_pirate_money: SUCCESS, -159
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -160
-get_pirate_money: SUCCESS, -156
-get_pirate_money: SUCCESS, -151
-get_pirate_money: SUCCESS, -153
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -154
-get_pirate_money: SUCCESS, -150
-get_pirate_money: SUCCESS, -155
-get_pirate_money: SUCCESS, -157
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -158
-get_pirate_money: SUCCESS, -154
-get_pirate_money: SUCCESS, -159
-get_pirate_money: SUCCESS, -161
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -162
-get_pirate_money: SUCCESS, -158
-get_pirate_money: SUCCESS, -163
-get_pirate_money: SUCCESS, -165
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -166
-get_pirate_money: SUCCESS, -162
-get_pirate_money: SUCCESS, -167
-get_pirate_money: SUCCESS, -169
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -170
-get_pirate_money: SUCCESS, -166
-get_pirate_money: SUCCESS, -161
-get_pirate_money: SUCCESS, -163
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -164
-get_pirate_money: SUCCESS, -160
-get_pirate_money: SUCCESS, -165
-get_pirate_money: SUCCESS, -167
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -168
-get_pirate_money: SUCCESS, -164
-get_pirate_money: SUCCESS, -169
-get_pirate_money: SUCCESS, -171
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -172
-get_pirate_money: SUCCESS, -168
-get_pirate_money: SUCCESS, -173
-get_pirate_money: SUCCESS, -175
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -176
-get_pirate_money: SUCCESS, -172
-get_pirate_money: SUCCESS, -177
-get_pirate_money: SUCCESS, -179
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -180
-get_pirate_money: SUCCESS, -176
-get_pirate_money: SUCCESS, -171
-get_pirate_money: SUCCESS, -173
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -174
-get_pirate_money: SUCCESS, -170
-get_pirate_money: SUCCESS, -175
-get_pirate_money: SUCCESS, -177
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -178
-get_pirate_money: SUCCESS, -174
-get_pirate_money: SUCCESS, -179
-get_pirate_money: SUCCESS, -181
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -182
-get_pirate_money: SUCCESS, -178
-get_pirate_money: SUCCESS, -183
-get_pirate_money: SUCCESS, -185
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -186
-get_pirate_money: SUCCESS, -182
-get_pirate_money: SUCCESS, -187
-get_pirate_money: SUCCESS, -189
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -190
-get_pirate_money: SUCCESS, -186
-get_pirate_money: SUCCESS, -181
-get_pirate_money: SUCCESS, -183
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -184
-get_pirate_money: SUCCESS, -180
-get_pirate_money: SUCCESS, -185
-get_pirate_money: SUCCESS, -187
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -188
-get_pirate_money: SUCCESS, -184
-get_pirate_money: SUCCESS, -189
 get_pirate_money: SUCCESS, -191
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -192
-get_pirate_money: SUCCESS, -188
 get_pirate_money: SUCCESS, -193
-get_pirate_money: SUCCESS, -195
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -196
-get_pirate_money: SUCCESS, -192
-get_pirate_money: SUCCESS, -197
-get_pirate_money: SUCCESS, -199
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -200
-get_pirate_money: SUCCESS, -196
-get_pirate_money: SUCCESS, -91
-get_pirate_money: SUCCESS, -93
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -94
-get_pirate_money: SUCCESS, -90
-get_pirate_money: SUCCESS, -95
-get_pirate_money: SUCCESS, -97
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -98
-get_pirate_money: SUCCESS, -94
-get_pirate_money: SUCCESS, -99
-get_pirate_money: SUCCESS, -101
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -102
-get_pirate_money: SUCCESS, -98
-get_pirate_money: SUCCESS, -103
-get_pirate_money: SUCCESS, -105
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -106
-get_pirate_money: SUCCESS, -102
-get_pirate_money: SUCCESS, -107
-get_pirate_money: SUCCESS, -109
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -110
-get_pirate_money: SUCCESS, -106
-get_pirate_money: SUCCESS, -101
-get_pirate_money: SUCCESS, -103
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -104
-get_pirate_money: SUCCESS, -100
-get_pirate_money: SUCCESS, -105
-get_pirate_money: SUCCESS, -107
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -108
-get_pirate_money: SUCCESS, -104
-get_pirate_money: SUCCESS, -109
-get_pirate_money: SUCCESS, -111
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -112
-get_pirate_money: SUCCESS, -108
-get_pirate_money: SUCCESS, -113
-get_pirate_money: SUCCESS, -115
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -116
-get_pirate_money: SUCCESS, -112
-get_pirate_money: SUCCESS, -117
-get_pirate_money: SUCCESS, -119
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -120
-get_pirate_money: SUCCESS, -116
-get_pirate_money: SUCCESS, -111
-get_pirate_money: SUCCESS, -113
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -114
-get_pirate_money: SUCCESS, -110
-get_pirate_money: SUCCESS, -115
-get_pirate_money: SUCCESS, -117
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -118
-get_pirate_money: SUCCESS, -114
-get_pirate_money: SUCCESS, -119
-get_pirate_money: SUCCESS, -121
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -122
-get_pirate_money: SUCCESS, -118
-get_pirate_money: SUCCESS, -123
-get_pirate_money: SUCCESS, -125
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -126
-get_pirate_money: SUCCESS, -122
-get_pirate_money: SUCCESS, -127
-get_pirate_money: SUCCESS, -129
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -130
-get_pirate_money: SUCCESS, -126
-get_pirate_money: SUCCESS, -121
-get_pirate_money: SUCCESS, -123
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -124
-get_pirate_money: SUCCESS, -120
-get_pirate_money: SUCCESS, -125
-get_pirate_money: SUCCESS, -127
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -128
-get_pirate_money: SUCCESS, -124
-get_pirate_money: SUCCESS, -129
-get_pirate_money: SUCCESS, -131
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -132
-get_pirate_money: SUCCESS, -128
-get_pirate_money: SUCCESS, -133
-get_pirate_money: SUCCESS, -135
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -136
-get_pirate_money: SUCCESS, -132
-get_pirate_money: SUCCESS, -137
-get_pirate_money: SUCCESS, -139
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -140
-get_pirate_money: SUCCESS, -136
-get_pirate_money: SUCCESS, -131
-get_pirate_money: SUCCESS, -133
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -134
-get_pirate_money: SUCCESS, -130
-get_pirate_money: SUCCESS, -135
-get_pirate_money: SUCCESS, -137
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -138
-get_pirate_money: SUCCESS, -134
-get_pirate_money: SUCCESS, -139
-get_pirate_money: SUCCESS, -141
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -142
-get_pirate_money: SUCCESS, -138
-get_pirate_money: SUCCESS, -143
-get_pirate_money: SUCCESS, -145
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -146
-get_pirate_money: SUCCESS, -142
-get_pirate_money: SUCCESS, -147
-get_pirate_money: SUCCESS, -149
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -150
-get_pirate_money: SUCCESS, -146
-get_pirate_money: SUCCESS, -141
-get_pirate_money: SUCCESS, -143
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -144
-get_pirate_money: SUCCESS, -140
-get_pirate_money: SUCCESS, -145
-get_pirate_money: SUCCESS, -147
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -148
-get_pirate_money: SUCCESS, -144
-get_pirate_money: SUCCESS, -149
-get_pirate_money: SUCCESS, -151
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -152
-get_pirate_money: SUCCESS, -148
-get_pirate_money: SUCCESS, -153
-get_pirate_money: SUCCESS, -155
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -156
-get_pirate_money: SUCCESS, -152
-get_pirate_money: SUCCESS, -157
-get_pirate_money: SUCCESS, -159
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -160
-get_pirate_money: SUCCESS, -156
-get_pirate_money: SUCCESS, -151
-get_pirate_money: SUCCESS, -153
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -154
-get_pirate_money: SUCCESS, -150
-get_pirate_money: SUCCESS, -155
-get_pirate_money: SUCCESS, -157
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -158
-get_pirate_money: SUCCESS, -154
-get_pirate_money: SUCCESS, -159
-get_pirate_money: SUCCESS, -161
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -162
-get_pirate_money: SUCCESS, -158
-get_pirate_money: SUCCESS, -163
-get_pirate_money: SUCCESS, -165
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -166
-get_pirate_money: SUCCESS, -162
-get_pirate_money: SUCCESS, -167
-get_pirate_money: SUCCESS, -169
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -170
-get_pirate_money: SUCCESS, -166
-get_pirate_money: SUCCESS, -161
-get_pirate_money: SUCCESS, -163
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -164
-get_pirate_money: SUCCESS, -160
-get_pirate_money: SUCCESS, -165
-get_pirate_money: SUCCESS, -167
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -168
-get_pirate_money: SUCCESS, -164
-get_pirate_money: SUCCESS, -169
-get_pirate_money: SUCCESS, -171
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -172
-get_pirate_money: SUCCESS, -168
-get_pirate_money: SUCCESS, -173
-get_pirate_money: SUCCESS, -175
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -176
-get_pirate_money: SUCCESS, -172
-get_pirate_money: SUCCESS, -177
-get_pirate_money: SUCCESS, -179
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -180
-get_pirate_money: SUCCESS, -176
-get_pirate_money: SUCCESS, -171
-get_pirate_money: SUCCESS, -173
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -174
-get_pirate_money: SUCCESS, -170
-get_pirate_money: SUCCESS, -175
-get_pirate_money: SUCCESS, -177
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -178
-get_pirate_money: SUCCESS, -174
-get_pirate_money: SUCCESS, -179
-get_pirate_money: SUCCESS, -181
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -182
-get_pirate_money: SUCCESS, -178
-get_pirate_money: SUCCESS, -183
-get_pirate_money: SUCCESS, -185
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -186
-get_pirate_money: SUCCESS, -182
-get_pirate_money: SUCCESS, -187
-get_pirate_money: SUCCESS, -189
-pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -194
 get_pirate_money: SUCCESS, -190
-get_pirate_money: SUCCESS, -186
-get_pirate_money: SUCCESS, -181
-get_pirate_money: SUCCESS, -183
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -184
-get_pirate_money: SUCCESS, -180
-get_pirate_money: SUCCESS, -185
-get_pirate_money: SUCCESS, -187
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -188
-get_pirate_money: SUCCESS, -184
-get_pirate_money: SUCCESS, -189
-get_pirate_money: SUCCESS, -191
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -192
-get_pirate_money: SUCCESS, -188
-get_pirate_money: SUCCESS, -193
 get_pirate_money: SUCCESS, -195
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -196
-get_pirate_money: SUCCESS, -192
 get_pirate_money: SUCCESS, -197
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -198
+get_pirate_money: SUCCESS, -194
 get_pirate_money: SUCCESS, -199
+get_pirate_money: SUCCESS, -201
 pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -202
+get_pirate_money: SUCCESS, -198
+get_pirate_money: SUCCESS, -203
+get_pirate_money: SUCCESS, -205
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -206
+get_pirate_money: SUCCESS, -202
+get_pirate_money: SUCCESS, -207
+get_pirate_money: SUCCESS, -209
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -210
+get_pirate_money: SUCCESS, -206
+get_pirate_money: SUCCESS, -201
+get_pirate_money: SUCCESS, -203
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -204
 get_pirate_money: SUCCESS, -200
-get_pirate_money: SUCCESS, -196
-get_pirate_money: SUCCESS, -91
-get_pirate_money: SUCCESS, -93
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -94
-get_pirate_money: SUCCESS, -90
-get_pirate_money: SUCCESS, -95
-get_pirate_money: SUCCESS, -97
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -98
-get_pirate_money: SUCCESS, -94
-get_pirate_money: SUCCESS, -99
-get_pirate_money: SUCCESS, -101
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -102
-get_pirate_money: SUCCESS, -98
-get_pirate_money: SUCCESS, -103
-get_pirate_money: SUCCESS, -105
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -106
-get_pirate_money: SUCCESS, -102
-get_pirate_money: SUCCESS, -107
-get_pirate_money: SUCCESS, -109
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -110
-get_pirate_money: SUCCESS, -106
-get_pirate_money: SUCCESS, -101
-get_pirate_money: SUCCESS, -103
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -104
-get_pirate_money: SUCCESS, -100
-get_pirate_money: SUCCESS, -105
-get_pirate_money: SUCCESS, -107
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -108
-get_pirate_money: SUCCESS, -104
-get_pirate_money: SUCCESS, -109
-get_pirate_money: SUCCESS, -111
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -112
-get_pirate_money: SUCCESS, -108
-get_pirate_money: SUCCESS, -113
-get_pirate_money: SUCCESS, -115
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -116
-get_pirate_money: SUCCESS, -112
-get_pirate_money: SUCCESS, -117
-get_pirate_money: SUCCESS, -119
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -120
-get_pirate_money: SUCCESS, -116
-get_pirate_money: SUCCESS, -111
-get_pirate_money: SUCCESS, -113
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -114
-get_pirate_money: SUCCESS, -110
-get_pirate_money: SUCCESS, -115
-get_pirate_money: SUCCESS, -117
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -118
-get_pirate_money: SUCCESS, -114
-get_pirate_money: SUCCESS, -119
-get_pirate_money: SUCCESS, -121
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -122
-get_pirate_money: SUCCESS, -118
-get_pirate_money: SUCCESS, -123
-get_pirate_money: SUCCESS, -125
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -126
-get_pirate_money: SUCCESS, -122
-get_pirate_money: SUCCESS, -127
-get_pirate_money: SUCCESS, -129
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -130
-get_pirate_money: SUCCESS, -126
-get_pirate_money: SUCCESS, -121
-get_pirate_money: SUCCESS, -123
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -124
-get_pirate_money: SUCCESS, -120
-get_pirate_money: SUCCESS, -125
-get_pirate_money: SUCCESS, -127
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -128
-get_pirate_money: SUCCESS, -124
-get_pirate_money: SUCCESS, -129
-get_pirate_money: SUCCESS, -131
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -132
-get_pirate_money: SUCCESS, -128
-get_pirate_money: SUCCESS, -133
-get_pirate_money: SUCCESS, -135
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -136
-get_pirate_money: SUCCESS, -132
-get_pirate_money: SUCCESS, -137
-get_pirate_money: SUCCESS, -139
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -140
-get_pirate_money: SUCCESS, -136
-get_pirate_money: SUCCESS, -131
-get_pirate_money: SUCCESS, -133
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -134
-get_pirate_money: SUCCESS, -130
-get_pirate_money: SUCCESS, -135
-get_pirate_money: SUCCESS, -137
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -138
-get_pirate_money: SUCCESS, -134
-get_pirate_money: SUCCESS, -139
-get_pirate_money: SUCCESS, -141
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -142
-get_pirate_money: SUCCESS, -138
-get_pirate_money: SUCCESS, -143
-get_pirate_money: SUCCESS, -145
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -146
-get_pirate_money: SUCCESS, -142
-get_pirate_money: SUCCESS, -147
-get_pirate_money: SUCCESS, -149
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -150
-get_pirate_money: SUCCESS, -146
-get_pirate_money: SUCCESS, -141
-get_pirate_money: SUCCESS, -143
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -144
-get_pirate_money: SUCCESS, -140
-get_pirate_money: SUCCESS, -145
-get_pirate_money: SUCCESS, -147
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -148
-get_pirate_money: SUCCESS, -144
-get_pirate_money: SUCCESS, -149
-get_pirate_money: SUCCESS, -151
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -152
-get_pirate_money: SUCCESS, -148
-get_pirate_money: SUCCESS, -153
-get_pirate_money: SUCCESS, -155
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -156
-get_pirate_money: SUCCESS, -152
-get_pirate_money: SUCCESS, -157
-get_pirate_money: SUCCESS, -159
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -160
-get_pirate_money: SUCCESS, -156
-get_pirate_money: SUCCESS, -151
-get_pirate_money: SUCCESS, -153
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -154
-get_pirate_money: SUCCESS, -150
-get_pirate_money: SUCCESS, -155
-get_pirate_money: SUCCESS, -157
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -158
-get_pirate_money: SUCCESS, -154
-get_pirate_money: SUCCESS, -159
-get_pirate_money: SUCCESS, -161
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -162
-get_pirate_money: SUCCESS, -158
-get_pirate_money: SUCCESS, -163
-get_pirate_money: SUCCESS, -165
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -166
-get_pirate_money: SUCCESS, -162
-get_pirate_money: SUCCESS, -167
-get_pirate_money: SUCCESS, -169
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -170
-get_pirate_money: SUCCESS, -166
-get_pirate_money: SUCCESS, -161
-get_pirate_money: SUCCESS, -163
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -164
-get_pirate_money: SUCCESS, -160
-get_pirate_money: SUCCESS, -165
-get_pirate_money: SUCCESS, -167
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -168
-get_pirate_money: SUCCESS, -164
-get_pirate_money: SUCCESS, -169
-get_pirate_money: SUCCESS, -171
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -172
-get_pirate_money: SUCCESS, -168
-get_pirate_money: SUCCESS, -173
-get_pirate_money: SUCCESS, -175
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -176
-get_pirate_money: SUCCESS, -172
-get_pirate_money: SUCCESS, -177
-get_pirate_money: SUCCESS, -179
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -180
-get_pirate_money: SUCCESS, -176
-get_pirate_money: SUCCESS, -171
-get_pirate_money: SUCCESS, -173
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -174
-get_pirate_money: SUCCESS, -170
-get_pirate_money: SUCCESS, -175
-get_pirate_money: SUCCESS, -177
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -178
-get_pirate_money: SUCCESS, -174
-get_pirate_money: SUCCESS, -179
-get_pirate_money: SUCCESS, -181
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -182
-get_pirate_money: SUCCESS, -178
-get_pirate_money: SUCCESS, -183
-get_pirate_money: SUCCESS, -185
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -186
-get_pirate_money: SUCCESS, -182
-get_pirate_money: SUCCESS, -187
-get_pirate_money: SUCCESS, -189
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -190
-get_pirate_money: SUCCESS, -186
-get_pirate_money: SUCCESS, -181
-get_pirate_money: SUCCESS, -183
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -184
-get_pirate_money: SUCCESS, -180
-get_pirate_money: SUCCESS, -185
-get_pirate_money: SUCCESS, -187
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -188
-get_pirate_money: SUCCESS, -184
-get_pirate_money: SUCCESS, -189
-get_pirate_money: SUCCESS, -191
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -192
-get_pirate_money: SUCCESS, -188
-get_pirate_money: SUCCESS, -193
-get_pirate_money: SUCCESS, -195
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -196
-get_pirate_money: SUCCESS, -192
-get_pirate_money: SUCCESS, -197
-get_pirate_money: SUCCESS, -199
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -200
-get_pirate_money: SUCCESS, -196
-get_pirate_money: SUCCESS, -91
-get_pirate_money: SUCCESS, -93
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -94
-get_pirate_money: SUCCESS, -90
-get_pirate_money: SUCCESS, -95
-get_pirate_money: SUCCESS, -97
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -98
-get_pirate_money: SUCCESS, -94
-get_pirate_money: SUCCESS, -99
-get_pirate_money: SUCCESS, -101
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -102
-get_pirate_money: SUCCESS, -98
-get_pirate_money: SUCCESS, -103
-get_pirate_money: SUCCESS, -105
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -106
-get_pirate_money: SUCCESS, -102
-get_pirate_money: SUCCESS, -107
-get_pirate_money: SUCCESS, -109
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -110
-get_pirate_money: SUCCESS, -106
-get_pirate_money: SUCCESS, -101
-get_pirate_money: SUCCESS, -103
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -104
-get_pirate_money: SUCCESS, -100
-get_pirate_money: SUCCESS, -105
-get_pirate_money: SUCCESS, -107
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -108
-get_pirate_money: SUCCESS, -104
-get_pirate_money: SUCCESS, -109
-get_pirate_money: SUCCESS, -111
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -112
-get_pirate_money: SUCCESS, -108
-get_pirate_money: SUCCESS, -113
-get_pirate_money: SUCCESS, -115
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -116
-get_pirate_money: SUCCESS, -112
-get_pirate_money: SUCCESS, -117
-get_pirate_money: SUCCESS, -119
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -120
-get_pirate_money: SUCCESS, -116
-get_pirate_money: SUCCESS, -111
-get_pirate_money: SUCCESS, -113
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -114
-get_pirate_money: SUCCESS, -110
-get_pirate_money: SUCCESS, -115
-get_pirate_money: SUCCESS, -117
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -118
-get_pirate_money: SUCCESS, -114
-get_pirate_money: SUCCESS, -119
-get_pirate_money: SUCCESS, -121
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -122
-get_pirate_money: SUCCESS, -118
-get_pirate_money: SUCCESS, -123
-get_pirate_money: SUCCESS, -125
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -126
-get_pirate_money: SUCCESS, -122
-get_pirate_money: SUCCESS, -127
-get_pirate_money: SUCCESS, -129
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -130
-get_pirate_money: SUCCESS, -126
-get_pirate_money: SUCCESS, -121
-get_pirate_money: SUCCESS, -123
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -124
-get_pirate_money: SUCCESS, -120
-get_pirate_money: SUCCESS, -125
-get_pirate_money: SUCCESS, -127
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -128
-get_pirate_money: SUCCESS, -124
-get_pirate_money: SUCCESS, -129
-get_pirate_money: SUCCESS, -131
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -132
-get_pirate_money: SUCCESS, -128
-get_pirate_money: SUCCESS, -133
-get_pirate_money: SUCCESS, -135
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -136
-get_pirate_money: SUCCESS, -132
-get_pirate_money: SUCCESS, -137
-get_pirate_money: SUCCESS, -139
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -140
-get_pirate_money: SUCCESS, -136
-get_pirate_money: SUCCESS, -131
-get_pirate_money: SUCCESS, -133
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -134
-get_pirate_money: SUCCESS, -130
-get_pirate_money: SUCCESS, -135
-get_pirate_money: SUCCESS, -137
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -138
-get_pirate_money: SUCCESS, -134
-get_pirate_money: SUCCESS, -139
-get_pirate_money: SUCCESS, -141
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -142
-get_pirate_money: SUCCESS, -138
-get_pirate_money: SUCCESS, -143
-get_pirate_money: SUCCESS, -145
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -146
-get_pirate_money: SUCCESS, -142
-get_pirate_money: SUCCESS, -147
-get_pirate_money: SUCCESS, -149
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -150
-get_pirate_money: SUCCESS, -146
-get_pirate_money: SUCCESS, -141
-get_pirate_money: SUCCESS, -143
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -144
-get_pirate_money: SUCCESS, -140
-get_pirate_money: SUCCESS, -145
-get_pirate_money: SUCCESS, -147
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -148
-get_pirate_money: SUCCESS, -144
-get_pirate_money: SUCCESS, -149
-get_pirate_money: SUCCESS, -151
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -152
-get_pirate_money: SUCCESS, -148
-get_pirate_money: SUCCESS, -153
-get_pirate_money: SUCCESS, -155
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -156
-get_pirate_money: SUCCESS, -152
-get_pirate_money: SUCCESS, -157
-get_pirate_money: SUCCESS, -159
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -160
-get_pirate_money: SUCCESS, -156
-get_pirate_money: SUCCESS, -151
-get_pirate_money: SUCCESS, -153
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -154
-get_pirate_money: SUCCESS, -150
-get_pirate_money: SUCCESS, -155
-get_pirate_money: SUCCESS, -157
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -158
-get_pirate_money: SUCCESS, -154
-get_pirate_money: SUCCESS, -159
-get_pirate_money: SUCCESS, -161
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -162
-get_pirate_money: SUCCESS, -158
-get_pirate_money: SUCCESS, -163
-get_pirate_money: SUCCESS, -165
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -166
-get_pirate_money: SUCCESS, -162
-get_pirate_money: SUCCESS, -167
-get_pirate_money: SUCCESS, -169
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -170
-get_pirate_money: SUCCESS, -166
-get_pirate_money: SUCCESS, -161
-get_pirate_money: SUCCESS, -163
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -164
-get_pirate_money: SUCCESS, -160
-get_pirate_money: SUCCESS, -165
-get_pirate_money: SUCCESS, -167
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -168
-get_pirate_money: SUCCESS, -164
-get_pirate_money: SUCCESS, -169
-get_pirate_money: SUCCESS, -171
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -172
-get_pirate_money: SUCCESS, -168
-get_pirate_money: SUCCESS, -173
-get_pirate_money: SUCCESS, -175
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -176
-get_pirate_money: SUCCESS, -172
-get_pirate_money: SUCCESS, -177
-get_pirate_money: SUCCESS, -179
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -180
-get_pirate_money: SUCCESS, -176
-get_pirate_money: SUCCESS, -171
-get_pirate_money: SUCCESS, -173
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -174
-get_pirate_money: SUCCESS, -170
-get_pirate_money: SUCCESS, -175
-get_pirate_money: SUCCESS, -177
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -178
-get_pirate_money: SUCCESS, -174
-get_pirate_money: SUCCESS, -179
-get_pirate_money: SUCCESS, -181
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -182
-get_pirate_money: SUCCESS, -178
-get_pirate_money: SUCCESS, -183
-get_pirate_money: SUCCESS, -185
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -186
-get_pirate_money: SUCCESS, -182
-get_pirate_money: SUCCESS, -187
-get_pirate_money: SUCCESS, -189
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -190
-get_pirate_money: SUCCESS, -186
-get_pirate_money: SUCCESS, -181
-get_pirate_money: SUCCESS, -183
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -184
-get_pirate_money: SUCCESS, -180
-get_pirate_money: SUCCESS, -185
-get_pirate_money: SUCCESS, -187
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -188
-get_pirate_money: SUCCESS, -184
-get_pirate_money: SUCCESS, -189
-get_pirate_money: SUCCESS, -191
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -192
-get_pirate_money: SUCCESS, -188
-get_pirate_money: SUCCESS, -193
-get_pirate_money: SUCCESS, -195
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -196
-get_pirate_money: SUCCESS, -192
-get_pirate_money: SUCCESS, -197
-get_pirate_money: SUCCESS, -199
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -200
-get_pirate_money: SUCCESS, -196
-get_pirate_money: SUCCESS, -91
-get_pirate_money: SUCCESS, -93
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -94
-get_pirate_money: SUCCESS, -90
-get_pirate_money: SUCCESS, -95
-get_pirate_money: SUCCESS, -97
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -98
-get_pirate_money: SUCCESS, -94
-get_pirate_money: SUCCESS, -99
-get_pirate_money: SUCCESS, -101
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -102
-get_pirate_money: SUCCESS, -98
-get_pirate_money: SUCCESS, -103
-get_pirate_money: SUCCESS, -105
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -106
-get_pirate_money: SUCCESS, -102
-get_pirate_money: SUCCESS, -107
-get_pirate_money: SUCCESS, -109
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -110
-get_pirate_money: SUCCESS, -106
-get_pirate_money: SUCCESS, -101
-get_pirate_money: SUCCESS, -103
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -104
-get_pirate_money: SUCCESS, -100
-get_pirate_money: SUCCESS, -105
-get_pirate_money: SUCCESS, -107
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -108
-get_pirate_money: SUCCESS, -104
-get_pirate_money: SUCCESS, -109
-get_pirate_money: SUCCESS, -111
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -112
-get_pirate_money: SUCCESS, -108
-get_pirate_money: SUCCESS, -113
-get_pirate_money: SUCCESS, -115
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -116
-get_pirate_money: SUCCESS, -112
-get_pirate_money: SUCCESS, -117
-get_pirate_money: SUCCESS, -119
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -120
-get_pirate_money: SUCCESS, -116
-get_pirate_money: SUCCESS, -111
-get_pirate_money: SUCCESS, -113
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -114
-get_pirate_money: SUCCESS, -110
-get_pirate_money: SUCCESS, -115
-get_pirate_money: SUCCESS, -117
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -118
-get_pirate_money: SUCCESS, -114
-get_pirate_money: SUCCESS, -119
-get_pirate_money: SUCCESS, -121
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -122
-get_pirate_money: SUCCESS, -118
-get_pirate_money: SUCCESS, -123
-get_pirate_money: SUCCESS, -125
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -126
-get_pirate_money: SUCCESS, -122
-get_pirate_money: SUCCESS, -127
-get_pirate_money: SUCCESS, -129
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -130
-get_pirate_money: SUCCESS, -126
-get_pirate_money: SUCCESS, -121
-get_pirate_money: SUCCESS, -123
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -124
-get_pirate_money: SUCCESS, -120
-get_pirate_money: SUCCESS, -125
-get_pirate_money: SUCCESS, -127
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -128
-get_pirate_money: SUCCESS, -124
-get_pirate_money: SUCCESS, -129
-get_pirate_money: SUCCESS, -131
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -132
-get_pirate_money: SUCCESS, -128
-get_pirate_money: SUCCESS, -133
-get_pirate_money: SUCCESS, -135
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -136
-get_pirate_money: SUCCESS, -132
-get_pirate_money: SUCCESS, -137
-get_pirate_money: SUCCESS, -139
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -140
-get_pirate_money: SUCCESS, -136
-get_pirate_money: SUCCESS, -131
-get_pirate_money: SUCCESS, -133
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -134
-get_pirate_money: SUCCESS, -130
-get_pirate_money: SUCCESS, -135
-get_pirate_money: SUCCESS, -137
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -138
-get_pirate_money: SUCCESS, -134
-get_pirate_money: SUCCESS, -139
-get_pirate_money: SUCCESS, -141
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -142
-get_pirate_money: SUCCESS, -138
-get_pirate_money: SUCCESS, -143
-get_pirate_money: SUCCESS, -145
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -146
-get_pirate_money: SUCCESS, -142
-get_pirate_money: SUCCESS, -147
-get_pirate_money: SUCCESS, -149
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -150
-get_pirate_money: SUCCESS, -146
-get_pirate_money: SUCCESS, -141
-get_pirate_money: SUCCESS, -143
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -144
-get_pirate_money: SUCCESS, -140
-get_pirate_money: SUCCESS, -145
-get_pirate_money: SUCCESS, -147
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -148
-get_pirate_money: SUCCESS, -144
-get_pirate_money: SUCCESS, -149
-get_pirate_money: SUCCESS, -151
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -152
-get_pirate_money: SUCCESS, -148
-get_pirate_money: SUCCESS, -153
-get_pirate_money: SUCCESS, -155
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -156
-get_pirate_money: SUCCESS, -152
-get_pirate_money: SUCCESS, -157
-get_pirate_money: SUCCESS, -159
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -160
-get_pirate_money: SUCCESS, -156
-get_pirate_money: SUCCESS, -151
-get_pirate_money: SUCCESS, -153
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -154
-get_pirate_money: SUCCESS, -150
-get_pirate_money: SUCCESS, -155
-get_pirate_money: SUCCESS, -157
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -158
-get_pirate_money: SUCCESS, -154
-get_pirate_money: SUCCESS, -159
-get_pirate_money: SUCCESS, -161
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -162
-get_pirate_money: SUCCESS, -158
-get_pirate_money: SUCCESS, -163
-get_pirate_money: SUCCESS, -165
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -166
-get_pirate_money: SUCCESS, -162
-get_pirate_money: SUCCESS, -167
-get_pirate_money: SUCCESS, -169
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -170
-get_pirate_money: SUCCESS, -166
-get_pirate_money: SUCCESS, -161
-get_pirate_money: SUCCESS, -163
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -164
-get_pirate_money: SUCCESS, -160
-get_pirate_money: SUCCESS, -165
-get_pirate_money: SUCCESS, -167
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -168
-get_pirate_money: SUCCESS, -164
-get_pirate_money: SUCCESS, -169
-get_pirate_money: SUCCESS, -171
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -172
-get_pirate_money: SUCCESS, -168
-get_pirate_money: SUCCESS, -173
-get_pirate_money: SUCCESS, -175
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -176
-get_pirate_money: SUCCESS, -172
-get_pirate_money: SUCCESS, -177
-get_pirate_money: SUCCESS, -179
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -180
-get_pirate_money: SUCCESS, -176
-get_pirate_money: SUCCESS, -171
-get_pirate_money: SUCCESS, -173
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -174
-get_pirate_money: SUCCESS, -170
-get_pirate_money: SUCCESS, -175
-get_pirate_money: SUCCESS, -177
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -178
-get_pirate_money: SUCCESS, -174
-get_pirate_money: SUCCESS, -179
-get_pirate_money: SUCCESS, -181
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -182
-get_pirate_money: SUCCESS, -178
-get_pirate_money: SUCCESS, -183
-get_pirate_money: SUCCESS, -185
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -186
-get_pirate_money: SUCCESS, -182
-get_pirate_money: SUCCESS, -187
-get_pirate_money: SUCCESS, -189
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -190
-get_pirate_money: SUCCESS, -186
-get_pirate_money: SUCCESS, -181
-get_pirate_money: SUCCESS, -183
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -184
-get_pirate_money: SUCCESS, -180
-get_pirate_money: SUCCESS, -185
-get_pirate_money: SUCCESS, -187
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -188
-get_pirate_money: SUCCESS, -184
-get_pirate_money: SUCCESS, -189
-get_pirate_money: SUCCESS, -191
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -192
-get_pirate_money: SUCCESS, -188
-get_pirate_money: SUCCESS, -193
-get_pirate_money: SUCCESS, -195
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -196
-get_pirate_money: SUCCESS, -192
-get_pirate_money: SUCCESS, -197
-get_pirate_money: SUCCESS, -199
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -200
-get_pirate_money: SUCCESS, -196
-get_pirate_money: SUCCESS, -91
-get_pirate_money: SUCCESS, -93
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -94
-get_pirate_money: SUCCESS, -90
-get_pirate_money: SUCCESS, -95
-get_pirate_money: SUCCESS, -97
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -98
-get_pirate_money: SUCCESS, -94
-get_pirate_money: SUCCESS, -99
-get_pirate_money: SUCCESS, -101
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -102
-get_pirate_money: SUCCESS, -98
-get_pirate_money: SUCCESS, -103
-get_pirate_money: SUCCESS, -105
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -106
-get_pirate_money: SUCCESS, -102
-get_pirate_money: SUCCESS, -107
-get_pirate_money: SUCCESS, -109
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -110
-get_pirate_money: SUCCESS, -106
-get_pirate_money: SUCCESS, -101
-get_pirate_money: SUCCESS, -103
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -104
-get_pirate_money: SUCCESS, -100
-get_pirate_money: SUCCESS, -105
-get_pirate_money: SUCCESS, -107
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -108
-get_pirate_money: SUCCESS, -104
-get_pirate_money: SUCCESS, -109
-get_pirate_money: SUCCESS, -111
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -112
-get_pirate_money: SUCCESS, -108
-get_pirate_money: SUCCESS, -113
-get_pirate_money: SUCCESS, -115
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -116
-get_pirate_money: SUCCESS, -112
-get_pirate_money: SUCCESS, -117
-get_pirate_money: SUCCESS, -119
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -120
-get_pirate_money: SUCCESS, -116
-get_pirate_money: SUCCESS, -111
-get_pirate_money: SUCCESS, -113
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -114
-get_pirate_money: SUCCESS, -110
-get_pirate_money: SUCCESS, -115
-get_pirate_money: SUCCESS, -117
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -118
-get_pirate_money: SUCCESS, -114
-get_pirate_money: SUCCESS, -119
-get_pirate_money: SUCCESS, -121
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -122
-get_pirate_money: SUCCESS, -118
-get_pirate_money: SUCCESS, -123
-get_pirate_money: SUCCESS, -125
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -126
-get_pirate_money: SUCCESS, -122
-get_pirate_money: SUCCESS, -127
-get_pirate_money: SUCCESS, -129
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -130
-get_pirate_money: SUCCESS, -126
-get_pirate_money: SUCCESS, -121
-get_pirate_money: SUCCESS, -123
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -124
-get_pirate_money: SUCCESS, -120
-get_pirate_money: SUCCESS, -125
-get_pirate_money: SUCCESS, -127
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -128
-get_pirate_money: SUCCESS, -124
-get_pirate_money: SUCCESS, -129
-get_pirate_money: SUCCESS, -131
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -132
-get_pirate_money: SUCCESS, -128
-get_pirate_money: SUCCESS, -133
-get_pirate_money: SUCCESS, -135
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -136
-get_pirate_money: SUCCESS, -132
-get_pirate_money: SUCCESS, -137
-get_pirate_money: SUCCESS, -139
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -140
-get_pirate_money: SUCCESS, -136
-get_pirate_money: SUCCESS, -131
-get_pirate_money: SUCCESS, -133
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -134
-get_pirate_money: SUCCESS, -130
-get_pirate_money: SUCCESS, -135
-get_pirate_money: SUCCESS, -137
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -138
-get_pirate_money: SUCCESS, -134
-get_pirate_money: SUCCESS, -139
-get_pirate_money: SUCCESS, -141
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -142
-get_pirate_money: SUCCESS, -138
-get_pirate_money: SUCCESS, -143
-get_pirate_money: SUCCESS, -145
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -146
-get_pirate_money: SUCCESS, -142
-get_pirate_money: SUCCESS, -147
-get_pirate_money: SUCCESS, -149
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -150
-get_pirate_money: SUCCESS, -146
-get_pirate_money: SUCCESS, -141
-get_pirate_money: SUCCESS, -143
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -144
-get_pirate_money: SUCCESS, -140
-get_pirate_money: SUCCESS, -145
-get_pirate_money: SUCCESS, -147
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -148
-get_pirate_money: SUCCESS, -144
-get_pirate_money: SUCCESS, -149
-get_pirate_money: SUCCESS, -151
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -152
-get_pirate_money: SUCCESS, -148
-get_pirate_money: SUCCESS, -153
-get_pirate_money: SUCCESS, -155
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -156
-get_pirate_money: SUCCESS, -152
-get_pirate_money: SUCCESS, -157
-get_pirate_money: SUCCESS, -159
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -160
-get_pirate_money: SUCCESS, -156
-get_pirate_money: SUCCESS, -151
-get_pirate_money: SUCCESS, -153
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -154
-get_pirate_money: SUCCESS, -150
-get_pirate_money: SUCCESS, -155
-get_pirate_money: SUCCESS, -157
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -158
-get_pirate_money: SUCCESS, -154
-get_pirate_money: SUCCESS, -159
-get_pirate_money: SUCCESS, -161
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -162
-get_pirate_money: SUCCESS, -158
-get_pirate_money: SUCCESS, -163
-get_pirate_money: SUCCESS, -165
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -166
-get_pirate_money: SUCCESS, -162
-get_pirate_money: SUCCESS, -167
-get_pirate_money: SUCCESS, -169
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -170
-get_pirate_money: SUCCESS, -166
-get_pirate_money: SUCCESS, -161
-get_pirate_money: SUCCESS, -163
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -164
-get_pirate_money: SUCCESS, -160
-get_pirate_money: SUCCESS, -165
-get_pirate_money: SUCCESS, -167
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -168
-get_pirate_money: SUCCESS, -164
-get_pirate_money: SUCCESS, -169
-get_pirate_money: SUCCESS, -171
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -172
-get_pirate_money: SUCCESS, -168
-get_pirate_money: SUCCESS, -173
-get_pirate_money: SUCCESS, -175
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -176
-get_pirate_money: SUCCESS, -172
-get_pirate_money: SUCCESS, -177
-get_pirate_money: SUCCESS, -179
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -180
-get_pirate_money: SUCCESS, -176
-get_pirate_money: SUCCESS, -171
-get_pirate_money: SUCCESS, -173
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -174
-get_pirate_money: SUCCESS, -170
-get_pirate_money: SUCCESS, -175
-get_pirate_money: SUCCESS, -177
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -178
-get_pirate_money: SUCCESS, -174
-get_pirate_money: SUCCESS, -179
-get_pirate_money: SUCCESS, -181
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -182
-get_pirate_money: SUCCESS, -178
-get_pirate_money: SUCCESS, -183
-get_pirate_money: SUCCESS, -185
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -186
-get_pirate_money: SUCCESS, -182
-get_pirate_money: SUCCESS, -187
-get_pirate_money: SUCCESS, -189
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -190
-get_pirate_money: SUCCESS, -186
-get_pirate_money: SUCCESS, -181
-get_pirate_money: SUCCESS, -183
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -184
-get_pirate_money: SUCCESS, -180
-get_pirate_money: SUCCESS, -185
-get_pirate_money: SUCCESS, -187
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -188
-get_pirate_money: SUCCESS, -184
-get_pirate_money: SUCCESS, -189
-get_pirate_money: SUCCESS, -191
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -192
-get_pirate_money: SUCCESS, -188
-get_pirate_money: SUCCESS, -193
-get_pirate_money: SUCCESS, -195
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -196
-get_pirate_money: SUCCESS, -192
-get_pirate_money: SUCCESS, -197
-get_pirate_money: SUCCESS, -199
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -200
-get_pirate_money: SUCCESS, -196
-get_pirate_money: SUCCESS, -91
-get_pirate_money: SUCCESS, -93
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -94
-get_pirate_money: SUCCESS, -90
-get_pirate_money: SUCCESS, -95
-get_pirate_money: SUCCESS, -97
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -98
-get_pirate_money: SUCCESS, -94
-get_pirate_money: SUCCESS, -99
-get_pirate_money: SUCCESS, -101
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -102
-get_pirate_money: SUCCESS, -98
-get_pirate_money: SUCCESS, -103
-get_pirate_money: SUCCESS, -105
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -106
-get_pirate_money: SUCCESS, -102
-get_pirate_money: SUCCESS, -107
-get_pirate_money: SUCCESS, -109
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -110
-get_pirate_money: SUCCESS, -106
-get_pirate_money: SUCCESS, -101
-get_pirate_money: SUCCESS, -103
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -104
-get_pirate_money: SUCCESS, -100
-get_pirate_money: SUCCESS, -105
-get_pirate_money: SUCCESS, -107
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -108
-get_pirate_money: SUCCESS, -104
-get_pirate_money: SUCCESS, -109
-get_pirate_money: SUCCESS, -111
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -112
-get_pirate_money: SUCCESS, -108
-get_pirate_money: SUCCESS, -113
-get_pirate_money: SUCCESS, -115
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -116
-get_pirate_money: SUCCESS, -112
-get_pirate_money: SUCCESS, -117
-get_pirate_money: SUCCESS, -119
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -120
-get_pirate_money: SUCCESS, -116
-get_pirate_money: SUCCESS, -111
-get_pirate_money: SUCCESS, -113
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -114
-get_pirate_money: SUCCESS, -110
-get_pirate_money: SUCCESS, -115
-get_pirate_money: SUCCESS, -117
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -118
-get_pirate_money: SUCCESS, -114
-get_pirate_money: SUCCESS, -119
-get_pirate_money: SUCCESS, -121
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -122
-get_pirate_money: SUCCESS, -118
-get_pirate_money: SUCCESS, -123
-get_pirate_money: SUCCESS, -125
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -126
-get_pirate_money: SUCCESS, -122
-get_pirate_money: SUCCESS, -127
-get_pirate_money: SUCCESS, -129
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -130
-get_pirate_money: SUCCESS, -126
-get_pirate_money: SUCCESS, -121
-get_pirate_money: SUCCESS, -123
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -124
-get_pirate_money: SUCCESS, -120
-get_pirate_money: SUCCESS, -125
-get_pirate_money: SUCCESS, -127
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -128
-get_pirate_money: SUCCESS, -124
-get_pirate_money: SUCCESS, -129
-get_pirate_money: SUCCESS, -131
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -132
-get_pirate_money: SUCCESS, -128
-get_pirate_money: SUCCESS, -133
-get_pirate_money: SUCCESS, -135
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -136
-get_pirate_money: SUCCESS, -132
-get_pirate_money: SUCCESS, -137
-get_pirate_money: SUCCESS, -139
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -140
-get_pirate_money: SUCCESS, -136
-get_pirate_money: SUCCESS, -131
-get_pirate_money: SUCCESS, -133
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -134
-get_pirate_money: SUCCESS, -130
-get_pirate_money: SUCCESS, -135
-get_pirate_money: SUCCESS, -137
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -138
-get_pirate_money: SUCCESS, -134
-get_pirate_money: SUCCESS, -139
-get_pirate_money: SUCCESS, -141
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -142
-get_pirate_money: SUCCESS, -138
-get_pirate_money: SUCCESS, -143
-get_pirate_money: SUCCESS, -145
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -146
-get_pirate_money: SUCCESS, -142
-get_pirate_money: SUCCESS, -147
-get_pirate_money: SUCCESS, -149
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -150
-get_pirate_money: SUCCESS, -146
-get_pirate_money: SUCCESS, -141
-get_pirate_money: SUCCESS, -143
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -144
-get_pirate_money: SUCCESS, -140
-get_pirate_money: SUCCESS, -145
-get_pirate_money: SUCCESS, -147
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -148
-get_pirate_money: SUCCESS, -144
-get_pirate_money: SUCCESS, -149
-get_pirate_money: SUCCESS, -151
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -152
-get_pirate_money: SUCCESS, -148
-get_pirate_money: SUCCESS, -153
-get_pirate_money: SUCCESS, -155
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -156
-get_pirate_money: SUCCESS, -152
-get_pirate_money: SUCCESS, -157
-get_pirate_money: SUCCESS, -159
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -160
-get_pirate_money: SUCCESS, -156
-get_pirate_money: SUCCESS, -151
-get_pirate_money: SUCCESS, -153
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -154
-get_pirate_money: SUCCESS, -150
-get_pirate_money: SUCCESS, -155
-get_pirate_money: SUCCESS, -157
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -158
-get_pirate_money: SUCCESS, -154
-get_pirate_money: SUCCESS, -159
-get_pirate_money: SUCCESS, -161
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -162
-get_pirate_money: SUCCESS, -158
-get_pirate_money: SUCCESS, -163
-get_pirate_money: SUCCESS, -165
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -166
-get_pirate_money: SUCCESS, -162
-get_pirate_money: SUCCESS, -167
-get_pirate_money: SUCCESS, -169
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -170
-get_pirate_money: SUCCESS, -166
-get_pirate_money: SUCCESS, -161
-get_pirate_money: SUCCESS, -163
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -164
-get_pirate_money: SUCCESS, -160
-get_pirate_money: SUCCESS, -165
-get_pirate_money: SUCCESS, -167
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -168
-get_pirate_money: SUCCESS, -164
-get_pirate_money: SUCCESS, -169
-get_pirate_money: SUCCESS, -171
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -172
-get_pirate_money: SUCCESS, -168
-get_pirate_money: SUCCESS, -173
-get_pirate_money: SUCCESS, -175
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -176
-get_pirate_money: SUCCESS, -172
-get_pirate_money: SUCCESS, -177
-get_pirate_money: SUCCESS, -179
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -180
-get_pirate_money: SUCCESS, -176
-get_pirate_money: SUCCESS, -171
-get_pirate_money: SUCCESS, -173
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -174
-get_pirate_money: SUCCESS, -170
-get_pirate_money: SUCCESS, -175
-get_pirate_money: SUCCESS, -177
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -178
-get_pirate_money: SUCCESS, -174
-get_pirate_money: SUCCESS, -179
-get_pirate_money: SUCCESS, -181
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -182
-get_pirate_money: SUCCESS, -178
-get_pirate_money: SUCCESS, -183
-get_pirate_money: SUCCESS, -185
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -186
-get_pirate_money: SUCCESS, -182
-get_pirate_money: SUCCESS, -187
-get_pirate_money: SUCCESS, -189
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -190
-get_pirate_money: SUCCESS, -186
-get_pirate_money: SUCCESS, -181
-get_pirate_money: SUCCESS, -183
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -184
-get_pirate_money: SUCCESS, -180
-get_pirate_money: SUCCESS, -185
-get_pirate_money: SUCCESS, -187
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -188
-get_pirate_money: SUCCESS, -184
-get_pirate_money: SUCCESS, -189
-get_pirate_money: SUCCESS, -191
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -192
-get_pirate_money: SUCCESS, -188
-get_pirate_money: SUCCESS, -193
-get_pirate_money: SUCCESS, -195
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -196
-get_pirate_money: SUCCESS, -192
-get_pirate_money: SUCCESS, -197
-get_pirate_money: SUCCESS, -199
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -200
-get_pirate_money: SUCCESS, -196
-get_pirate_money: SUCCESS, -91
-get_pirate_money: SUCCESS, -93
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -94
-get_pirate_money: SUCCESS, -90
-get_pirate_money: SUCCESS, -95
-get_pirate_money: SUCCESS, -97
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -98
-get_pirate_money: SUCCESS, -94
-get_pirate_money: SUCCESS, -99
-get_pirate_money: SUCCESS, -101
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -102
-get_pirate_money: SUCCESS, -98
-get_pirate_money: SUCCESS, -103
-get_pirate_money: SUCCESS, -105
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -106
-get_pirate_money: SUCCESS, -102
-get_pirate_money: SUCCESS, -107
-get_pirate_money: SUCCESS, -109
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -110
-get_pirate_money: SUCCESS, -106
-get_pirate_money: SUCCESS, -101
-get_pirate_money: SUCCESS, -103
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -104
-get_pirate_money: SUCCESS, -100
-get_pirate_money: SUCCESS, -105
-get_pirate_money: SUCCESS, -107
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -108
-get_pirate_money: SUCCESS, -104
-get_pirate_money: SUCCESS, -109
-get_pirate_money: SUCCESS, -111
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -112
-get_pirate_money: SUCCESS, -108
-get_pirate_money: SUCCESS, -113
-get_pirate_money: SUCCESS, -115
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -116
-get_pirate_money: SUCCESS, -112
-get_pirate_money: SUCCESS, -117
-get_pirate_money: SUCCESS, -119
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -120
-get_pirate_money: SUCCESS, -116
-get_pirate_money: SUCCESS, -111
-get_pirate_money: SUCCESS, -113
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -114
-get_pirate_money: SUCCESS, -110
-get_pirate_money: SUCCESS, -115
-get_pirate_money: SUCCESS, -117
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -118
-get_pirate_money: SUCCESS, -114
-get_pirate_money: SUCCESS, -119
-get_pirate_money: SUCCESS, -121
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -122
-get_pirate_money: SUCCESS, -118
-get_pirate_money: SUCCESS, -123
-get_pirate_money: SUCCESS, -125
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -126
-get_pirate_money: SUCCESS, -122
-get_pirate_money: SUCCESS, -127
-get_pirate_money: SUCCESS, -129
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -130
-get_pirate_money: SUCCESS, -126
-get_pirate_money: SUCCESS, -121
-get_pirate_money: SUCCESS, -123
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -124
-get_pirate_money: SUCCESS, -120
-get_pirate_money: SUCCESS, -125
-get_pirate_money: SUCCESS, -127
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -128
-get_pirate_money: SUCCESS, -124
-get_pirate_money: SUCCESS, -129
-get_pirate_money: SUCCESS, -131
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -132
-get_pirate_money: SUCCESS, -128
-get_pirate_money: SUCCESS, -133
-get_pirate_money: SUCCESS, -135
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -136
-get_pirate_money: SUCCESS, -132
-get_pirate_money: SUCCESS, -137
-get_pirate_money: SUCCESS, -139
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -140
-get_pirate_money: SUCCESS, -136
-get_pirate_money: SUCCESS, -131
-get_pirate_money: SUCCESS, -133
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -134
-get_pirate_money: SUCCESS, -130
-get_pirate_money: SUCCESS, -135
-get_pirate_money: SUCCESS, -137
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -138
-get_pirate_money: SUCCESS, -134
-get_pirate_money: SUCCESS, -139
-get_pirate_money: SUCCESS, -141
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -142
-get_pirate_money: SUCCESS, -138
-get_pirate_money: SUCCESS, -143
-get_pirate_money: SUCCESS, -145
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -146
-get_pirate_money: SUCCESS, -142
-get_pirate_money: SUCCESS, -147
-get_pirate_money: SUCCESS, -149
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -150
-get_pirate_money: SUCCESS, -146
-get_pirate_money: SUCCESS, -141
-get_pirate_money: SUCCESS, -143
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -144
-get_pirate_money: SUCCESS, -140
-get_pirate_money: SUCCESS, -145
-get_pirate_money: SUCCESS, -147
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -148
-get_pirate_money: SUCCESS, -144
-get_pirate_money: SUCCESS, -149
-get_pirate_money: SUCCESS, -151
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -152
-get_pirate_money: SUCCESS, -148
-get_pirate_money: SUCCESS, -153
-get_pirate_money: SUCCESS, -155
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -156
-get_pirate_money: SUCCESS, -152
-get_pirate_money: SUCCESS, -157
-get_pirate_money: SUCCESS, -159
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -160
-get_pirate_money: SUCCESS, -156
-get_pirate_money: SUCCESS, -151
-get_pirate_money: SUCCESS, -153
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -154
-get_pirate_money: SUCCESS, -150
-get_pirate_money: SUCCESS, -155
-get_pirate_money: SUCCESS, -157
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -158
-get_pirate_money: SUCCESS, -154
-get_pirate_money: SUCCESS, -159
-get_pirate_money: SUCCESS, -161
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -162
-get_pirate_money: SUCCESS, -158
-get_pirate_money: SUCCESS, -163
-get_pirate_money: SUCCESS, -165
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -166
-get_pirate_money: SUCCESS, -162
-get_pirate_money: SUCCESS, -167
-get_pirate_money: SUCCESS, -169
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -170
-get_pirate_money: SUCCESS, -166
-get_pirate_money: SUCCESS, -161
-get_pirate_money: SUCCESS, -163
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -164
-get_pirate_money: SUCCESS, -160
-get_pirate_money: SUCCESS, -165
-get_pirate_money: SUCCESS, -167
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -168
-get_pirate_money: SUCCESS, -164
-get_pirate_money: SUCCESS, -169
-get_pirate_money: SUCCESS, -171
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -172
-get_pirate_money: SUCCESS, -168
-get_pirate_money: SUCCESS, -173
-get_pirate_money: SUCCESS, -175
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -176
-get_pirate_money: SUCCESS, -172
-get_pirate_money: SUCCESS, -177
-get_pirate_money: SUCCESS, -179
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -180
-get_pirate_money: SUCCESS, -176
-get_pirate_money: SUCCESS, -171
-get_pirate_money: SUCCESS, -173
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -174
-get_pirate_money: SUCCESS, -170
-get_pirate_money: SUCCESS, -175
-get_pirate_money: SUCCESS, -177
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -178
-get_pirate_money: SUCCESS, -174
-get_pirate_money: SUCCESS, -179
-get_pirate_money: SUCCESS, -181
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -182
-get_pirate_money: SUCCESS, -178
-get_pirate_money: SUCCESS, -183
-get_pirate_money: SUCCESS, -185
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -186
-get_pirate_money: SUCCESS, -182
-get_pirate_money: SUCCESS, -187
-get_pirate_money: SUCCESS, -189
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -190
-get_pirate_money: SUCCESS, -186
-get_pirate_money: SUCCESS, -181
-get_pirate_money: SUCCESS, -183
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -184
-get_pirate_money: SUCCESS, -180
-get_pirate_money: SUCCESS, -185
-get_pirate_money: SUCCESS, -187
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -188
-get_pirate_money: SUCCESS, -184
-get_pirate_money: SUCCESS, -189
-get_pirate_money: SUCCESS, -191
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -192
-get_pirate_money: SUCCESS, -188
-get_pirate_money: SUCCESS, -193
-get_pirate_money: SUCCESS, -195
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -196
-get_pirate_money: SUCCESS, -192
-get_pirate_money: SUCCESS, -197
-get_pirate_money: SUCCESS, -199
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -200
-get_pirate_money: SUCCESS, -196
-get_pirate_money: SUCCESS, -91
-get_pirate_money: SUCCESS, -93
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -94
-get_pirate_money: SUCCESS, -90
-get_pirate_money: SUCCESS, -95
-get_pirate_money: SUCCESS, -97
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -98
-get_pirate_money: SUCCESS, -94
-get_pirate_money: SUCCESS, -99
-get_pirate_money: SUCCESS, -101
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -102
-get_pirate_money: SUCCESS, -98
-get_pirate_money: SUCCESS, -103
-get_pirate_money: SUCCESS, -105
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -106
-get_pirate_money: SUCCESS, -102
-get_pirate_money: SUCCESS, -107
-get_pirate_money: SUCCESS, -109
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -110
-get_pirate_money: SUCCESS, -106
+get_pirate_money: SUCCESS, -205
+get_pirate_money: SUCCESS, -207
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -208
+get_pirate_money: SUCCESS, -204
+get_pirate_money: SUCCESS, -209
+get_pirate_money: SUCCESS, -211
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -212
+get_pirate_money: SUCCESS, -208
+get_pirate_money: SUCCESS, -213
+get_pirate_money: SUCCESS, -215
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -216
+get_pirate_money: SUCCESS, -212
+get_pirate_money: SUCCESS, -217
+get_pirate_money: SUCCESS, -219
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -220
+get_pirate_money: SUCCESS, -216
+get_pirate_money: SUCCESS, -211
+get_pirate_money: SUCCESS, -213
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -214
+get_pirate_money: SUCCESS, -210
+get_pirate_money: SUCCESS, -215
+get_pirate_money: SUCCESS, -217
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -218
+get_pirate_money: SUCCESS, -214
+get_pirate_money: SUCCESS, -219
+get_pirate_money: SUCCESS, -221
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -222
+get_pirate_money: SUCCESS, -218
+get_pirate_money: SUCCESS, -223
+get_pirate_money: SUCCESS, -225
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -226
+get_pirate_money: SUCCESS, -222
+get_pirate_money: SUCCESS, -227
+get_pirate_money: SUCCESS, -229
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -230
+get_pirate_money: SUCCESS, -226
+get_pirate_money: SUCCESS, -221
+get_pirate_money: SUCCESS, -223
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -224
+get_pirate_money: SUCCESS, -220
+get_pirate_money: SUCCESS, -225
+get_pirate_money: SUCCESS, -227
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -228
+get_pirate_money: SUCCESS, -224
+get_pirate_money: SUCCESS, -229
+get_pirate_money: SUCCESS, -231
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -232
+get_pirate_money: SUCCESS, -228
+get_pirate_money: SUCCESS, -233
+get_pirate_money: SUCCESS, -235
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -236
+get_pirate_money: SUCCESS, -232
+get_pirate_money: SUCCESS, -237
+get_pirate_money: SUCCESS, -239
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -240
+get_pirate_money: SUCCESS, -236
+get_pirate_money: SUCCESS, -231
+get_pirate_money: SUCCESS, -233
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -234
+get_pirate_money: SUCCESS, -230
+get_pirate_money: SUCCESS, -235
+get_pirate_money: SUCCESS, -237
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -238
+get_pirate_money: SUCCESS, -234
+get_pirate_money: SUCCESS, -239
+get_pirate_money: SUCCESS, -241
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -242
+get_pirate_money: SUCCESS, -238
+get_pirate_money: SUCCESS, -243
+get_pirate_money: SUCCESS, -245
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -246
+get_pirate_money: SUCCESS, -242
+get_pirate_money: SUCCESS, -247
+get_pirate_money: SUCCESS, -249
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -250
+get_pirate_money: SUCCESS, -246
+get_pirate_money: SUCCESS, -241
+get_pirate_money: SUCCESS, -243
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -244
+get_pirate_money: SUCCESS, -240
+get_pirate_money: SUCCESS, -245
+get_pirate_money: SUCCESS, -247
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -248
+get_pirate_money: SUCCESS, -244
+get_pirate_money: SUCCESS, -249
+get_pirate_money: SUCCESS, -251
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -252
+get_pirate_money: SUCCESS, -248
+get_pirate_money: SUCCESS, -253
+get_pirate_money: SUCCESS, -255
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -256
+get_pirate_money: SUCCESS, -252
+get_pirate_money: SUCCESS, -257
+get_pirate_money: SUCCESS, -259
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -260
+get_pirate_money: SUCCESS, -256
+get_pirate_money: SUCCESS, -251
+get_pirate_money: SUCCESS, -253
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -254
+get_pirate_money: SUCCESS, -250
+get_pirate_money: SUCCESS, -255
+get_pirate_money: SUCCESS, -257
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -258
+get_pirate_money: SUCCESS, -254
+get_pirate_money: SUCCESS, -259
+get_pirate_money: SUCCESS, -261
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -262
+get_pirate_money: SUCCESS, -258
+get_pirate_money: SUCCESS, -263
+get_pirate_money: SUCCESS, -265
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -266
+get_pirate_money: SUCCESS, -262
+get_pirate_money: SUCCESS, -267
+get_pirate_money: SUCCESS, -269
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -270
+get_pirate_money: SUCCESS, -266
+get_pirate_money: SUCCESS, -261
+get_pirate_money: SUCCESS, -263
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -264
+get_pirate_money: SUCCESS, -260
+get_pirate_money: SUCCESS, -265
+get_pirate_money: SUCCESS, -267
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -268
+get_pirate_money: SUCCESS, -264
+get_pirate_money: SUCCESS, -269
+get_pirate_money: SUCCESS, -271
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -272
+get_pirate_money: SUCCESS, -268
+get_pirate_money: SUCCESS, -273
+get_pirate_money: SUCCESS, -275
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -276
+get_pirate_money: SUCCESS, -272
+get_pirate_money: SUCCESS, -277
+get_pirate_money: SUCCESS, -279
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -280
+get_pirate_money: SUCCESS, -276
+get_pirate_money: SUCCESS, -271
+get_pirate_money: SUCCESS, -273
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -274
+get_pirate_money: SUCCESS, -270
+get_pirate_money: SUCCESS, -275
+get_pirate_money: SUCCESS, -277
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -278
+get_pirate_money: SUCCESS, -274
+get_pirate_money: SUCCESS, -279
+get_pirate_money: SUCCESS, -281
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -282
+get_pirate_money: SUCCESS, -278
+get_pirate_money: SUCCESS, -283
+get_pirate_money: SUCCESS, -285
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -286
+get_pirate_money: SUCCESS, -282
+get_pirate_money: SUCCESS, -287
+get_pirate_money: SUCCESS, -289
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -290
+get_pirate_money: SUCCESS, -286
+get_pirate_money: SUCCESS, -281
+get_pirate_money: SUCCESS, -283
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -284
+get_pirate_money: SUCCESS, -280
+get_pirate_money: SUCCESS, -285
+get_pirate_money: SUCCESS, -287
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -288
+get_pirate_money: SUCCESS, -284
+get_pirate_money: SUCCESS, -289
+get_pirate_money: SUCCESS, -291
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -292
+get_pirate_money: SUCCESS, -288
+get_pirate_money: SUCCESS, -293
+get_pirate_money: SUCCESS, -295
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -296
+get_pirate_money: SUCCESS, -292
+get_pirate_money: SUCCESS, -297
+get_pirate_money: SUCCESS, -299
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -300
+get_pirate_money: SUCCESS, -296
+get_pirate_money: SUCCESS, -291
+get_pirate_money: SUCCESS, -293
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -294
+get_pirate_money: SUCCESS, -290
+get_pirate_money: SUCCESS, -295
+get_pirate_money: SUCCESS, -297
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -298
+get_pirate_money: SUCCESS, -294
+get_pirate_money: SUCCESS, -299
+get_pirate_money: SUCCESS, -301
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -302
+get_pirate_money: SUCCESS, -298
+get_pirate_money: SUCCESS, -303
+get_pirate_money: SUCCESS, -305
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -306
+get_pirate_money: SUCCESS, -302
+get_pirate_money: SUCCESS, -307
+get_pirate_money: SUCCESS, -309
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -310
+get_pirate_money: SUCCESS, -306
+get_pirate_money: SUCCESS, -301
+get_pirate_money: SUCCESS, -303
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -304
+get_pirate_money: SUCCESS, -300
+get_pirate_money: SUCCESS, -305
+get_pirate_money: SUCCESS, -307
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -308
+get_pirate_money: SUCCESS, -304
+get_pirate_money: SUCCESS, -309
+get_pirate_money: SUCCESS, -311
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -312
+get_pirate_money: SUCCESS, -308
+get_pirate_money: SUCCESS, -313
+get_pirate_money: SUCCESS, -315
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -316
+get_pirate_money: SUCCESS, -312
+get_pirate_money: SUCCESS, -317
+get_pirate_money: SUCCESS, -319
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -320
+get_pirate_money: SUCCESS, -316
+get_pirate_money: SUCCESS, -311
+get_pirate_money: SUCCESS, -313
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -314
+get_pirate_money: SUCCESS, -310
+get_pirate_money: SUCCESS, -315
+get_pirate_money: SUCCESS, -317
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -318
+get_pirate_money: SUCCESS, -314
+get_pirate_money: SUCCESS, -319
+get_pirate_money: SUCCESS, -321
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -322
+get_pirate_money: SUCCESS, -318
+get_pirate_money: SUCCESS, -323
+get_pirate_money: SUCCESS, -325
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -326
+get_pirate_money: SUCCESS, -322
+get_pirate_money: SUCCESS, -327
+get_pirate_money: SUCCESS, -329
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -330
+get_pirate_money: SUCCESS, -326
+get_pirate_money: SUCCESS, -321
+get_pirate_money: SUCCESS, -323
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -324
+get_pirate_money: SUCCESS, -320
+get_pirate_money: SUCCESS, -325
+get_pirate_money: SUCCESS, -327
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -328
+get_pirate_money: SUCCESS, -324
+get_pirate_money: SUCCESS, -329
+get_pirate_money: SUCCESS, -331
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -332
+get_pirate_money: SUCCESS, -328
+get_pirate_money: SUCCESS, -333
+get_pirate_money: SUCCESS, -335
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -336
+get_pirate_money: SUCCESS, -332
+get_pirate_money: SUCCESS, -337
+get_pirate_money: SUCCESS, -339
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -340
+get_pirate_money: SUCCESS, -336
+get_pirate_money: SUCCESS, -331
+get_pirate_money: SUCCESS, -333
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -334
+get_pirate_money: SUCCESS, -330
+get_pirate_money: SUCCESS, -335
+get_pirate_money: SUCCESS, -337
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -338
+get_pirate_money: SUCCESS, -334
+get_pirate_money: SUCCESS, -339
+get_pirate_money: SUCCESS, -341
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -342
+get_pirate_money: SUCCESS, -338
+get_pirate_money: SUCCESS, -343
+get_pirate_money: SUCCESS, -345
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -346
+get_pirate_money: SUCCESS, -342
+get_pirate_money: SUCCESS, -347
+get_pirate_money: SUCCESS, -349
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -350
+get_pirate_money: SUCCESS, -346
+get_pirate_money: SUCCESS, -341
+get_pirate_money: SUCCESS, -343
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -344
+get_pirate_money: SUCCESS, -340
+get_pirate_money: SUCCESS, -345
+get_pirate_money: SUCCESS, -347
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -348
+get_pirate_money: SUCCESS, -344
+get_pirate_money: SUCCESS, -349
+get_pirate_money: SUCCESS, -351
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -352
+get_pirate_money: SUCCESS, -348
+get_pirate_money: SUCCESS, -353
+get_pirate_money: SUCCESS, -355
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -356
+get_pirate_money: SUCCESS, -352
+get_pirate_money: SUCCESS, -357
+get_pirate_money: SUCCESS, -359
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -360
+get_pirate_money: SUCCESS, -356
+get_pirate_money: SUCCESS, -351
+get_pirate_money: SUCCESS, -353
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -354
+get_pirate_money: SUCCESS, -350
+get_pirate_money: SUCCESS, -355
+get_pirate_money: SUCCESS, -357
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -358
+get_pirate_money: SUCCESS, -354
+get_pirate_money: SUCCESS, -359
+get_pirate_money: SUCCESS, -361
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -362
+get_pirate_money: SUCCESS, -358
+get_pirate_money: SUCCESS, -363
+get_pirate_money: SUCCESS, -365
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -366
+get_pirate_money: SUCCESS, -362
+get_pirate_money: SUCCESS, -367
+get_pirate_money: SUCCESS, -369
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -370
+get_pirate_money: SUCCESS, -366
+get_pirate_money: SUCCESS, -361
+get_pirate_money: SUCCESS, -363
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -364
+get_pirate_money: SUCCESS, -360
+get_pirate_money: SUCCESS, -365
+get_pirate_money: SUCCESS, -367
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -368
+get_pirate_money: SUCCESS, -364
+get_pirate_money: SUCCESS, -369
+get_pirate_money: SUCCESS, -371
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -372
+get_pirate_money: SUCCESS, -368
+get_pirate_money: SUCCESS, -373
+get_pirate_money: SUCCESS, -375
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -376
+get_pirate_money: SUCCESS, -372
+get_pirate_money: SUCCESS, -377
+get_pirate_money: SUCCESS, -379
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -380
+get_pirate_money: SUCCESS, -376
+get_pirate_money: SUCCESS, -371
+get_pirate_money: SUCCESS, -373
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -374
+get_pirate_money: SUCCESS, -370
+get_pirate_money: SUCCESS, -375
+get_pirate_money: SUCCESS, -377
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -378
+get_pirate_money: SUCCESS, -374
+get_pirate_money: SUCCESS, -379
+get_pirate_money: SUCCESS, -381
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -382
+get_pirate_money: SUCCESS, -378
+get_pirate_money: SUCCESS, -383
+get_pirate_money: SUCCESS, -385
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -386
+get_pirate_money: SUCCESS, -382
+get_pirate_money: SUCCESS, -387
+get_pirate_money: SUCCESS, -389
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -390
+get_pirate_money: SUCCESS, -386
+get_pirate_money: SUCCESS, -381
+get_pirate_money: SUCCESS, -383
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -384
+get_pirate_money: SUCCESS, -380
+get_pirate_money: SUCCESS, -385
+get_pirate_money: SUCCESS, -387
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -388
+get_pirate_money: SUCCESS, -384
+get_pirate_money: SUCCESS, -389
+get_pirate_money: SUCCESS, -391
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -392
+get_pirate_money: SUCCESS, -388
+get_pirate_money: SUCCESS, -393
+get_pirate_money: SUCCESS, -395
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -396
+get_pirate_money: SUCCESS, -392
+get_pirate_money: SUCCESS, -397
+get_pirate_money: SUCCESS, -399
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -400
+get_pirate_money: SUCCESS, -396
+get_pirate_money: SUCCESS, -391
+get_pirate_money: SUCCESS, -393
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -394
+get_pirate_money: SUCCESS, -390
+get_pirate_money: SUCCESS, -395
+get_pirate_money: SUCCESS, -397
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -398
+get_pirate_money: SUCCESS, -394
+get_pirate_money: SUCCESS, -399
+get_pirate_money: SUCCESS, -401
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -402
+get_pirate_money: SUCCESS, -398
+get_pirate_money: SUCCESS, -403
+get_pirate_money: SUCCESS, -405
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -406
+get_pirate_money: SUCCESS, -402
+get_pirate_money: SUCCESS, -407
+get_pirate_money: SUCCESS, -409
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -410
+get_pirate_money: SUCCESS, -406
+get_pirate_money: SUCCESS, -401
+get_pirate_money: SUCCESS, -403
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -404
+get_pirate_money: SUCCESS, -400
+get_pirate_money: SUCCESS, -405
+get_pirate_money: SUCCESS, -407
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -408
+get_pirate_money: SUCCESS, -404
+get_pirate_money: SUCCESS, -409
+get_pirate_money: SUCCESS, -411
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -412
+get_pirate_money: SUCCESS, -408
+get_pirate_money: SUCCESS, -413
+get_pirate_money: SUCCESS, -415
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -416
+get_pirate_money: SUCCESS, -412
+get_pirate_money: SUCCESS, -417
+get_pirate_money: SUCCESS, -419
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -420
+get_pirate_money: SUCCESS, -416
+get_pirate_money: SUCCESS, -411
+get_pirate_money: SUCCESS, -413
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -414
+get_pirate_money: SUCCESS, -410
+get_pirate_money: SUCCESS, -415
+get_pirate_money: SUCCESS, -417
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -418
+get_pirate_money: SUCCESS, -414
+get_pirate_money: SUCCESS, -419
+get_pirate_money: SUCCESS, -421
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -422
+get_pirate_money: SUCCESS, -418
+get_pirate_money: SUCCESS, -423
+get_pirate_money: SUCCESS, -425
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -426
+get_pirate_money: SUCCESS, -422
+get_pirate_money: SUCCESS, -427
+get_pirate_money: SUCCESS, -429
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -430
+get_pirate_money: SUCCESS, -426
+get_pirate_money: SUCCESS, -421
+get_pirate_money: SUCCESS, -423
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -424
+get_pirate_money: SUCCESS, -420
+get_pirate_money: SUCCESS, -425
+get_pirate_money: SUCCESS, -427
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -428
+get_pirate_money: SUCCESS, -424
+get_pirate_money: SUCCESS, -429
+get_pirate_money: SUCCESS, -431
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -432
+get_pirate_money: SUCCESS, -428
+get_pirate_money: SUCCESS, -433
+get_pirate_money: SUCCESS, -435
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -436
+get_pirate_money: SUCCESS, -432
+get_pirate_money: SUCCESS, -437
+get_pirate_money: SUCCESS, -439
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -440
+get_pirate_money: SUCCESS, -436
+get_pirate_money: SUCCESS, -431
+get_pirate_money: SUCCESS, -433
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -434
+get_pirate_money: SUCCESS, -430
+get_pirate_money: SUCCESS, -435
+get_pirate_money: SUCCESS, -437
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -438
+get_pirate_money: SUCCESS, -434
+get_pirate_money: SUCCESS, -439
+get_pirate_money: SUCCESS, -441
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -442
+get_pirate_money: SUCCESS, -438
+get_pirate_money: SUCCESS, -443
+get_pirate_money: SUCCESS, -445
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -446
+get_pirate_money: SUCCESS, -442
+get_pirate_money: SUCCESS, -447
+get_pirate_money: SUCCESS, -449
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -450
+get_pirate_money: SUCCESS, -446
+get_pirate_money: SUCCESS, -441
+get_pirate_money: SUCCESS, -443
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -444
+get_pirate_money: SUCCESS, -440
+get_pirate_money: SUCCESS, -445
+get_pirate_money: SUCCESS, -447
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -448
+get_pirate_money: SUCCESS, -444
+get_pirate_money: SUCCESS, -449
+get_pirate_money: SUCCESS, -451
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -452
+get_pirate_money: SUCCESS, -448
+get_pirate_money: SUCCESS, -453
+get_pirate_money: SUCCESS, -455
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -456
+get_pirate_money: SUCCESS, -452
+get_pirate_money: SUCCESS, -457
+get_pirate_money: SUCCESS, -459
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -460
+get_pirate_money: SUCCESS, -456
+get_pirate_money: SUCCESS, -451
+get_pirate_money: SUCCESS, -453
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -454
+get_pirate_money: SUCCESS, -450
+get_pirate_money: SUCCESS, -455
+get_pirate_money: SUCCESS, -457
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -458
+get_pirate_money: SUCCESS, -454
+get_pirate_money: SUCCESS, -459
+get_pirate_money: SUCCESS, -461
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -462
+get_pirate_money: SUCCESS, -458
+get_pirate_money: SUCCESS, -463
+get_pirate_money: SUCCESS, -465
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -466
+get_pirate_money: SUCCESS, -462
+get_pirate_money: SUCCESS, -467
+get_pirate_money: SUCCESS, -469
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -470
+get_pirate_money: SUCCESS, -466
+get_pirate_money: SUCCESS, -461
+get_pirate_money: SUCCESS, -463
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -464
+get_pirate_money: SUCCESS, -460
+get_pirate_money: SUCCESS, -465
+get_pirate_money: SUCCESS, -467
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -468
+get_pirate_money: SUCCESS, -464
+get_pirate_money: SUCCESS, -469
+get_pirate_money: SUCCESS, -471
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -472
+get_pirate_money: SUCCESS, -468
+get_pirate_money: SUCCESS, -473
+get_pirate_money: SUCCESS, -475
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -476
+get_pirate_money: SUCCESS, -472
+get_pirate_money: SUCCESS, -477
+get_pirate_money: SUCCESS, -479
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -480
+get_pirate_money: SUCCESS, -476
+get_pirate_money: SUCCESS, -471
+get_pirate_money: SUCCESS, -473
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -474
+get_pirate_money: SUCCESS, -470
+get_pirate_money: SUCCESS, -475
+get_pirate_money: SUCCESS, -477
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -478
+get_pirate_money: SUCCESS, -474
+get_pirate_money: SUCCESS, -479
+get_pirate_money: SUCCESS, -481
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -482
+get_pirate_money: SUCCESS, -478
+get_pirate_money: SUCCESS, -483
+get_pirate_money: SUCCESS, -485
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -486
+get_pirate_money: SUCCESS, -482
+get_pirate_money: SUCCESS, -487
+get_pirate_money: SUCCESS, -489
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -490
+get_pirate_money: SUCCESS, -486
+get_pirate_money: SUCCESS, -481
+get_pirate_money: SUCCESS, -483
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -484
+get_pirate_money: SUCCESS, -480
+get_pirate_money: SUCCESS, -485
+get_pirate_money: SUCCESS, -487
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -488
+get_pirate_money: SUCCESS, -484
+get_pirate_money: SUCCESS, -489
+get_pirate_money: SUCCESS, -491
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -492
+get_pirate_money: SUCCESS, -488
+get_pirate_money: SUCCESS, -493
+get_pirate_money: SUCCESS, -495
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -496
+get_pirate_money: SUCCESS, -492
+get_pirate_money: SUCCESS, -497
+get_pirate_money: SUCCESS, -499
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -500
+get_pirate_money: SUCCESS, -496
+get_pirate_money: SUCCESS, -491
+get_pirate_money: SUCCESS, -493
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -494
+get_pirate_money: SUCCESS, -490
+get_pirate_money: SUCCESS, -495
+get_pirate_money: SUCCESS, -497
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -498
+get_pirate_money: SUCCESS, -494
+get_pirate_money: SUCCESS, -499
+get_pirate_money: SUCCESS, -501
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -502
+get_pirate_money: SUCCESS, -498
+get_pirate_money: SUCCESS, -503
+get_pirate_money: SUCCESS, -505
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -506
+get_pirate_money: SUCCESS, -502
+get_pirate_money: SUCCESS, -507
+get_pirate_money: SUCCESS, -509
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -510
+get_pirate_money: SUCCESS, -506
+get_pirate_money: SUCCESS, -501
+get_pirate_money: SUCCESS, -503
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -504
+get_pirate_money: SUCCESS, -500
+get_pirate_money: SUCCESS, -505
+get_pirate_money: SUCCESS, -507
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -508
+get_pirate_money: SUCCESS, -504
+get_pirate_money: SUCCESS, -509
+get_pirate_money: SUCCESS, -511
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -512
+get_pirate_money: SUCCESS, -508
+get_pirate_money: SUCCESS, -513
+get_pirate_money: SUCCESS, -515
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -516
+get_pirate_money: SUCCESS, -512
+get_pirate_money: SUCCESS, -517
+get_pirate_money: SUCCESS, -519
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -520
+get_pirate_money: SUCCESS, -516
+get_pirate_money: SUCCESS, -511
+get_pirate_money: SUCCESS, -513
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -514
+get_pirate_money: SUCCESS, -510
+get_pirate_money: SUCCESS, -515
+get_pirate_money: SUCCESS, -517
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -518
+get_pirate_money: SUCCESS, -514
+get_pirate_money: SUCCESS, -519
+get_pirate_money: SUCCESS, -521
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -522
+get_pirate_money: SUCCESS, -518
+get_pirate_money: SUCCESS, -523
+get_pirate_money: SUCCESS, -525
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -526
+get_pirate_money: SUCCESS, -522
+get_pirate_money: SUCCESS, -527
+get_pirate_money: SUCCESS, -529
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -530
+get_pirate_money: SUCCESS, -526
+get_pirate_money: SUCCESS, -521
+get_pirate_money: SUCCESS, -523
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -524
+get_pirate_money: SUCCESS, -520
+get_pirate_money: SUCCESS, -525
+get_pirate_money: SUCCESS, -527
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -528
+get_pirate_money: SUCCESS, -524
+get_pirate_money: SUCCESS, -529
+get_pirate_money: SUCCESS, -531
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -532
+get_pirate_money: SUCCESS, -528
+get_pirate_money: SUCCESS, -533
+get_pirate_money: SUCCESS, -535
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -536
+get_pirate_money: SUCCESS, -532
+get_pirate_money: SUCCESS, -537
+get_pirate_money: SUCCESS, -539
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -540
+get_pirate_money: SUCCESS, -536
+get_pirate_money: SUCCESS, -531
+get_pirate_money: SUCCESS, -533
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -534
+get_pirate_money: SUCCESS, -530
+get_pirate_money: SUCCESS, -535
+get_pirate_money: SUCCESS, -537
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -538
+get_pirate_money: SUCCESS, -534
+get_pirate_money: SUCCESS, -539
+get_pirate_money: SUCCESS, -541
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -542
+get_pirate_money: SUCCESS, -538
+get_pirate_money: SUCCESS, -543
+get_pirate_money: SUCCESS, -545
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -546
+get_pirate_money: SUCCESS, -542
+get_pirate_money: SUCCESS, -547
+get_pirate_money: SUCCESS, -549
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -550
+get_pirate_money: SUCCESS, -546
+get_pirate_money: SUCCESS, -541
+get_pirate_money: SUCCESS, -543
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -544
+get_pirate_money: SUCCESS, -540
+get_pirate_money: SUCCESS, -545
+get_pirate_money: SUCCESS, -547
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -548
+get_pirate_money: SUCCESS, -544
+get_pirate_money: SUCCESS, -549
+get_pirate_money: SUCCESS, -551
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -552
+get_pirate_money: SUCCESS, -548
+get_pirate_money: SUCCESS, -553
+get_pirate_money: SUCCESS, -555
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -556
+get_pirate_money: SUCCESS, -552
+get_pirate_money: SUCCESS, -557
+get_pirate_money: SUCCESS, -559
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -560
+get_pirate_money: SUCCESS, -556
+get_pirate_money: SUCCESS, -551
+get_pirate_money: SUCCESS, -553
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -554
+get_pirate_money: SUCCESS, -550
+get_pirate_money: SUCCESS, -555
+get_pirate_money: SUCCESS, -557
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -558
+get_pirate_money: SUCCESS, -554
+get_pirate_money: SUCCESS, -559
+get_pirate_money: SUCCESS, -561
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -562
+get_pirate_money: SUCCESS, -558
+get_pirate_money: SUCCESS, -563
+get_pirate_money: SUCCESS, -565
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -566
+get_pirate_money: SUCCESS, -562
+get_pirate_money: SUCCESS, -567
+get_pirate_money: SUCCESS, -569
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -570
+get_pirate_money: SUCCESS, -566
+get_pirate_money: SUCCESS, -561
+get_pirate_money: SUCCESS, -563
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -564
+get_pirate_money: SUCCESS, -560
+get_pirate_money: SUCCESS, -565
+get_pirate_money: SUCCESS, -567
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -568
+get_pirate_money: SUCCESS, -564
+get_pirate_money: SUCCESS, -569
+get_pirate_money: SUCCESS, -571
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -572
+get_pirate_money: SUCCESS, -568
+get_pirate_money: SUCCESS, -573
+get_pirate_money: SUCCESS, -575
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -576
+get_pirate_money: SUCCESS, -572
+get_pirate_money: SUCCESS, -577
+get_pirate_money: SUCCESS, -579
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -580
+get_pirate_money: SUCCESS, -576
+get_pirate_money: SUCCESS, -571
+get_pirate_money: SUCCESS, -573
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -574
+get_pirate_money: SUCCESS, -570
+get_pirate_money: SUCCESS, -575
+get_pirate_money: SUCCESS, -577
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -578
+get_pirate_money: SUCCESS, -574
+get_pirate_money: SUCCESS, -579
+get_pirate_money: SUCCESS, -581
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -582
+get_pirate_money: SUCCESS, -578
+get_pirate_money: SUCCESS, -583
+get_pirate_money: SUCCESS, -585
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -586
+get_pirate_money: SUCCESS, -582
+get_pirate_money: SUCCESS, -587
+get_pirate_money: SUCCESS, -589
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -590
+get_pirate_money: SUCCESS, -586
+get_pirate_money: SUCCESS, -581
+get_pirate_money: SUCCESS, -583
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -584
+get_pirate_money: SUCCESS, -580
+get_pirate_money: SUCCESS, -585
+get_pirate_money: SUCCESS, -587
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -588
+get_pirate_money: SUCCESS, -584
+get_pirate_money: SUCCESS, -589
+get_pirate_money: SUCCESS, -591
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -592
+get_pirate_money: SUCCESS, -588
+get_pirate_money: SUCCESS, -593
+get_pirate_money: SUCCESS, -595
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -596
+get_pirate_money: SUCCESS, -592
+get_pirate_money: SUCCESS, -597
+get_pirate_money: SUCCESS, -599
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -600
+get_pirate_money: SUCCESS, -596
+get_pirate_money: SUCCESS, -591
+get_pirate_money: SUCCESS, -593
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -594
+get_pirate_money: SUCCESS, -590
+get_pirate_money: SUCCESS, -595
+get_pirate_money: SUCCESS, -597
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -598
+get_pirate_money: SUCCESS, -594
+get_pirate_money: SUCCESS, -599
+get_pirate_money: SUCCESS, -601
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -602
+get_pirate_money: SUCCESS, -598
+get_pirate_money: SUCCESS, -603
+get_pirate_money: SUCCESS, -605
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -606
+get_pirate_money: SUCCESS, -602
+get_pirate_money: SUCCESS, -607
+get_pirate_money: SUCCESS, -609
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -610
+get_pirate_money: SUCCESS, -606
+get_pirate_money: SUCCESS, -601
+get_pirate_money: SUCCESS, -603
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -604
+get_pirate_money: SUCCESS, -600
+get_pirate_money: SUCCESS, -605
+get_pirate_money: SUCCESS, -607
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -608
+get_pirate_money: SUCCESS, -604
+get_pirate_money: SUCCESS, -609
+get_pirate_money: SUCCESS, -611
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -612
+get_pirate_money: SUCCESS, -608
+get_pirate_money: SUCCESS, -613
+get_pirate_money: SUCCESS, -615
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -616
+get_pirate_money: SUCCESS, -612
+get_pirate_money: SUCCESS, -617
+get_pirate_money: SUCCESS, -619
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -620
+get_pirate_money: SUCCESS, -616
+get_pirate_money: SUCCESS, -611
+get_pirate_money: SUCCESS, -613
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -614
+get_pirate_money: SUCCESS, -610
+get_pirate_money: SUCCESS, -615
+get_pirate_money: SUCCESS, -617
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -618
+get_pirate_money: SUCCESS, -614
+get_pirate_money: SUCCESS, -619
+get_pirate_money: SUCCESS, -621
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -622
+get_pirate_money: SUCCESS, -618
+get_pirate_money: SUCCESS, -623
+get_pirate_money: SUCCESS, -625
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -626
+get_pirate_money: SUCCESS, -622
+get_pirate_money: SUCCESS, -627
+get_pirate_money: SUCCESS, -629
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -630
+get_pirate_money: SUCCESS, -626
+get_pirate_money: SUCCESS, -621
+get_pirate_money: SUCCESS, -623
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -624
+get_pirate_money: SUCCESS, -620
+get_pirate_money: SUCCESS, -625
+get_pirate_money: SUCCESS, -627
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -628
+get_pirate_money: SUCCESS, -624
+get_pirate_money: SUCCESS, -629
+get_pirate_money: SUCCESS, -631
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -632
+get_pirate_money: SUCCESS, -628
+get_pirate_money: SUCCESS, -633
+get_pirate_money: SUCCESS, -635
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -636
+get_pirate_money: SUCCESS, -632
+get_pirate_money: SUCCESS, -637
+get_pirate_money: SUCCESS, -639
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -640
+get_pirate_money: SUCCESS, -636
+get_pirate_money: SUCCESS, -631
+get_pirate_money: SUCCESS, -633
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -634
+get_pirate_money: SUCCESS, -630
+get_pirate_money: SUCCESS, -635
+get_pirate_money: SUCCESS, -637
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -638
+get_pirate_money: SUCCESS, -634
+get_pirate_money: SUCCESS, -639
+get_pirate_money: SUCCESS, -641
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -642
+get_pirate_money: SUCCESS, -638
+get_pirate_money: SUCCESS, -643
+get_pirate_money: SUCCESS, -645
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -646
+get_pirate_money: SUCCESS, -642
+get_pirate_money: SUCCESS, -647
+get_pirate_money: SUCCESS, -649
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -650
+get_pirate_money: SUCCESS, -646
+get_pirate_money: SUCCESS, -641
+get_pirate_money: SUCCESS, -643
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -644
+get_pirate_money: SUCCESS, -640
+get_pirate_money: SUCCESS, -645
+get_pirate_money: SUCCESS, -647
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -648
+get_pirate_money: SUCCESS, -644
+get_pirate_money: SUCCESS, -649
+get_pirate_money: SUCCESS, -651
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -652
+get_pirate_money: SUCCESS, -648
+get_pirate_money: SUCCESS, -653
+get_pirate_money: SUCCESS, -655
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -656
+get_pirate_money: SUCCESS, -652
+get_pirate_money: SUCCESS, -657
+get_pirate_money: SUCCESS, -659
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -660
+get_pirate_money: SUCCESS, -656
+get_pirate_money: SUCCESS, -651
+get_pirate_money: SUCCESS, -653
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -654
+get_pirate_money: SUCCESS, -650
+get_pirate_money: SUCCESS, -655
+get_pirate_money: SUCCESS, -657
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -658
+get_pirate_money: SUCCESS, -654
+get_pirate_money: SUCCESS, -659
+get_pirate_money: SUCCESS, -661
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -662
+get_pirate_money: SUCCESS, -658
+get_pirate_money: SUCCESS, -663
+get_pirate_money: SUCCESS, -665
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -666
+get_pirate_money: SUCCESS, -662
+get_pirate_money: SUCCESS, -667
+get_pirate_money: SUCCESS, -669
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -670
+get_pirate_money: SUCCESS, -666
+get_pirate_money: SUCCESS, -661
+get_pirate_money: SUCCESS, -663
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -664
+get_pirate_money: SUCCESS, -660
+get_pirate_money: SUCCESS, -665
+get_pirate_money: SUCCESS, -667
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -668
+get_pirate_money: SUCCESS, -664
+get_pirate_money: SUCCESS, -669
+get_pirate_money: SUCCESS, -671
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -672
+get_pirate_money: SUCCESS, -668
+get_pirate_money: SUCCESS, -673
+get_pirate_money: SUCCESS, -675
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -676
+get_pirate_money: SUCCESS, -672
+get_pirate_money: SUCCESS, -677
+get_pirate_money: SUCCESS, -679
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -680
+get_pirate_money: SUCCESS, -676
+get_pirate_money: SUCCESS, -671
+get_pirate_money: SUCCESS, -673
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -674
+get_pirate_money: SUCCESS, -670
+get_pirate_money: SUCCESS, -675
+get_pirate_money: SUCCESS, -677
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -678
+get_pirate_money: SUCCESS, -674
+get_pirate_money: SUCCESS, -679
+get_pirate_money: SUCCESS, -681
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -682
+get_pirate_money: SUCCESS, -678
+get_pirate_money: SUCCESS, -683
+get_pirate_money: SUCCESS, -685
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -686
+get_pirate_money: SUCCESS, -682
+get_pirate_money: SUCCESS, -687
+get_pirate_money: SUCCESS, -689
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -690
+get_pirate_money: SUCCESS, -686
+get_pirate_money: SUCCESS, -681
+get_pirate_money: SUCCESS, -683
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -684
+get_pirate_money: SUCCESS, -680
+get_pirate_money: SUCCESS, -685
+get_pirate_money: SUCCESS, -687
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -688
+get_pirate_money: SUCCESS, -684
+get_pirate_money: SUCCESS, -689
+get_pirate_money: SUCCESS, -691
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -692
+get_pirate_money: SUCCESS, -688
+get_pirate_money: SUCCESS, -693
+get_pirate_money: SUCCESS, -695
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -696
+get_pirate_money: SUCCESS, -692
+get_pirate_money: SUCCESS, -697
+get_pirate_money: SUCCESS, -699
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -700
+get_pirate_money: SUCCESS, -696
+get_pirate_money: SUCCESS, -691
+get_pirate_money: SUCCESS, -693
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -694
+get_pirate_money: SUCCESS, -690
+get_pirate_money: SUCCESS, -695
+get_pirate_money: SUCCESS, -697
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -698
+get_pirate_money: SUCCESS, -694
+get_pirate_money: SUCCESS, -699
+get_pirate_money: SUCCESS, -701
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -702
+get_pirate_money: SUCCESS, -698
+get_pirate_money: SUCCESS, -703
+get_pirate_money: SUCCESS, -705
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -706
+get_pirate_money: SUCCESS, -702
+get_pirate_money: SUCCESS, -707
+get_pirate_money: SUCCESS, -709
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -710
+get_pirate_money: SUCCESS, -706
+get_pirate_money: SUCCESS, -701
+get_pirate_money: SUCCESS, -703
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -704
+get_pirate_money: SUCCESS, -700
+get_pirate_money: SUCCESS, -705
+get_pirate_money: SUCCESS, -707
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -708
+get_pirate_money: SUCCESS, -704
+get_pirate_money: SUCCESS, -709
+get_pirate_money: SUCCESS, -711
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -712
+get_pirate_money: SUCCESS, -708
+get_pirate_money: SUCCESS, -713
+get_pirate_money: SUCCESS, -715
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -716
+get_pirate_money: SUCCESS, -712
+get_pirate_money: SUCCESS, -717
+get_pirate_money: SUCCESS, -719
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -720
+get_pirate_money: SUCCESS, -716
+get_pirate_money: SUCCESS, -711
+get_pirate_money: SUCCESS, -713
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -714
+get_pirate_money: SUCCESS, -710
+get_pirate_money: SUCCESS, -715
+get_pirate_money: SUCCESS, -717
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -718
+get_pirate_money: SUCCESS, -714
+get_pirate_money: SUCCESS, -719
+get_pirate_money: SUCCESS, -721
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -722
+get_pirate_money: SUCCESS, -718
+get_pirate_money: SUCCESS, -723
+get_pirate_money: SUCCESS, -725
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -726
+get_pirate_money: SUCCESS, -722
+get_pirate_money: SUCCESS, -727
+get_pirate_money: SUCCESS, -729
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -730
+get_pirate_money: SUCCESS, -726
+get_pirate_money: SUCCESS, -721
+get_pirate_money: SUCCESS, -723
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -724
+get_pirate_money: SUCCESS, -720
+get_pirate_money: SUCCESS, -725
+get_pirate_money: SUCCESS, -727
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -728
+get_pirate_money: SUCCESS, -724
+get_pirate_money: SUCCESS, -729
+get_pirate_money: SUCCESS, -731
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -732
+get_pirate_money: SUCCESS, -728
+get_pirate_money: SUCCESS, -733
+get_pirate_money: SUCCESS, -735
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -736
+get_pirate_money: SUCCESS, -732
+get_pirate_money: SUCCESS, -737
+get_pirate_money: SUCCESS, -739
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -740
+get_pirate_money: SUCCESS, -736
+get_pirate_money: SUCCESS, -731
+get_pirate_money: SUCCESS, -733
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -734
+get_pirate_money: SUCCESS, -730
+get_pirate_money: SUCCESS, -735
+get_pirate_money: SUCCESS, -737
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -738
+get_pirate_money: SUCCESS, -734
+get_pirate_money: SUCCESS, -739
+get_pirate_money: SUCCESS, -741
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -742
+get_pirate_money: SUCCESS, -738
+get_pirate_money: SUCCESS, -743
+get_pirate_money: SUCCESS, -745
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -746
+get_pirate_money: SUCCESS, -742
+get_pirate_money: SUCCESS, -747
+get_pirate_money: SUCCESS, -749
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -750
+get_pirate_money: SUCCESS, -746
+get_pirate_money: SUCCESS, -741
+get_pirate_money: SUCCESS, -743
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -744
+get_pirate_money: SUCCESS, -740
+get_pirate_money: SUCCESS, -745
+get_pirate_money: SUCCESS, -747
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -748
+get_pirate_money: SUCCESS, -744
+get_pirate_money: SUCCESS, -749
+get_pirate_money: SUCCESS, -751
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -752
+get_pirate_money: SUCCESS, -748
+get_pirate_money: SUCCESS, -753
+get_pirate_money: SUCCESS, -755
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -756
+get_pirate_money: SUCCESS, -752
+get_pirate_money: SUCCESS, -757
+get_pirate_money: SUCCESS, -759
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -760
+get_pirate_money: SUCCESS, -756
+get_pirate_money: SUCCESS, -751
+get_pirate_money: SUCCESS, -753
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -754
+get_pirate_money: SUCCESS, -750
+get_pirate_money: SUCCESS, -755
+get_pirate_money: SUCCESS, -757
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -758
+get_pirate_money: SUCCESS, -754
+get_pirate_money: SUCCESS, -759
+get_pirate_money: SUCCESS, -761
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -762
+get_pirate_money: SUCCESS, -758
+get_pirate_money: SUCCESS, -763
+get_pirate_money: SUCCESS, -765
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -766
+get_pirate_money: SUCCESS, -762
+get_pirate_money: SUCCESS, -767
+get_pirate_money: SUCCESS, -769
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -770
+get_pirate_money: SUCCESS, -766
+get_pirate_money: SUCCESS, -761
+get_pirate_money: SUCCESS, -763
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -764
+get_pirate_money: SUCCESS, -760
+get_pirate_money: SUCCESS, -765
+get_pirate_money: SUCCESS, -767
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -768
+get_pirate_money: SUCCESS, -764
+get_pirate_money: SUCCESS, -769
+get_pirate_money: SUCCESS, -771
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -772
+get_pirate_money: SUCCESS, -768
+get_pirate_money: SUCCESS, -773
+get_pirate_money: SUCCESS, -775
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -776
+get_pirate_money: SUCCESS, -772
+get_pirate_money: SUCCESS, -777
+get_pirate_money: SUCCESS, -779
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -780
+get_pirate_money: SUCCESS, -776
+get_pirate_money: SUCCESS, -771
+get_pirate_money: SUCCESS, -773
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -774
+get_pirate_money: SUCCESS, -770
+get_pirate_money: SUCCESS, -775
+get_pirate_money: SUCCESS, -777
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -778
+get_pirate_money: SUCCESS, -774
+get_pirate_money: SUCCESS, -779
+get_pirate_money: SUCCESS, -781
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -782
+get_pirate_money: SUCCESS, -778
+get_pirate_money: SUCCESS, -783
+get_pirate_money: SUCCESS, -785
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -786
+get_pirate_money: SUCCESS, -782
+get_pirate_money: SUCCESS, -787
+get_pirate_money: SUCCESS, -789
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -790
+get_pirate_money: SUCCESS, -786
+get_pirate_money: SUCCESS, -781
+get_pirate_money: SUCCESS, -783
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -784
+get_pirate_money: SUCCESS, -780
+get_pirate_money: SUCCESS, -785
+get_pirate_money: SUCCESS, -787
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -788
+get_pirate_money: SUCCESS, -784
+get_pirate_money: SUCCESS, -789
+get_pirate_money: SUCCESS, -791
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -792
+get_pirate_money: SUCCESS, -788
+get_pirate_money: SUCCESS, -793
+get_pirate_money: SUCCESS, -795
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -796
+get_pirate_money: SUCCESS, -792
+get_pirate_money: SUCCESS, -797
+get_pirate_money: SUCCESS, -799
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -800
+get_pirate_money: SUCCESS, -796
+get_pirate_money: SUCCESS, -791
+get_pirate_money: SUCCESS, -793
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -794
+get_pirate_money: SUCCESS, -790
+get_pirate_money: SUCCESS, -795
+get_pirate_money: SUCCESS, -797
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -798
+get_pirate_money: SUCCESS, -794
+get_pirate_money: SUCCESS, -799
+get_pirate_money: SUCCESS, -801
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -802
+get_pirate_money: SUCCESS, -798
+get_pirate_money: SUCCESS, -803
+get_pirate_money: SUCCESS, -805
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -806
+get_pirate_money: SUCCESS, -802
+get_pirate_money: SUCCESS, -807
+get_pirate_money: SUCCESS, -809
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -810
+get_pirate_money: SUCCESS, -806
+get_pirate_money: SUCCESS, -801
+get_pirate_money: SUCCESS, -803
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -804
+get_pirate_money: SUCCESS, -800
+get_pirate_money: SUCCESS, -805
+get_pirate_money: SUCCESS, -807
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -808
+get_pirate_money: SUCCESS, -804
+get_pirate_money: SUCCESS, -809
+get_pirate_money: SUCCESS, -811
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -812
+get_pirate_money: SUCCESS, -808
+get_pirate_money: SUCCESS, -813
+get_pirate_money: SUCCESS, -815
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -816
+get_pirate_money: SUCCESS, -812
+get_pirate_money: SUCCESS, -817
+get_pirate_money: SUCCESS, -819
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -820
+get_pirate_money: SUCCESS, -816
+get_pirate_money: SUCCESS, -811
+get_pirate_money: SUCCESS, -813
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -814
+get_pirate_money: SUCCESS, -810
+get_pirate_money: SUCCESS, -815
+get_pirate_money: SUCCESS, -817
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -818
+get_pirate_money: SUCCESS, -814
+get_pirate_money: SUCCESS, -819
+get_pirate_money: SUCCESS, -821
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -822
+get_pirate_money: SUCCESS, -818
+get_pirate_money: SUCCESS, -823
+get_pirate_money: SUCCESS, -825
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -826
+get_pirate_money: SUCCESS, -822
+get_pirate_money: SUCCESS, -827
+get_pirate_money: SUCCESS, -829
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -830
+get_pirate_money: SUCCESS, -826
+get_pirate_money: SUCCESS, -821
+get_pirate_money: SUCCESS, -823
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -824
+get_pirate_money: SUCCESS, -820
+get_pirate_money: SUCCESS, -825
+get_pirate_money: SUCCESS, -827
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -828
+get_pirate_money: SUCCESS, -824
+get_pirate_money: SUCCESS, -829
+get_pirate_money: SUCCESS, -831
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -832
+get_pirate_money: SUCCESS, -828
+get_pirate_money: SUCCESS, -833
+get_pirate_money: SUCCESS, -835
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -836
+get_pirate_money: SUCCESS, -832
+get_pirate_money: SUCCESS, -837
+get_pirate_money: SUCCESS, -839
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -840
+get_pirate_money: SUCCESS, -836
+get_pirate_money: SUCCESS, -831
+get_pirate_money: SUCCESS, -833
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -834
+get_pirate_money: SUCCESS, -830
+get_pirate_money: SUCCESS, -835
+get_pirate_money: SUCCESS, -837
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -838
+get_pirate_money: SUCCESS, -834
+get_pirate_money: SUCCESS, -839
+get_pirate_money: SUCCESS, -841
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -842
+get_pirate_money: SUCCESS, -838
+get_pirate_money: SUCCESS, -843
+get_pirate_money: SUCCESS, -845
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -846
+get_pirate_money: SUCCESS, -842
+get_pirate_money: SUCCESS, -847
+get_pirate_money: SUCCESS, -849
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -850
+get_pirate_money: SUCCESS, -846
+get_pirate_money: SUCCESS, -841
+get_pirate_money: SUCCESS, -843
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -844
+get_pirate_money: SUCCESS, -840
+get_pirate_money: SUCCESS, -845
+get_pirate_money: SUCCESS, -847
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -848
+get_pirate_money: SUCCESS, -844
+get_pirate_money: SUCCESS, -849
+get_pirate_money: SUCCESS, -851
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -852
+get_pirate_money: SUCCESS, -848
+get_pirate_money: SUCCESS, -853
+get_pirate_money: SUCCESS, -855
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -856
+get_pirate_money: SUCCESS, -852
+get_pirate_money: SUCCESS, -857
+get_pirate_money: SUCCESS, -859
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -860
+get_pirate_money: SUCCESS, -856
+get_pirate_money: SUCCESS, -851
+get_pirate_money: SUCCESS, -853
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -854
+get_pirate_money: SUCCESS, -850
+get_pirate_money: SUCCESS, -855
+get_pirate_money: SUCCESS, -857
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -858
+get_pirate_money: SUCCESS, -854
+get_pirate_money: SUCCESS, -859
+get_pirate_money: SUCCESS, -861
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -862
+get_pirate_money: SUCCESS, -858
+get_pirate_money: SUCCESS, -863
+get_pirate_money: SUCCESS, -865
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -866
+get_pirate_money: SUCCESS, -862
+get_pirate_money: SUCCESS, -867
+get_pirate_money: SUCCESS, -869
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -870
+get_pirate_money: SUCCESS, -866
+get_pirate_money: SUCCESS, -861
+get_pirate_money: SUCCESS, -863
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -864
+get_pirate_money: SUCCESS, -860
+get_pirate_money: SUCCESS, -865
+get_pirate_money: SUCCESS, -867
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -868
+get_pirate_money: SUCCESS, -864
+get_pirate_money: SUCCESS, -869
+get_pirate_money: SUCCESS, -871
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -872
+get_pirate_money: SUCCESS, -868
+get_pirate_money: SUCCESS, -873
+get_pirate_money: SUCCESS, -875
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -876
+get_pirate_money: SUCCESS, -872
+get_pirate_money: SUCCESS, -877
+get_pirate_money: SUCCESS, -879
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -880
+get_pirate_money: SUCCESS, -876
+get_pirate_money: SUCCESS, -871
+get_pirate_money: SUCCESS, -873
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -874
+get_pirate_money: SUCCESS, -870
+get_pirate_money: SUCCESS, -875
+get_pirate_money: SUCCESS, -877
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -878
+get_pirate_money: SUCCESS, -874
+get_pirate_money: SUCCESS, -879
+get_pirate_money: SUCCESS, -881
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -882
+get_pirate_money: SUCCESS, -878
+get_pirate_money: SUCCESS, -883
+get_pirate_money: SUCCESS, -885
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -886
+get_pirate_money: SUCCESS, -882
+get_pirate_money: SUCCESS, -887
+get_pirate_money: SUCCESS, -889
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -890
+get_pirate_money: SUCCESS, -886
+get_pirate_money: SUCCESS, -881
+get_pirate_money: SUCCESS, -883
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -884
+get_pirate_money: SUCCESS, -880
+get_pirate_money: SUCCESS, -885
+get_pirate_money: SUCCESS, -887
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -888
+get_pirate_money: SUCCESS, -884
+get_pirate_money: SUCCESS, -889
+get_pirate_money: SUCCESS, -891
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -892
+get_pirate_money: SUCCESS, -888
+get_pirate_money: SUCCESS, -893
+get_pirate_money: SUCCESS, -895
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -896
+get_pirate_money: SUCCESS, -892
+get_pirate_money: SUCCESS, -897
+get_pirate_money: SUCCESS, -899
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -900
+get_pirate_money: SUCCESS, -896
+get_pirate_money: SUCCESS, -891
+get_pirate_money: SUCCESS, -893
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -894
+get_pirate_money: SUCCESS, -890
+get_pirate_money: SUCCESS, -895
+get_pirate_money: SUCCESS, -897
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -898
+get_pirate_money: SUCCESS, -894
+get_pirate_money: SUCCESS, -899
+get_pirate_money: SUCCESS, -901
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -902
+get_pirate_money: SUCCESS, -898
+get_pirate_money: SUCCESS, -903
+get_pirate_money: SUCCESS, -905
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -906
+get_pirate_money: SUCCESS, -902
+get_pirate_money: SUCCESS, -907
+get_pirate_money: SUCCESS, -909
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -910
+get_pirate_money: SUCCESS, -906
+get_pirate_money: SUCCESS, -901
+get_pirate_money: SUCCESS, -903
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -904
+get_pirate_money: SUCCESS, -900
+get_pirate_money: SUCCESS, -905
+get_pirate_money: SUCCESS, -907
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -908
+get_pirate_money: SUCCESS, -904
+get_pirate_money: SUCCESS, -909
+get_pirate_money: SUCCESS, -911
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -912
+get_pirate_money: SUCCESS, -908
+get_pirate_money: SUCCESS, -913
+get_pirate_money: SUCCESS, -915
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -916
+get_pirate_money: SUCCESS, -912
+get_pirate_money: SUCCESS, -917
+get_pirate_money: SUCCESS, -919
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -920
+get_pirate_money: SUCCESS, -916
+get_pirate_money: SUCCESS, -911
+get_pirate_money: SUCCESS, -913
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -914
+get_pirate_money: SUCCESS, -910
+get_pirate_money: SUCCESS, -915
+get_pirate_money: SUCCESS, -917
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -918
+get_pirate_money: SUCCESS, -914
+get_pirate_money: SUCCESS, -919
+get_pirate_money: SUCCESS, -921
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -922
+get_pirate_money: SUCCESS, -918
+get_pirate_money: SUCCESS, -923
+get_pirate_money: SUCCESS, -925
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -926
+get_pirate_money: SUCCESS, -922
+get_pirate_money: SUCCESS, -927
+get_pirate_money: SUCCESS, -929
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -930
+get_pirate_money: SUCCESS, -926
+get_pirate_money: SUCCESS, -921
+get_pirate_money: SUCCESS, -923
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -924
+get_pirate_money: SUCCESS, -920
+get_pirate_money: SUCCESS, -925
+get_pirate_money: SUCCESS, -927
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -928
+get_pirate_money: SUCCESS, -924
+get_pirate_money: SUCCESS, -929
+get_pirate_money: SUCCESS, -931
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -932
+get_pirate_money: SUCCESS, -928
+get_pirate_money: SUCCESS, -933
+get_pirate_money: SUCCESS, -935
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -936
+get_pirate_money: SUCCESS, -932
+get_pirate_money: SUCCESS, -937
+get_pirate_money: SUCCESS, -939
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -940
+get_pirate_money: SUCCESS, -936
+get_pirate_money: SUCCESS, -931
+get_pirate_money: SUCCESS, -933
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -934
+get_pirate_money: SUCCESS, -930
+get_pirate_money: SUCCESS, -935
+get_pirate_money: SUCCESS, -937
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -938
+get_pirate_money: SUCCESS, -934
+get_pirate_money: SUCCESS, -939
+get_pirate_money: SUCCESS, -941
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -942
+get_pirate_money: SUCCESS, -938
+get_pirate_money: SUCCESS, -943
+get_pirate_money: SUCCESS, -945
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -946
+get_pirate_money: SUCCESS, -942
+get_pirate_money: SUCCESS, -947
+get_pirate_money: SUCCESS, -949
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -950
+get_pirate_money: SUCCESS, -946
+get_pirate_money: SUCCESS, -941
+get_pirate_money: SUCCESS, -943
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -944
+get_pirate_money: SUCCESS, -940
+get_pirate_money: SUCCESS, -945
+get_pirate_money: SUCCESS, -947
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -948
+get_pirate_money: SUCCESS, -944
+get_pirate_money: SUCCESS, -949
+get_pirate_money: SUCCESS, -951
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -952
+get_pirate_money: SUCCESS, -948
+get_pirate_money: SUCCESS, -953
+get_pirate_money: SUCCESS, -955
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -956
+get_pirate_money: SUCCESS, -952
+get_pirate_money: SUCCESS, -957
+get_pirate_money: SUCCESS, -959
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -960
+get_pirate_money: SUCCESS, -956
+get_pirate_money: SUCCESS, -951
+get_pirate_money: SUCCESS, -953
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -954
+get_pirate_money: SUCCESS, -950
+get_pirate_money: SUCCESS, -955
+get_pirate_money: SUCCESS, -957
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -958
+get_pirate_money: SUCCESS, -954
+get_pirate_money: SUCCESS, -959
+get_pirate_money: SUCCESS, -961
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -962
+get_pirate_money: SUCCESS, -958
+get_pirate_money: SUCCESS, -963
+get_pirate_money: SUCCESS, -965
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -966
+get_pirate_money: SUCCESS, -962
+get_pirate_money: SUCCESS, -967
+get_pirate_money: SUCCESS, -969
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -970
+get_pirate_money: SUCCESS, -966
+get_pirate_money: SUCCESS, -961
+get_pirate_money: SUCCESS, -963
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -964
+get_pirate_money: SUCCESS, -960
+get_pirate_money: SUCCESS, -965
+get_pirate_money: SUCCESS, -967
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -968
+get_pirate_money: SUCCESS, -964
+get_pirate_money: SUCCESS, -969
+get_pirate_money: SUCCESS, -971
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -972
+get_pirate_money: SUCCESS, -968
+get_pirate_money: SUCCESS, -973
+get_pirate_money: SUCCESS, -975
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -976
+get_pirate_money: SUCCESS, -972
+get_pirate_money: SUCCESS, -977
+get_pirate_money: SUCCESS, -979
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -980
+get_pirate_money: SUCCESS, -976
+get_pirate_money: SUCCESS, -971
+get_pirate_money: SUCCESS, -973
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -974
+get_pirate_money: SUCCESS, -970
+get_pirate_money: SUCCESS, -975
+get_pirate_money: SUCCESS, -977
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -978
+get_pirate_money: SUCCESS, -974
+get_pirate_money: SUCCESS, -979
+get_pirate_money: SUCCESS, -981
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -982
+get_pirate_money: SUCCESS, -978
+get_pirate_money: SUCCESS, -983
+get_pirate_money: SUCCESS, -985
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -986
+get_pirate_money: SUCCESS, -982
+get_pirate_money: SUCCESS, -987
+get_pirate_money: SUCCESS, -989
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -990
+get_pirate_money: SUCCESS, -986
+get_pirate_money: SUCCESS, -981
+get_pirate_money: SUCCESS, -983
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -984
+get_pirate_money: SUCCESS, -980
+get_pirate_money: SUCCESS, -985
+get_pirate_money: SUCCESS, -987
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -988
+get_pirate_money: SUCCESS, -984
+get_pirate_money: SUCCESS, -989
+get_pirate_money: SUCCESS, -991
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -992
+get_pirate_money: SUCCESS, -988
+get_pirate_money: SUCCESS, -993
+get_pirate_money: SUCCESS, -995
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -996
+get_pirate_money: SUCCESS, -992
+get_pirate_money: SUCCESS, -997
+get_pirate_money: SUCCESS, -999
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -1000
+get_pirate_money: SUCCESS, -996
+get_pirate_money: SUCCESS, -991
+get_pirate_money: SUCCESS, -993
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -994
+get_pirate_money: SUCCESS, -990
+get_pirate_money: SUCCESS, -995
+get_pirate_money: SUCCESS, -997
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -998
+get_pirate_money: SUCCESS, -994
+get_pirate_money: SUCCESS, -999
+get_pirate_money: SUCCESS, -1001
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -1002
+get_pirate_money: SUCCESS, -998
+get_pirate_money: SUCCESS, -1003
+get_pirate_money: SUCCESS, -1005
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -1006
+get_pirate_money: SUCCESS, -1002
+get_pirate_money: SUCCESS, -1007
+get_pirate_money: SUCCESS, -1009
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -1010
+get_pirate_money: SUCCESS, -1006
 get_pirate_money: SUCCESS, 0
 get_pirate_money: SUCCESS, 0
 pirate_argument: SUCCESS
@@ -36217,20 +36217,20 @@ unite_fleets: FAILURE
 num_ships_for_fleet: SUCCESS, 100
 num_ships_for_fleet: FAILURE
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, 14298
-get_pirate_money: SUCCESS, 14502
+get_pirate_money: SUCCESS, 51198
+get_pirate_money: SUCCESS, 51402
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, 13898
-get_pirate_money: SUCCESS, 14102
+get_pirate_money: SUCCESS, 50798
+get_pirate_money: SUCCESS, 51002
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, 13498
-get_pirate_money: SUCCESS, 13702
+get_pirate_money: SUCCESS, 50398
+get_pirate_money: SUCCESS, 50602
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, 13098
-get_pirate_money: SUCCESS, 13302
+get_pirate_money: SUCCESS, 49998
+get_pirate_money: SUCCESS, 50202
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, 12698
-get_pirate_money: SUCCESS, 12902
+get_pirate_money: SUCCESS, 49598
+get_pirate_money: SUCCESS, 49802
 pirate_argument: SUCCESS
 get_pirate_money: SUCCESS, -5
 get_pirate_money: SUCCESS, 1
@@ -36517,1220 +36517,1220 @@ pirate_argument: SUCCESS
 get_pirate_money: SUCCESS, -201
 get_pirate_money: SUCCESS, -195
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -95
-get_pirate_money: SUCCESS, -89
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -99
-get_pirate_money: SUCCESS, -93
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -103
-get_pirate_money: SUCCESS, -97
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -107
-get_pirate_money: SUCCESS, -101
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -111
-get_pirate_money: SUCCESS, -105
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -105
-get_pirate_money: SUCCESS, -99
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -109
-get_pirate_money: SUCCESS, -103
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -113
-get_pirate_money: SUCCESS, -107
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -117
-get_pirate_money: SUCCESS, -111
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -121
-get_pirate_money: SUCCESS, -115
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -115
-get_pirate_money: SUCCESS, -109
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -119
-get_pirate_money: SUCCESS, -113
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -123
-get_pirate_money: SUCCESS, -117
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -127
-get_pirate_money: SUCCESS, -121
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -131
-get_pirate_money: SUCCESS, -125
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -125
-get_pirate_money: SUCCESS, -119
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -129
-get_pirate_money: SUCCESS, -123
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -133
-get_pirate_money: SUCCESS, -127
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -137
-get_pirate_money: SUCCESS, -131
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -141
-get_pirate_money: SUCCESS, -135
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -135
-get_pirate_money: SUCCESS, -129
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -139
-get_pirate_money: SUCCESS, -133
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -143
-get_pirate_money: SUCCESS, -137
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -147
-get_pirate_money: SUCCESS, -141
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -151
-get_pirate_money: SUCCESS, -145
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -145
-get_pirate_money: SUCCESS, -139
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -149
-get_pirate_money: SUCCESS, -143
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -153
-get_pirate_money: SUCCESS, -147
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -157
-get_pirate_money: SUCCESS, -151
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -161
-get_pirate_money: SUCCESS, -155
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -155
-get_pirate_money: SUCCESS, -149
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -159
-get_pirate_money: SUCCESS, -153
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -163
-get_pirate_money: SUCCESS, -157
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -167
-get_pirate_money: SUCCESS, -161
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -171
-get_pirate_money: SUCCESS, -165
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -165
-get_pirate_money: SUCCESS, -159
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -169
-get_pirate_money: SUCCESS, -163
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -173
-get_pirate_money: SUCCESS, -167
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -177
-get_pirate_money: SUCCESS, -171
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -181
-get_pirate_money: SUCCESS, -175
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -175
-get_pirate_money: SUCCESS, -169
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -179
-get_pirate_money: SUCCESS, -173
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -183
-get_pirate_money: SUCCESS, -177
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -187
-get_pirate_money: SUCCESS, -181
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -191
-get_pirate_money: SUCCESS, -185
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -185
-get_pirate_money: SUCCESS, -179
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -189
-get_pirate_money: SUCCESS, -183
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -193
-get_pirate_money: SUCCESS, -187
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -197
-get_pirate_money: SUCCESS, -191
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -201
 get_pirate_money: SUCCESS, -195
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -95
-get_pirate_money: SUCCESS, -89
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -99
-get_pirate_money: SUCCESS, -93
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -103
-get_pirate_money: SUCCESS, -97
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -107
-get_pirate_money: SUCCESS, -101
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -111
-get_pirate_money: SUCCESS, -105
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -105
-get_pirate_money: SUCCESS, -99
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -109
-get_pirate_money: SUCCESS, -103
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -113
-get_pirate_money: SUCCESS, -107
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -117
-get_pirate_money: SUCCESS, -111
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -121
-get_pirate_money: SUCCESS, -115
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -115
-get_pirate_money: SUCCESS, -109
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -119
-get_pirate_money: SUCCESS, -113
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -123
-get_pirate_money: SUCCESS, -117
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -127
-get_pirate_money: SUCCESS, -121
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -131
-get_pirate_money: SUCCESS, -125
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -125
-get_pirate_money: SUCCESS, -119
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -129
-get_pirate_money: SUCCESS, -123
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -133
-get_pirate_money: SUCCESS, -127
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -137
-get_pirate_money: SUCCESS, -131
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -141
-get_pirate_money: SUCCESS, -135
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -135
-get_pirate_money: SUCCESS, -129
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -139
-get_pirate_money: SUCCESS, -133
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -143
-get_pirate_money: SUCCESS, -137
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -147
-get_pirate_money: SUCCESS, -141
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -151
-get_pirate_money: SUCCESS, -145
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -145
-get_pirate_money: SUCCESS, -139
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -149
-get_pirate_money: SUCCESS, -143
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -153
-get_pirate_money: SUCCESS, -147
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -157
-get_pirate_money: SUCCESS, -151
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -161
-get_pirate_money: SUCCESS, -155
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -155
-get_pirate_money: SUCCESS, -149
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -159
-get_pirate_money: SUCCESS, -153
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -163
-get_pirate_money: SUCCESS, -157
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -167
-get_pirate_money: SUCCESS, -161
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -171
-get_pirate_money: SUCCESS, -165
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -165
-get_pirate_money: SUCCESS, -159
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -169
-get_pirate_money: SUCCESS, -163
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -173
-get_pirate_money: SUCCESS, -167
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -177
-get_pirate_money: SUCCESS, -171
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -181
-get_pirate_money: SUCCESS, -175
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -175
-get_pirate_money: SUCCESS, -169
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -179
-get_pirate_money: SUCCESS, -173
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -183
-get_pirate_money: SUCCESS, -177
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -187
-get_pirate_money: SUCCESS, -181
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -191
-get_pirate_money: SUCCESS, -185
-pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -185
-get_pirate_money: SUCCESS, -179
-pirate_argument: SUCCESS
 get_pirate_money: SUCCESS, -189
-get_pirate_money: SUCCESS, -183
 pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -199
 get_pirate_money: SUCCESS, -193
-get_pirate_money: SUCCESS, -187
 pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -203
 get_pirate_money: SUCCESS, -197
-get_pirate_money: SUCCESS, -191
 pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -207
 get_pirate_money: SUCCESS, -201
-get_pirate_money: SUCCESS, -195
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -95
-get_pirate_money: SUCCESS, -89
+get_pirate_money: SUCCESS, -211
+get_pirate_money: SUCCESS, -205
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -99
-get_pirate_money: SUCCESS, -93
+get_pirate_money: SUCCESS, -205
+get_pirate_money: SUCCESS, -199
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -103
-get_pirate_money: SUCCESS, -97
+get_pirate_money: SUCCESS, -209
+get_pirate_money: SUCCESS, -203
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -107
-get_pirate_money: SUCCESS, -101
+get_pirate_money: SUCCESS, -213
+get_pirate_money: SUCCESS, -207
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -111
-get_pirate_money: SUCCESS, -105
+get_pirate_money: SUCCESS, -217
+get_pirate_money: SUCCESS, -211
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -105
-get_pirate_money: SUCCESS, -99
+get_pirate_money: SUCCESS, -221
+get_pirate_money: SUCCESS, -215
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -109
-get_pirate_money: SUCCESS, -103
+get_pirate_money: SUCCESS, -215
+get_pirate_money: SUCCESS, -209
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -113
-get_pirate_money: SUCCESS, -107
+get_pirate_money: SUCCESS, -219
+get_pirate_money: SUCCESS, -213
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -117
-get_pirate_money: SUCCESS, -111
+get_pirate_money: SUCCESS, -223
+get_pirate_money: SUCCESS, -217
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -121
-get_pirate_money: SUCCESS, -115
+get_pirate_money: SUCCESS, -227
+get_pirate_money: SUCCESS, -221
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -115
-get_pirate_money: SUCCESS, -109
+get_pirate_money: SUCCESS, -231
+get_pirate_money: SUCCESS, -225
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -119
-get_pirate_money: SUCCESS, -113
+get_pirate_money: SUCCESS, -225
+get_pirate_money: SUCCESS, -219
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -123
-get_pirate_money: SUCCESS, -117
+get_pirate_money: SUCCESS, -229
+get_pirate_money: SUCCESS, -223
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -127
-get_pirate_money: SUCCESS, -121
+get_pirate_money: SUCCESS, -233
+get_pirate_money: SUCCESS, -227
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -131
-get_pirate_money: SUCCESS, -125
+get_pirate_money: SUCCESS, -237
+get_pirate_money: SUCCESS, -231
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -125
-get_pirate_money: SUCCESS, -119
+get_pirate_money: SUCCESS, -241
+get_pirate_money: SUCCESS, -235
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -129
-get_pirate_money: SUCCESS, -123
+get_pirate_money: SUCCESS, -235
+get_pirate_money: SUCCESS, -229
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -133
-get_pirate_money: SUCCESS, -127
+get_pirate_money: SUCCESS, -239
+get_pirate_money: SUCCESS, -233
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -137
-get_pirate_money: SUCCESS, -131
+get_pirate_money: SUCCESS, -243
+get_pirate_money: SUCCESS, -237
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -141
-get_pirate_money: SUCCESS, -135
+get_pirate_money: SUCCESS, -247
+get_pirate_money: SUCCESS, -241
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -135
-get_pirate_money: SUCCESS, -129
+get_pirate_money: SUCCESS, -251
+get_pirate_money: SUCCESS, -245
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -139
-get_pirate_money: SUCCESS, -133
+get_pirate_money: SUCCESS, -245
+get_pirate_money: SUCCESS, -239
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -143
-get_pirate_money: SUCCESS, -137
+get_pirate_money: SUCCESS, -249
+get_pirate_money: SUCCESS, -243
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -147
-get_pirate_money: SUCCESS, -141
+get_pirate_money: SUCCESS, -253
+get_pirate_money: SUCCESS, -247
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -151
-get_pirate_money: SUCCESS, -145
+get_pirate_money: SUCCESS, -257
+get_pirate_money: SUCCESS, -251
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -145
-get_pirate_money: SUCCESS, -139
+get_pirate_money: SUCCESS, -261
+get_pirate_money: SUCCESS, -255
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -149
-get_pirate_money: SUCCESS, -143
+get_pirate_money: SUCCESS, -255
+get_pirate_money: SUCCESS, -249
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -153
-get_pirate_money: SUCCESS, -147
+get_pirate_money: SUCCESS, -259
+get_pirate_money: SUCCESS, -253
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -157
-get_pirate_money: SUCCESS, -151
+get_pirate_money: SUCCESS, -263
+get_pirate_money: SUCCESS, -257
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -161
-get_pirate_money: SUCCESS, -155
+get_pirate_money: SUCCESS, -267
+get_pirate_money: SUCCESS, -261
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -155
-get_pirate_money: SUCCESS, -149
+get_pirate_money: SUCCESS, -271
+get_pirate_money: SUCCESS, -265
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -159
-get_pirate_money: SUCCESS, -153
+get_pirate_money: SUCCESS, -265
+get_pirate_money: SUCCESS, -259
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -163
-get_pirate_money: SUCCESS, -157
+get_pirate_money: SUCCESS, -269
+get_pirate_money: SUCCESS, -263
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -167
-get_pirate_money: SUCCESS, -161
+get_pirate_money: SUCCESS, -273
+get_pirate_money: SUCCESS, -267
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -171
-get_pirate_money: SUCCESS, -165
+get_pirate_money: SUCCESS, -277
+get_pirate_money: SUCCESS, -271
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -165
-get_pirate_money: SUCCESS, -159
+get_pirate_money: SUCCESS, -281
+get_pirate_money: SUCCESS, -275
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -169
-get_pirate_money: SUCCESS, -163
+get_pirate_money: SUCCESS, -275
+get_pirate_money: SUCCESS, -269
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -173
-get_pirate_money: SUCCESS, -167
+get_pirate_money: SUCCESS, -279
+get_pirate_money: SUCCESS, -273
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -177
-get_pirate_money: SUCCESS, -171
+get_pirate_money: SUCCESS, -283
+get_pirate_money: SUCCESS, -277
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -181
-get_pirate_money: SUCCESS, -175
+get_pirate_money: SUCCESS, -287
+get_pirate_money: SUCCESS, -281
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -175
-get_pirate_money: SUCCESS, -169
+get_pirate_money: SUCCESS, -291
+get_pirate_money: SUCCESS, -285
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -179
-get_pirate_money: SUCCESS, -173
+get_pirate_money: SUCCESS, -285
+get_pirate_money: SUCCESS, -279
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -183
-get_pirate_money: SUCCESS, -177
+get_pirate_money: SUCCESS, -289
+get_pirate_money: SUCCESS, -283
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -187
-get_pirate_money: SUCCESS, -181
+get_pirate_money: SUCCESS, -293
+get_pirate_money: SUCCESS, -287
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -191
-get_pirate_money: SUCCESS, -185
+get_pirate_money: SUCCESS, -297
+get_pirate_money: SUCCESS, -291
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -185
-get_pirate_money: SUCCESS, -179
+get_pirate_money: SUCCESS, -301
+get_pirate_money: SUCCESS, -295
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -189
-get_pirate_money: SUCCESS, -183
+get_pirate_money: SUCCESS, -295
+get_pirate_money: SUCCESS, -289
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -193
-get_pirate_money: SUCCESS, -187
+get_pirate_money: SUCCESS, -299
+get_pirate_money: SUCCESS, -293
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -197
-get_pirate_money: SUCCESS, -191
+get_pirate_money: SUCCESS, -303
+get_pirate_money: SUCCESS, -297
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -201
-get_pirate_money: SUCCESS, -195
+get_pirate_money: SUCCESS, -307
+get_pirate_money: SUCCESS, -301
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -95
-get_pirate_money: SUCCESS, -89
+get_pirate_money: SUCCESS, -311
+get_pirate_money: SUCCESS, -305
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -99
-get_pirate_money: SUCCESS, -93
+get_pirate_money: SUCCESS, -305
+get_pirate_money: SUCCESS, -299
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -103
-get_pirate_money: SUCCESS, -97
+get_pirate_money: SUCCESS, -309
+get_pirate_money: SUCCESS, -303
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -107
-get_pirate_money: SUCCESS, -101
+get_pirate_money: SUCCESS, -313
+get_pirate_money: SUCCESS, -307
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -111
-get_pirate_money: SUCCESS, -105
+get_pirate_money: SUCCESS, -317
+get_pirate_money: SUCCESS, -311
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -105
-get_pirate_money: SUCCESS, -99
+get_pirate_money: SUCCESS, -321
+get_pirate_money: SUCCESS, -315
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -109
-get_pirate_money: SUCCESS, -103
+get_pirate_money: SUCCESS, -315
+get_pirate_money: SUCCESS, -309
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -113
-get_pirate_money: SUCCESS, -107
+get_pirate_money: SUCCESS, -319
+get_pirate_money: SUCCESS, -313
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -117
-get_pirate_money: SUCCESS, -111
+get_pirate_money: SUCCESS, -323
+get_pirate_money: SUCCESS, -317
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -121
-get_pirate_money: SUCCESS, -115
+get_pirate_money: SUCCESS, -327
+get_pirate_money: SUCCESS, -321
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -115
-get_pirate_money: SUCCESS, -109
+get_pirate_money: SUCCESS, -331
+get_pirate_money: SUCCESS, -325
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -119
-get_pirate_money: SUCCESS, -113
+get_pirate_money: SUCCESS, -325
+get_pirate_money: SUCCESS, -319
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -123
-get_pirate_money: SUCCESS, -117
+get_pirate_money: SUCCESS, -329
+get_pirate_money: SUCCESS, -323
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -127
-get_pirate_money: SUCCESS, -121
+get_pirate_money: SUCCESS, -333
+get_pirate_money: SUCCESS, -327
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -131
-get_pirate_money: SUCCESS, -125
+get_pirate_money: SUCCESS, -337
+get_pirate_money: SUCCESS, -331
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -125
-get_pirate_money: SUCCESS, -119
+get_pirate_money: SUCCESS, -341
+get_pirate_money: SUCCESS, -335
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -129
-get_pirate_money: SUCCESS, -123
+get_pirate_money: SUCCESS, -335
+get_pirate_money: SUCCESS, -329
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -133
-get_pirate_money: SUCCESS, -127
+get_pirate_money: SUCCESS, -339
+get_pirate_money: SUCCESS, -333
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -137
-get_pirate_money: SUCCESS, -131
+get_pirate_money: SUCCESS, -343
+get_pirate_money: SUCCESS, -337
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -141
-get_pirate_money: SUCCESS, -135
+get_pirate_money: SUCCESS, -347
+get_pirate_money: SUCCESS, -341
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -135
-get_pirate_money: SUCCESS, -129
+get_pirate_money: SUCCESS, -351
+get_pirate_money: SUCCESS, -345
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -139
-get_pirate_money: SUCCESS, -133
+get_pirate_money: SUCCESS, -345
+get_pirate_money: SUCCESS, -339
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -143
-get_pirate_money: SUCCESS, -137
+get_pirate_money: SUCCESS, -349
+get_pirate_money: SUCCESS, -343
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -147
-get_pirate_money: SUCCESS, -141
+get_pirate_money: SUCCESS, -353
+get_pirate_money: SUCCESS, -347
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -151
-get_pirate_money: SUCCESS, -145
+get_pirate_money: SUCCESS, -357
+get_pirate_money: SUCCESS, -351
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -145
-get_pirate_money: SUCCESS, -139
+get_pirate_money: SUCCESS, -361
+get_pirate_money: SUCCESS, -355
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -149
-get_pirate_money: SUCCESS, -143
+get_pirate_money: SUCCESS, -355
+get_pirate_money: SUCCESS, -349
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -153
-get_pirate_money: SUCCESS, -147
+get_pirate_money: SUCCESS, -359
+get_pirate_money: SUCCESS, -353
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -157
-get_pirate_money: SUCCESS, -151
+get_pirate_money: SUCCESS, -363
+get_pirate_money: SUCCESS, -357
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -161
-get_pirate_money: SUCCESS, -155
+get_pirate_money: SUCCESS, -367
+get_pirate_money: SUCCESS, -361
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -155
-get_pirate_money: SUCCESS, -149
+get_pirate_money: SUCCESS, -371
+get_pirate_money: SUCCESS, -365
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -159
-get_pirate_money: SUCCESS, -153
+get_pirate_money: SUCCESS, -365
+get_pirate_money: SUCCESS, -359
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -163
-get_pirate_money: SUCCESS, -157
+get_pirate_money: SUCCESS, -369
+get_pirate_money: SUCCESS, -363
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -167
-get_pirate_money: SUCCESS, -161
+get_pirate_money: SUCCESS, -373
+get_pirate_money: SUCCESS, -367
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -171
-get_pirate_money: SUCCESS, -165
+get_pirate_money: SUCCESS, -377
+get_pirate_money: SUCCESS, -371
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -165
-get_pirate_money: SUCCESS, -159
+get_pirate_money: SUCCESS, -381
+get_pirate_money: SUCCESS, -375
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -169
-get_pirate_money: SUCCESS, -163
+get_pirate_money: SUCCESS, -375
+get_pirate_money: SUCCESS, -369
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -173
-get_pirate_money: SUCCESS, -167
+get_pirate_money: SUCCESS, -379
+get_pirate_money: SUCCESS, -373
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -177
-get_pirate_money: SUCCESS, -171
+get_pirate_money: SUCCESS, -383
+get_pirate_money: SUCCESS, -377
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -181
-get_pirate_money: SUCCESS, -175
+get_pirate_money: SUCCESS, -387
+get_pirate_money: SUCCESS, -381
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -175
-get_pirate_money: SUCCESS, -169
+get_pirate_money: SUCCESS, -391
+get_pirate_money: SUCCESS, -385
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -179
-get_pirate_money: SUCCESS, -173
+get_pirate_money: SUCCESS, -385
+get_pirate_money: SUCCESS, -379
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -183
-get_pirate_money: SUCCESS, -177
+get_pirate_money: SUCCESS, -389
+get_pirate_money: SUCCESS, -383
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -187
-get_pirate_money: SUCCESS, -181
+get_pirate_money: SUCCESS, -393
+get_pirate_money: SUCCESS, -387
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -191
-get_pirate_money: SUCCESS, -185
+get_pirate_money: SUCCESS, -397
+get_pirate_money: SUCCESS, -391
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -185
-get_pirate_money: SUCCESS, -179
+get_pirate_money: SUCCESS, -401
+get_pirate_money: SUCCESS, -395
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -189
-get_pirate_money: SUCCESS, -183
+get_pirate_money: SUCCESS, -395
+get_pirate_money: SUCCESS, -389
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -193
-get_pirate_money: SUCCESS, -187
+get_pirate_money: SUCCESS, -399
+get_pirate_money: SUCCESS, -393
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -197
-get_pirate_money: SUCCESS, -191
+get_pirate_money: SUCCESS, -403
+get_pirate_money: SUCCESS, -397
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -201
-get_pirate_money: SUCCESS, -195
+get_pirate_money: SUCCESS, -407
+get_pirate_money: SUCCESS, -401
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -95
-get_pirate_money: SUCCESS, -89
+get_pirate_money: SUCCESS, -411
+get_pirate_money: SUCCESS, -405
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -99
-get_pirate_money: SUCCESS, -93
+get_pirate_money: SUCCESS, -405
+get_pirate_money: SUCCESS, -399
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -103
-get_pirate_money: SUCCESS, -97
+get_pirate_money: SUCCESS, -409
+get_pirate_money: SUCCESS, -403
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -107
-get_pirate_money: SUCCESS, -101
+get_pirate_money: SUCCESS, -413
+get_pirate_money: SUCCESS, -407
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -111
-get_pirate_money: SUCCESS, -105
+get_pirate_money: SUCCESS, -417
+get_pirate_money: SUCCESS, -411
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -105
-get_pirate_money: SUCCESS, -99
+get_pirate_money: SUCCESS, -421
+get_pirate_money: SUCCESS, -415
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -109
-get_pirate_money: SUCCESS, -103
+get_pirate_money: SUCCESS, -415
+get_pirate_money: SUCCESS, -409
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -113
-get_pirate_money: SUCCESS, -107
+get_pirate_money: SUCCESS, -419
+get_pirate_money: SUCCESS, -413
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -117
-get_pirate_money: SUCCESS, -111
+get_pirate_money: SUCCESS, -423
+get_pirate_money: SUCCESS, -417
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -121
-get_pirate_money: SUCCESS, -115
+get_pirate_money: SUCCESS, -427
+get_pirate_money: SUCCESS, -421
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -115
-get_pirate_money: SUCCESS, -109
+get_pirate_money: SUCCESS, -431
+get_pirate_money: SUCCESS, -425
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -119
-get_pirate_money: SUCCESS, -113
+get_pirate_money: SUCCESS, -425
+get_pirate_money: SUCCESS, -419
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -123
-get_pirate_money: SUCCESS, -117
+get_pirate_money: SUCCESS, -429
+get_pirate_money: SUCCESS, -423
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -127
-get_pirate_money: SUCCESS, -121
+get_pirate_money: SUCCESS, -433
+get_pirate_money: SUCCESS, -427
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -131
-get_pirate_money: SUCCESS, -125
+get_pirate_money: SUCCESS, -437
+get_pirate_money: SUCCESS, -431
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -125
-get_pirate_money: SUCCESS, -119
+get_pirate_money: SUCCESS, -441
+get_pirate_money: SUCCESS, -435
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -129
-get_pirate_money: SUCCESS, -123
+get_pirate_money: SUCCESS, -435
+get_pirate_money: SUCCESS, -429
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -133
-get_pirate_money: SUCCESS, -127
+get_pirate_money: SUCCESS, -439
+get_pirate_money: SUCCESS, -433
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -137
-get_pirate_money: SUCCESS, -131
+get_pirate_money: SUCCESS, -443
+get_pirate_money: SUCCESS, -437
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -141
-get_pirate_money: SUCCESS, -135
+get_pirate_money: SUCCESS, -447
+get_pirate_money: SUCCESS, -441
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -135
-get_pirate_money: SUCCESS, -129
+get_pirate_money: SUCCESS, -451
+get_pirate_money: SUCCESS, -445
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -139
-get_pirate_money: SUCCESS, -133
+get_pirate_money: SUCCESS, -445
+get_pirate_money: SUCCESS, -439
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -143
-get_pirate_money: SUCCESS, -137
+get_pirate_money: SUCCESS, -449
+get_pirate_money: SUCCESS, -443
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -147
-get_pirate_money: SUCCESS, -141
+get_pirate_money: SUCCESS, -453
+get_pirate_money: SUCCESS, -447
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -151
-get_pirate_money: SUCCESS, -145
+get_pirate_money: SUCCESS, -457
+get_pirate_money: SUCCESS, -451
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -145
-get_pirate_money: SUCCESS, -139
+get_pirate_money: SUCCESS, -461
+get_pirate_money: SUCCESS, -455
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -149
-get_pirate_money: SUCCESS, -143
+get_pirate_money: SUCCESS, -455
+get_pirate_money: SUCCESS, -449
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -153
-get_pirate_money: SUCCESS, -147
+get_pirate_money: SUCCESS, -459
+get_pirate_money: SUCCESS, -453
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -157
-get_pirate_money: SUCCESS, -151
+get_pirate_money: SUCCESS, -463
+get_pirate_money: SUCCESS, -457
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -161
-get_pirate_money: SUCCESS, -155
+get_pirate_money: SUCCESS, -467
+get_pirate_money: SUCCESS, -461
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -155
-get_pirate_money: SUCCESS, -149
+get_pirate_money: SUCCESS, -471
+get_pirate_money: SUCCESS, -465
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -159
-get_pirate_money: SUCCESS, -153
+get_pirate_money: SUCCESS, -465
+get_pirate_money: SUCCESS, -459
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -163
-get_pirate_money: SUCCESS, -157
+get_pirate_money: SUCCESS, -469
+get_pirate_money: SUCCESS, -463
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -167
-get_pirate_money: SUCCESS, -161
+get_pirate_money: SUCCESS, -473
+get_pirate_money: SUCCESS, -467
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -171
-get_pirate_money: SUCCESS, -165
+get_pirate_money: SUCCESS, -477
+get_pirate_money: SUCCESS, -471
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -165
-get_pirate_money: SUCCESS, -159
+get_pirate_money: SUCCESS, -481
+get_pirate_money: SUCCESS, -475
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -169
-get_pirate_money: SUCCESS, -163
+get_pirate_money: SUCCESS, -475
+get_pirate_money: SUCCESS, -469
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -173
-get_pirate_money: SUCCESS, -167
+get_pirate_money: SUCCESS, -479
+get_pirate_money: SUCCESS, -473
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -177
-get_pirate_money: SUCCESS, -171
+get_pirate_money: SUCCESS, -483
+get_pirate_money: SUCCESS, -477
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -181
-get_pirate_money: SUCCESS, -175
+get_pirate_money: SUCCESS, -487
+get_pirate_money: SUCCESS, -481
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -175
-get_pirate_money: SUCCESS, -169
+get_pirate_money: SUCCESS, -491
+get_pirate_money: SUCCESS, -485
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -179
-get_pirate_money: SUCCESS, -173
+get_pirate_money: SUCCESS, -485
+get_pirate_money: SUCCESS, -479
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -183
-get_pirate_money: SUCCESS, -177
+get_pirate_money: SUCCESS, -489
+get_pirate_money: SUCCESS, -483
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -187
-get_pirate_money: SUCCESS, -181
+get_pirate_money: SUCCESS, -493
+get_pirate_money: SUCCESS, -487
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -191
-get_pirate_money: SUCCESS, -185
+get_pirate_money: SUCCESS, -497
+get_pirate_money: SUCCESS, -491
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -185
-get_pirate_money: SUCCESS, -179
+get_pirate_money: SUCCESS, -501
+get_pirate_money: SUCCESS, -495
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -189
-get_pirate_money: SUCCESS, -183
+get_pirate_money: SUCCESS, -495
+get_pirate_money: SUCCESS, -489
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -193
-get_pirate_money: SUCCESS, -187
+get_pirate_money: SUCCESS, -499
+get_pirate_money: SUCCESS, -493
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -197
-get_pirate_money: SUCCESS, -191
+get_pirate_money: SUCCESS, -503
+get_pirate_money: SUCCESS, -497
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -201
-get_pirate_money: SUCCESS, -195
+get_pirate_money: SUCCESS, -507
+get_pirate_money: SUCCESS, -501
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -95
-get_pirate_money: SUCCESS, -89
+get_pirate_money: SUCCESS, -511
+get_pirate_money: SUCCESS, -505
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -99
-get_pirate_money: SUCCESS, -93
+get_pirate_money: SUCCESS, -505
+get_pirate_money: SUCCESS, -499
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -103
-get_pirate_money: SUCCESS, -97
+get_pirate_money: SUCCESS, -509
+get_pirate_money: SUCCESS, -503
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -107
-get_pirate_money: SUCCESS, -101
+get_pirate_money: SUCCESS, -513
+get_pirate_money: SUCCESS, -507
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -111
-get_pirate_money: SUCCESS, -105
+get_pirate_money: SUCCESS, -517
+get_pirate_money: SUCCESS, -511
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -105
-get_pirate_money: SUCCESS, -99
+get_pirate_money: SUCCESS, -521
+get_pirate_money: SUCCESS, -515
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -109
-get_pirate_money: SUCCESS, -103
+get_pirate_money: SUCCESS, -515
+get_pirate_money: SUCCESS, -509
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -113
-get_pirate_money: SUCCESS, -107
+get_pirate_money: SUCCESS, -519
+get_pirate_money: SUCCESS, -513
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -117
-get_pirate_money: SUCCESS, -111
+get_pirate_money: SUCCESS, -523
+get_pirate_money: SUCCESS, -517
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -121
-get_pirate_money: SUCCESS, -115
+get_pirate_money: SUCCESS, -527
+get_pirate_money: SUCCESS, -521
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -115
-get_pirate_money: SUCCESS, -109
+get_pirate_money: SUCCESS, -531
+get_pirate_money: SUCCESS, -525
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -119
-get_pirate_money: SUCCESS, -113
+get_pirate_money: SUCCESS, -525
+get_pirate_money: SUCCESS, -519
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -123
-get_pirate_money: SUCCESS, -117
+get_pirate_money: SUCCESS, -529
+get_pirate_money: SUCCESS, -523
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -127
-get_pirate_money: SUCCESS, -121
+get_pirate_money: SUCCESS, -533
+get_pirate_money: SUCCESS, -527
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -131
-get_pirate_money: SUCCESS, -125
+get_pirate_money: SUCCESS, -537
+get_pirate_money: SUCCESS, -531
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -125
-get_pirate_money: SUCCESS, -119
+get_pirate_money: SUCCESS, -541
+get_pirate_money: SUCCESS, -535
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -129
-get_pirate_money: SUCCESS, -123
+get_pirate_money: SUCCESS, -535
+get_pirate_money: SUCCESS, -529
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -133
-get_pirate_money: SUCCESS, -127
+get_pirate_money: SUCCESS, -539
+get_pirate_money: SUCCESS, -533
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -137
-get_pirate_money: SUCCESS, -131
+get_pirate_money: SUCCESS, -543
+get_pirate_money: SUCCESS, -537
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -141
-get_pirate_money: SUCCESS, -135
+get_pirate_money: SUCCESS, -547
+get_pirate_money: SUCCESS, -541
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -135
-get_pirate_money: SUCCESS, -129
+get_pirate_money: SUCCESS, -551
+get_pirate_money: SUCCESS, -545
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -139
-get_pirate_money: SUCCESS, -133
+get_pirate_money: SUCCESS, -545
+get_pirate_money: SUCCESS, -539
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -143
-get_pirate_money: SUCCESS, -137
+get_pirate_money: SUCCESS, -549
+get_pirate_money: SUCCESS, -543
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -147
-get_pirate_money: SUCCESS, -141
+get_pirate_money: SUCCESS, -553
+get_pirate_money: SUCCESS, -547
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -151
-get_pirate_money: SUCCESS, -145
+get_pirate_money: SUCCESS, -557
+get_pirate_money: SUCCESS, -551
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -145
-get_pirate_money: SUCCESS, -139
+get_pirate_money: SUCCESS, -561
+get_pirate_money: SUCCESS, -555
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -149
-get_pirate_money: SUCCESS, -143
+get_pirate_money: SUCCESS, -555
+get_pirate_money: SUCCESS, -549
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -153
-get_pirate_money: SUCCESS, -147
+get_pirate_money: SUCCESS, -559
+get_pirate_money: SUCCESS, -553
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -157
-get_pirate_money: SUCCESS, -151
+get_pirate_money: SUCCESS, -563
+get_pirate_money: SUCCESS, -557
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -161
-get_pirate_money: SUCCESS, -155
+get_pirate_money: SUCCESS, -567
+get_pirate_money: SUCCESS, -561
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -155
-get_pirate_money: SUCCESS, -149
+get_pirate_money: SUCCESS, -571
+get_pirate_money: SUCCESS, -565
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -159
-get_pirate_money: SUCCESS, -153
+get_pirate_money: SUCCESS, -565
+get_pirate_money: SUCCESS, -559
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -163
-get_pirate_money: SUCCESS, -157
+get_pirate_money: SUCCESS, -569
+get_pirate_money: SUCCESS, -563
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -167
-get_pirate_money: SUCCESS, -161
+get_pirate_money: SUCCESS, -573
+get_pirate_money: SUCCESS, -567
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -171
-get_pirate_money: SUCCESS, -165
+get_pirate_money: SUCCESS, -577
+get_pirate_money: SUCCESS, -571
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -165
-get_pirate_money: SUCCESS, -159
+get_pirate_money: SUCCESS, -581
+get_pirate_money: SUCCESS, -575
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -169
-get_pirate_money: SUCCESS, -163
+get_pirate_money: SUCCESS, -575
+get_pirate_money: SUCCESS, -569
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -173
-get_pirate_money: SUCCESS, -167
+get_pirate_money: SUCCESS, -579
+get_pirate_money: SUCCESS, -573
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -177
-get_pirate_money: SUCCESS, -171
+get_pirate_money: SUCCESS, -583
+get_pirate_money: SUCCESS, -577
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -181
-get_pirate_money: SUCCESS, -175
+get_pirate_money: SUCCESS, -587
+get_pirate_money: SUCCESS, -581
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -175
-get_pirate_money: SUCCESS, -169
+get_pirate_money: SUCCESS, -591
+get_pirate_money: SUCCESS, -585
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -179
-get_pirate_money: SUCCESS, -173
+get_pirate_money: SUCCESS, -585
+get_pirate_money: SUCCESS, -579
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -183
-get_pirate_money: SUCCESS, -177
+get_pirate_money: SUCCESS, -589
+get_pirate_money: SUCCESS, -583
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -187
-get_pirate_money: SUCCESS, -181
+get_pirate_money: SUCCESS, -593
+get_pirate_money: SUCCESS, -587
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -191
-get_pirate_money: SUCCESS, -185
+get_pirate_money: SUCCESS, -597
+get_pirate_money: SUCCESS, -591
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -185
-get_pirate_money: SUCCESS, -179
+get_pirate_money: SUCCESS, -601
+get_pirate_money: SUCCESS, -595
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -189
-get_pirate_money: SUCCESS, -183
+get_pirate_money: SUCCESS, -595
+get_pirate_money: SUCCESS, -589
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -193
-get_pirate_money: SUCCESS, -187
+get_pirate_money: SUCCESS, -599
+get_pirate_money: SUCCESS, -593
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -197
-get_pirate_money: SUCCESS, -191
+get_pirate_money: SUCCESS, -603
+get_pirate_money: SUCCESS, -597
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -201
-get_pirate_money: SUCCESS, -195
+get_pirate_money: SUCCESS, -607
+get_pirate_money: SUCCESS, -601
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -95
-get_pirate_money: SUCCESS, -89
+get_pirate_money: SUCCESS, -611
+get_pirate_money: SUCCESS, -605
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -99
-get_pirate_money: SUCCESS, -93
+get_pirate_money: SUCCESS, -605
+get_pirate_money: SUCCESS, -599
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -103
-get_pirate_money: SUCCESS, -97
+get_pirate_money: SUCCESS, -609
+get_pirate_money: SUCCESS, -603
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -107
-get_pirate_money: SUCCESS, -101
+get_pirate_money: SUCCESS, -613
+get_pirate_money: SUCCESS, -607
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -111
-get_pirate_money: SUCCESS, -105
+get_pirate_money: SUCCESS, -617
+get_pirate_money: SUCCESS, -611
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -105
-get_pirate_money: SUCCESS, -99
+get_pirate_money: SUCCESS, -621
+get_pirate_money: SUCCESS, -615
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -109
-get_pirate_money: SUCCESS, -103
+get_pirate_money: SUCCESS, -615
+get_pirate_money: SUCCESS, -609
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -113
-get_pirate_money: SUCCESS, -107
+get_pirate_money: SUCCESS, -619
+get_pirate_money: SUCCESS, -613
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -117
-get_pirate_money: SUCCESS, -111
+get_pirate_money: SUCCESS, -623
+get_pirate_money: SUCCESS, -617
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -121
-get_pirate_money: SUCCESS, -115
+get_pirate_money: SUCCESS, -627
+get_pirate_money: SUCCESS, -621
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -115
-get_pirate_money: SUCCESS, -109
+get_pirate_money: SUCCESS, -631
+get_pirate_money: SUCCESS, -625
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -119
-get_pirate_money: SUCCESS, -113
+get_pirate_money: SUCCESS, -625
+get_pirate_money: SUCCESS, -619
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -123
-get_pirate_money: SUCCESS, -117
+get_pirate_money: SUCCESS, -629
+get_pirate_money: SUCCESS, -623
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -127
-get_pirate_money: SUCCESS, -121
+get_pirate_money: SUCCESS, -633
+get_pirate_money: SUCCESS, -627
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -131
-get_pirate_money: SUCCESS, -125
+get_pirate_money: SUCCESS, -637
+get_pirate_money: SUCCESS, -631
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -125
-get_pirate_money: SUCCESS, -119
+get_pirate_money: SUCCESS, -641
+get_pirate_money: SUCCESS, -635
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -129
-get_pirate_money: SUCCESS, -123
+get_pirate_money: SUCCESS, -635
+get_pirate_money: SUCCESS, -629
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -133
-get_pirate_money: SUCCESS, -127
+get_pirate_money: SUCCESS, -639
+get_pirate_money: SUCCESS, -633
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -137
-get_pirate_money: SUCCESS, -131
+get_pirate_money: SUCCESS, -643
+get_pirate_money: SUCCESS, -637
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -141
-get_pirate_money: SUCCESS, -135
+get_pirate_money: SUCCESS, -647
+get_pirate_money: SUCCESS, -641
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -135
-get_pirate_money: SUCCESS, -129
+get_pirate_money: SUCCESS, -651
+get_pirate_money: SUCCESS, -645
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -139
-get_pirate_money: SUCCESS, -133
+get_pirate_money: SUCCESS, -645
+get_pirate_money: SUCCESS, -639
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -143
-get_pirate_money: SUCCESS, -137
+get_pirate_money: SUCCESS, -649
+get_pirate_money: SUCCESS, -643
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -147
-get_pirate_money: SUCCESS, -141
+get_pirate_money: SUCCESS, -653
+get_pirate_money: SUCCESS, -647
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -151
-get_pirate_money: SUCCESS, -145
+get_pirate_money: SUCCESS, -657
+get_pirate_money: SUCCESS, -651
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -145
-get_pirate_money: SUCCESS, -139
+get_pirate_money: SUCCESS, -661
+get_pirate_money: SUCCESS, -655
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -149
-get_pirate_money: SUCCESS, -143
+get_pirate_money: SUCCESS, -655
+get_pirate_money: SUCCESS, -649
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -153
-get_pirate_money: SUCCESS, -147
+get_pirate_money: SUCCESS, -659
+get_pirate_money: SUCCESS, -653
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -157
-get_pirate_money: SUCCESS, -151
+get_pirate_money: SUCCESS, -663
+get_pirate_money: SUCCESS, -657
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -161
-get_pirate_money: SUCCESS, -155
+get_pirate_money: SUCCESS, -667
+get_pirate_money: SUCCESS, -661
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -155
-get_pirate_money: SUCCESS, -149
+get_pirate_money: SUCCESS, -671
+get_pirate_money: SUCCESS, -665
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -159
-get_pirate_money: SUCCESS, -153
+get_pirate_money: SUCCESS, -665
+get_pirate_money: SUCCESS, -659
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -163
-get_pirate_money: SUCCESS, -157
+get_pirate_money: SUCCESS, -669
+get_pirate_money: SUCCESS, -663
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -167
-get_pirate_money: SUCCESS, -161
+get_pirate_money: SUCCESS, -673
+get_pirate_money: SUCCESS, -667
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -171
-get_pirate_money: SUCCESS, -165
+get_pirate_money: SUCCESS, -677
+get_pirate_money: SUCCESS, -671
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -165
-get_pirate_money: SUCCESS, -159
+get_pirate_money: SUCCESS, -681
+get_pirate_money: SUCCESS, -675
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -169
-get_pirate_money: SUCCESS, -163
+get_pirate_money: SUCCESS, -675
+get_pirate_money: SUCCESS, -669
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -173
-get_pirate_money: SUCCESS, -167
+get_pirate_money: SUCCESS, -679
+get_pirate_money: SUCCESS, -673
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -177
-get_pirate_money: SUCCESS, -171
+get_pirate_money: SUCCESS, -683
+get_pirate_money: SUCCESS, -677
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -181
-get_pirate_money: SUCCESS, -175
+get_pirate_money: SUCCESS, -687
+get_pirate_money: SUCCESS, -681
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -175
-get_pirate_money: SUCCESS, -169
+get_pirate_money: SUCCESS, -691
+get_pirate_money: SUCCESS, -685
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -179
-get_pirate_money: SUCCESS, -173
+get_pirate_money: SUCCESS, -685
+get_pirate_money: SUCCESS, -679
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -183
-get_pirate_money: SUCCESS, -177
+get_pirate_money: SUCCESS, -689
+get_pirate_money: SUCCESS, -683
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -187
-get_pirate_money: SUCCESS, -181
+get_pirate_money: SUCCESS, -693
+get_pirate_money: SUCCESS, -687
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -191
-get_pirate_money: SUCCESS, -185
+get_pirate_money: SUCCESS, -697
+get_pirate_money: SUCCESS, -691
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -185
-get_pirate_money: SUCCESS, -179
+get_pirate_money: SUCCESS, -701
+get_pirate_money: SUCCESS, -695
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -189
-get_pirate_money: SUCCESS, -183
+get_pirate_money: SUCCESS, -695
+get_pirate_money: SUCCESS, -689
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -193
-get_pirate_money: SUCCESS, -187
+get_pirate_money: SUCCESS, -699
+get_pirate_money: SUCCESS, -693
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -197
-get_pirate_money: SUCCESS, -191
+get_pirate_money: SUCCESS, -703
+get_pirate_money: SUCCESS, -697
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -201
-get_pirate_money: SUCCESS, -195
+get_pirate_money: SUCCESS, -707
+get_pirate_money: SUCCESS, -701
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -95
-get_pirate_money: SUCCESS, -89
+get_pirate_money: SUCCESS, -711
+get_pirate_money: SUCCESS, -705
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -99
-get_pirate_money: SUCCESS, -93
+get_pirate_money: SUCCESS, -705
+get_pirate_money: SUCCESS, -699
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -103
-get_pirate_money: SUCCESS, -97
+get_pirate_money: SUCCESS, -709
+get_pirate_money: SUCCESS, -703
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -107
-get_pirate_money: SUCCESS, -101
+get_pirate_money: SUCCESS, -713
+get_pirate_money: SUCCESS, -707
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -111
-get_pirate_money: SUCCESS, -105
+get_pirate_money: SUCCESS, -717
+get_pirate_money: SUCCESS, -711
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -105
-get_pirate_money: SUCCESS, -99
+get_pirate_money: SUCCESS, -721
+get_pirate_money: SUCCESS, -715
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -109
-get_pirate_money: SUCCESS, -103
+get_pirate_money: SUCCESS, -715
+get_pirate_money: SUCCESS, -709
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -113
-get_pirate_money: SUCCESS, -107
+get_pirate_money: SUCCESS, -719
+get_pirate_money: SUCCESS, -713
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -117
-get_pirate_money: SUCCESS, -111
+get_pirate_money: SUCCESS, -723
+get_pirate_money: SUCCESS, -717
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -121
-get_pirate_money: SUCCESS, -115
+get_pirate_money: SUCCESS, -727
+get_pirate_money: SUCCESS, -721
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -115
-get_pirate_money: SUCCESS, -109
+get_pirate_money: SUCCESS, -731
+get_pirate_money: SUCCESS, -725
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -119
-get_pirate_money: SUCCESS, -113
+get_pirate_money: SUCCESS, -725
+get_pirate_money: SUCCESS, -719
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -123
-get_pirate_money: SUCCESS, -117
+get_pirate_money: SUCCESS, -729
+get_pirate_money: SUCCESS, -723
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -127
-get_pirate_money: SUCCESS, -121
+get_pirate_money: SUCCESS, -733
+get_pirate_money: SUCCESS, -727
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -131
-get_pirate_money: SUCCESS, -125
+get_pirate_money: SUCCESS, -737
+get_pirate_money: SUCCESS, -731
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -125
-get_pirate_money: SUCCESS, -119
+get_pirate_money: SUCCESS, -741
+get_pirate_money: SUCCESS, -735
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -129
-get_pirate_money: SUCCESS, -123
+get_pirate_money: SUCCESS, -735
+get_pirate_money: SUCCESS, -729
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -133
-get_pirate_money: SUCCESS, -127
+get_pirate_money: SUCCESS, -739
+get_pirate_money: SUCCESS, -733
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -137
-get_pirate_money: SUCCESS, -131
+get_pirate_money: SUCCESS, -743
+get_pirate_money: SUCCESS, -737
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -141
-get_pirate_money: SUCCESS, -135
+get_pirate_money: SUCCESS, -747
+get_pirate_money: SUCCESS, -741
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -135
-get_pirate_money: SUCCESS, -129
+get_pirate_money: SUCCESS, -751
+get_pirate_money: SUCCESS, -745
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -139
-get_pirate_money: SUCCESS, -133
+get_pirate_money: SUCCESS, -745
+get_pirate_money: SUCCESS, -739
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -143
-get_pirate_money: SUCCESS, -137
+get_pirate_money: SUCCESS, -749
+get_pirate_money: SUCCESS, -743
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -147
-get_pirate_money: SUCCESS, -141
+get_pirate_money: SUCCESS, -753
+get_pirate_money: SUCCESS, -747
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -151
-get_pirate_money: SUCCESS, -145
+get_pirate_money: SUCCESS, -757
+get_pirate_money: SUCCESS, -751
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -145
-get_pirate_money: SUCCESS, -139
+get_pirate_money: SUCCESS, -761
+get_pirate_money: SUCCESS, -755
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -149
-get_pirate_money: SUCCESS, -143
+get_pirate_money: SUCCESS, -755
+get_pirate_money: SUCCESS, -749
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -153
-get_pirate_money: SUCCESS, -147
+get_pirate_money: SUCCESS, -759
+get_pirate_money: SUCCESS, -753
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -157
-get_pirate_money: SUCCESS, -151
+get_pirate_money: SUCCESS, -763
+get_pirate_money: SUCCESS, -757
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -161
-get_pirate_money: SUCCESS, -155
+get_pirate_money: SUCCESS, -767
+get_pirate_money: SUCCESS, -761
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -155
-get_pirate_money: SUCCESS, -149
+get_pirate_money: SUCCESS, -771
+get_pirate_money: SUCCESS, -765
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -159
-get_pirate_money: SUCCESS, -153
+get_pirate_money: SUCCESS, -765
+get_pirate_money: SUCCESS, -759
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -163
-get_pirate_money: SUCCESS, -157
+get_pirate_money: SUCCESS, -769
+get_pirate_money: SUCCESS, -763
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -167
-get_pirate_money: SUCCESS, -161
+get_pirate_money: SUCCESS, -773
+get_pirate_money: SUCCESS, -767
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -171
-get_pirate_money: SUCCESS, -165
+get_pirate_money: SUCCESS, -777
+get_pirate_money: SUCCESS, -771
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -165
-get_pirate_money: SUCCESS, -159
+get_pirate_money: SUCCESS, -781
+get_pirate_money: SUCCESS, -775
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -169
-get_pirate_money: SUCCESS, -163
+get_pirate_money: SUCCESS, -775
+get_pirate_money: SUCCESS, -769
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -173
-get_pirate_money: SUCCESS, -167
+get_pirate_money: SUCCESS, -779
+get_pirate_money: SUCCESS, -773
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -177
-get_pirate_money: SUCCESS, -171
+get_pirate_money: SUCCESS, -783
+get_pirate_money: SUCCESS, -777
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -181
-get_pirate_money: SUCCESS, -175
+get_pirate_money: SUCCESS, -787
+get_pirate_money: SUCCESS, -781
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -175
-get_pirate_money: SUCCESS, -169
+get_pirate_money: SUCCESS, -791
+get_pirate_money: SUCCESS, -785
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -179
-get_pirate_money: SUCCESS, -173
+get_pirate_money: SUCCESS, -785
+get_pirate_money: SUCCESS, -779
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -183
-get_pirate_money: SUCCESS, -177
+get_pirate_money: SUCCESS, -789
+get_pirate_money: SUCCESS, -783
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -187
-get_pirate_money: SUCCESS, -181
+get_pirate_money: SUCCESS, -793
+get_pirate_money: SUCCESS, -787
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -191
-get_pirate_money: SUCCESS, -185
+get_pirate_money: SUCCESS, -797
+get_pirate_money: SUCCESS, -791
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -185
-get_pirate_money: SUCCESS, -179
+get_pirate_money: SUCCESS, -801
+get_pirate_money: SUCCESS, -795
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -189
-get_pirate_money: SUCCESS, -183
+get_pirate_money: SUCCESS, -795
+get_pirate_money: SUCCESS, -789
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -193
-get_pirate_money: SUCCESS, -187
+get_pirate_money: SUCCESS, -799
+get_pirate_money: SUCCESS, -793
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -197
-get_pirate_money: SUCCESS, -191
+get_pirate_money: SUCCESS, -803
+get_pirate_money: SUCCESS, -797
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -201
-get_pirate_money: SUCCESS, -195
+get_pirate_money: SUCCESS, -807
+get_pirate_money: SUCCESS, -801
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -95
-get_pirate_money: SUCCESS, -89
+get_pirate_money: SUCCESS, -811
+get_pirate_money: SUCCESS, -805
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -99
-get_pirate_money: SUCCESS, -93
+get_pirate_money: SUCCESS, -805
+get_pirate_money: SUCCESS, -799
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -103
-get_pirate_money: SUCCESS, -97
+get_pirate_money: SUCCESS, -809
+get_pirate_money: SUCCESS, -803
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -107
-get_pirate_money: SUCCESS, -101
+get_pirate_money: SUCCESS, -813
+get_pirate_money: SUCCESS, -807
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -111
-get_pirate_money: SUCCESS, -105
+get_pirate_money: SUCCESS, -817
+get_pirate_money: SUCCESS, -811
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -821
+get_pirate_money: SUCCESS, -815
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -815
+get_pirate_money: SUCCESS, -809
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -819
+get_pirate_money: SUCCESS, -813
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -823
+get_pirate_money: SUCCESS, -817
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -827
+get_pirate_money: SUCCESS, -821
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -831
+get_pirate_money: SUCCESS, -825
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -825
+get_pirate_money: SUCCESS, -819
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -829
+get_pirate_money: SUCCESS, -823
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -833
+get_pirate_money: SUCCESS, -827
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -837
+get_pirate_money: SUCCESS, -831
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -841
+get_pirate_money: SUCCESS, -835
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -835
+get_pirate_money: SUCCESS, -829
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -839
+get_pirate_money: SUCCESS, -833
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -843
+get_pirate_money: SUCCESS, -837
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -847
+get_pirate_money: SUCCESS, -841
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -851
+get_pirate_money: SUCCESS, -845
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -845
+get_pirate_money: SUCCESS, -839
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -849
+get_pirate_money: SUCCESS, -843
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -853
+get_pirate_money: SUCCESS, -847
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -857
+get_pirate_money: SUCCESS, -851
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -861
+get_pirate_money: SUCCESS, -855
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -855
+get_pirate_money: SUCCESS, -849
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -859
+get_pirate_money: SUCCESS, -853
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -863
+get_pirate_money: SUCCESS, -857
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -867
+get_pirate_money: SUCCESS, -861
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -871
+get_pirate_money: SUCCESS, -865
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -865
+get_pirate_money: SUCCESS, -859
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -869
+get_pirate_money: SUCCESS, -863
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -873
+get_pirate_money: SUCCESS, -867
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -877
+get_pirate_money: SUCCESS, -871
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -881
+get_pirate_money: SUCCESS, -875
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -875
+get_pirate_money: SUCCESS, -869
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -879
+get_pirate_money: SUCCESS, -873
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -883
+get_pirate_money: SUCCESS, -877
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -887
+get_pirate_money: SUCCESS, -881
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -891
+get_pirate_money: SUCCESS, -885
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -885
+get_pirate_money: SUCCESS, -879
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -889
+get_pirate_money: SUCCESS, -883
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -893
+get_pirate_money: SUCCESS, -887
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -897
+get_pirate_money: SUCCESS, -891
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -901
+get_pirate_money: SUCCESS, -895
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -895
+get_pirate_money: SUCCESS, -889
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -899
+get_pirate_money: SUCCESS, -893
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -903
+get_pirate_money: SUCCESS, -897
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -907
+get_pirate_money: SUCCESS, -901
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -911
+get_pirate_money: SUCCESS, -905
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -905
+get_pirate_money: SUCCESS, -899
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -909
+get_pirate_money: SUCCESS, -903
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -913
+get_pirate_money: SUCCESS, -907
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -917
+get_pirate_money: SUCCESS, -911
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -921
+get_pirate_money: SUCCESS, -915
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -915
+get_pirate_money: SUCCESS, -909
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -919
+get_pirate_money: SUCCESS, -913
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -923
+get_pirate_money: SUCCESS, -917
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -927
+get_pirate_money: SUCCESS, -921
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -931
+get_pirate_money: SUCCESS, -925
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -925
+get_pirate_money: SUCCESS, -919
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -929
+get_pirate_money: SUCCESS, -923
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -933
+get_pirate_money: SUCCESS, -927
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -937
+get_pirate_money: SUCCESS, -931
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -941
+get_pirate_money: SUCCESS, -935
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -935
+get_pirate_money: SUCCESS, -929
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -939
+get_pirate_money: SUCCESS, -933
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -943
+get_pirate_money: SUCCESS, -937
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -947
+get_pirate_money: SUCCESS, -941
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -951
+get_pirate_money: SUCCESS, -945
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -945
+get_pirate_money: SUCCESS, -939
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -949
+get_pirate_money: SUCCESS, -943
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -953
+get_pirate_money: SUCCESS, -947
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -957
+get_pirate_money: SUCCESS, -951
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -961
+get_pirate_money: SUCCESS, -955
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -955
+get_pirate_money: SUCCESS, -949
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -959
+get_pirate_money: SUCCESS, -953
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -963
+get_pirate_money: SUCCESS, -957
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -967
+get_pirate_money: SUCCESS, -961
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -971
+get_pirate_money: SUCCESS, -965
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -965
+get_pirate_money: SUCCESS, -959
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -969
+get_pirate_money: SUCCESS, -963
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -973
+get_pirate_money: SUCCESS, -967
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -977
+get_pirate_money: SUCCESS, -971
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -981
+get_pirate_money: SUCCESS, -975
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -975
+get_pirate_money: SUCCESS, -969
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -979
+get_pirate_money: SUCCESS, -973
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -983
+get_pirate_money: SUCCESS, -977
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -987
+get_pirate_money: SUCCESS, -981
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -991
+get_pirate_money: SUCCESS, -985
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -985
+get_pirate_money: SUCCESS, -979
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -989
+get_pirate_money: SUCCESS, -983
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -993
+get_pirate_money: SUCCESS, -987
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -997
+get_pirate_money: SUCCESS, -991
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -1001
+get_pirate_money: SUCCESS, -995
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -995
+get_pirate_money: SUCCESS, -989
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -999
+get_pirate_money: SUCCESS, -993
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -1003
+get_pirate_money: SUCCESS, -997
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -1007
+get_pirate_money: SUCCESS, -1001
+pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, -1011
+get_pirate_money: SUCCESS, -1005
 pirate_argument: SUCCESS
 get_pirate_money: SUCCESS, -2
 get_pirate_money: SUCCESS, 2

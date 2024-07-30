@@ -48,8 +48,8 @@ get_pirate_money: SUCCESS, 0
 get_pirate_money: SUCCESS, 0
 unite_fleets: SUCCESS
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, 3
-get_pirate_money: SUCCESS, -3
+get_pirate_money: SUCCESS, 5
+get_pirate_money: SUCCESS, -5
 get_pirate_money: SUCCESS, -1
 get_pirate_money: SUCCESS, 0
 get_pirate_money: SUCCESS, 0
@@ -65,18 +65,18 @@ unite_fleets: FAILURE
 pirate_argument: FAILURE
 get_pirate_money: SUCCESS, 1
 get_pirate_money: FAILURE
-get_pirate_money: SUCCESS, -3
+get_pirate_money: SUCCESS, -5
 get_pirate_money: SUCCESS, 0
 get_pirate_money: SUCCESS, 0
 get_pirate_money: SUCCESS, 0
 get_pirate_money: SUCCESS, 0
-get_pirate_money: SUCCESS, 3
+get_pirate_money: SUCCESS, 5
 get_pirate_money: SUCCESS, 0
 get_pirate_money: SUCCESS, 1
 unite_fleets: FAILURE
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -3
-get_pirate_money: SUCCESS, 4
+get_pirate_money: SUCCESS, -5
+get_pirate_money: SUCCESS, 6
 get_pirate_money: SUCCESS, 0
 get_pirate_money: SUCCESS, 0
 get_pirate_money: SUCCESS, 0
@@ -84,9 +84,9 @@ get_pirate_money: SUCCESS, 0
 get_pirate_money: SUCCESS, 0
 get_pirate_money: SUCCESS, 0
 get_pirate_money: SUCCESS, 0
-get_pirate_money: SUCCESS, 3
+get_pirate_money: SUCCESS, 5
 get_pirate_money: SUCCESS, 0
-get_pirate_money: SUCCESS, 4
+get_pirate_money: SUCCESS, 6
 unite_fleets: SUCCESS
 pirate_argument: SUCCESS
 get_pirate_money: SUCCESS, -2

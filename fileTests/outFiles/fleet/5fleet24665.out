@@ -95,5 +95,5 @@ get_pirate_money: SUCCESS, -16
 get_pirate_money: SUCCESS, -13
 unite_fleets: FAILURE
 pirate_argument: SUCCESS
-get_pirate_money: SUCCESS, -10
-get_pirate_money: SUCCESS, 10
+get_pirate_money: SUCCESS, -12
+get_pirate_money: SUCCESS, 12

@@ -106,11 +106,11 @@ get_pirate_money: SUCCESS, 0
 get_pirate_money: SUCCESS, -6
 unite_fleets: FAILURE
 pirate_argument: SUCCESS
+get_pirate_money: SUCCESS, 0
 get_pirate_money: SUCCESS, -7
 get_pirate_money: SUCCESS, 0
 get_pirate_money: SUCCESS, 0
-get_pirate_money: SUCCESS, 0
-get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, -7
 get_pirate_money: SUCCESS, 0
 get_pirate_money: SUCCESS, 0
 get_pirate_money: SUCCESS, 0
