@@ -1,3 +1,4 @@
+![Header Image](https://www.dropbox.com/scl/fi/6ubuyx4i6ksllnqi3xr3o/DALL-E-2024-07-31-05.45.47-A-visual-representation-of-a-hierarchical-ship-structure-with-boxes-arranged-horizontally.-Each-box-represents-a-Fleet.-From-left-to-right_-Fleet-3-at.webp)
 # 234218-data-structures-wet2-spring2024
 1. **First**, create a `test` folder in the root directory of the project. 
 
