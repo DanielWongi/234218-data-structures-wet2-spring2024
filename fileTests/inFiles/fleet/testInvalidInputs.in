@@ -1,0 +1,36 @@
+add_fleet 0
+add_fleet -1
+pay_pirate -1 -1
+pay_pirate -1 1
+pay_pirate 1 -1
+pay_pirate 0 0
+pay_pirate 0 1
+pay_pirate 1 0
+num_ships_for_fleet 0
+num_ships_for_fleet -1
+add_pirate 0 0
+add_pirate 0 1
+add_pirate 1 0
+add_pirate 0 0
+add_pirate -1 -1
+add_pirate -1 1
+add_pirate 1 -1
+add_pirate 1 1
+get_pirate_money 0
+get_pirate_money -1
+unite_fleets 0 0
+unite_fleets 0 1
+unite_fleets 1 0
+unite_fleets 0 0
+unite_fleets -1 -1
+unite_fleets -1 1
+unite_fleets 1 -1
+unite_fleets 1 1
+pirate_argument 0 0
+pirate_argument 0 1
+pirate_argument 1 0
+pirate_argument 0 0
+pirate_argument -1 -1
+pirate_argument -1 1
+pirate_argument 1 -1
+pirate_argument 1 1

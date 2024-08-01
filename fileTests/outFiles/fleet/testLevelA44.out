@@ -1,0 +1,3219 @@
+add_fleet: SUCCESS
+add_fleet: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+add_pirate: SUCCESS
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 29
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 32
+add_fleet: SUCCESS
+add_fleet: FAILURE
+get_pirate_money: FAILURE
+add_fleet: SUCCESS
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 16
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 20
+get_pirate_money: FAILURE
+add_fleet: SUCCESS
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: SUCCESS
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 3
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 8
+add_pirate: FAILURE
+num_ships_for_fleet: FAILURE
+add_pirate: SUCCESS
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 8
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 18
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: SUCCESS
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 0
+add_pirate: SUCCESS
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: SUCCESS
+get_pirate_money: SUCCESS, 0
+add_pirate: FAILURE
+add_fleet: FAILURE
+add_pirate: SUCCESS
+get_pirate_money: FAILURE
+get_pirate_money: SUCCESS, 0
+get_pirate_money: FAILURE
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: SUCCESS
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+get_pirate_money: SUCCESS, 0
+add_pirate: SUCCESS
+get_pirate_money: FAILURE
+add_pirate: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+get_pirate_money: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+add_fleet: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 6
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 9
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+add_pirate: FAILURE
+get_pirate_money: FAILURE
+add_fleet: FAILURE
+get_pirate_money: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: SUCCESS
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 30
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 38
+get_pirate_money: FAILURE
+add_pirate: FAILURE
+get_pirate_money: FAILURE
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 30
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 39
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: FAILURE
+add_pirate: FAILURE
+add_pirate: FAILURE
+add_fleet: FAILURE
+add_pirate: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+add_pirate: SUCCESS
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: SUCCESS
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 21
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 27
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: FAILURE
+add_pirate: FAILURE
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+get_pirate_money: SUCCESS, 0
+add_fleet: FAILURE
+add_fleet: FAILURE
+add_fleet: FAILURE
+add_pirate: SUCCESS
+add_fleet: SUCCESS
+get_pirate_money: SUCCESS, 0
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 8
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 0
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 24
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 33
+add_pirate: SUCCESS
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+get_pirate_money: FAILURE
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 20
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 23
+get_pirate_money: FAILURE
+get_pirate_money: SUCCESS, 0
+get_pirate_money: FAILURE
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+add_pirate: FAILURE
+get_pirate_money: FAILURE
+add_pirate: SUCCESS
+get_pirate_money: FAILURE
+add_pirate: SUCCESS
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+add_pirate: FAILURE
+add_pirate: FAILURE
+add_fleet: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+add_pirate: SUCCESS
+add_fleet: FAILURE
+add_pirate: FAILURE
+add_fleet: FAILURE
+add_fleet: FAILURE
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 54
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 59
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+add_pirate: FAILURE
+add_pirate: FAILURE
+add_fleet: FAILURE
+add_fleet: FAILURE
+get_pirate_money: FAILURE
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 37
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 41
+add_pirate: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+add_pirate: FAILURE
+get_pirate_money: FAILURE
+add_pirate: SUCCESS
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 28
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 35
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 42
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 43
+add_pirate: SUCCESS
+get_pirate_money: SUCCESS, 0
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 60
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 70
+add_pirate: SUCCESS
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+get_pirate_money: SUCCESS, 9
+add_pirate: SUCCESS
+get_pirate_money: SUCCESS, 23
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 46
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 54
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 46
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 50
+add_fleet: FAILURE
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 18
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 23
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 40
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 41
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+add_pirate: FAILURE
+get_pirate_money: FAILURE
+add_fleet: FAILURE
+add_pirate: SUCCESS
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 38
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 44
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+add_pirate: SUCCESS
+get_pirate_money: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 44
+add_pirate: SUCCESS
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 6
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 17
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 23
+add_fleet: FAILURE
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: SUCCESS
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 23
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 51
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 58
+add_fleet: FAILURE
+get_pirate_money: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+add_fleet: FAILURE
+add_fleet: FAILURE
+add_pirate: SUCCESS
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 13
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 18
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 8
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 12
+add_fleet: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+get_pirate_money: SUCCESS, 0
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+get_pirate_money: SUCCESS, 33
+get_pirate_money: SUCCESS, 0
+add_pirate: FAILURE
+add_pirate: FAILURE
+add_pirate: SUCCESS
+add_fleet: FAILURE
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 81
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 83
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+get_pirate_money: SUCCESS, 83
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 39
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 40
+get_pirate_money: SUCCESS, 50
+add_fleet: FAILURE
+add_fleet: FAILURE
+add_fleet: FAILURE
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 81
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 84
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+get_pirate_money: SUCCESS, 50
+get_pirate_money: SUCCESS, 44
+add_pirate: FAILURE
+add_fleet: FAILURE
+get_pirate_money: FAILURE
+add_pirate: SUCCESS
+add_fleet: FAILURE
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+get_pirate_money: FAILURE
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 83
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: SUCCESS
+get_pirate_money: SUCCESS, 0
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 6
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 11
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 23
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 76
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 86
+get_pirate_money: SUCCESS, 0
+add_fleet: FAILURE
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 27
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 35
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 68
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 70
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 28
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 37
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 50
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 55
+get_pirate_money: SUCCESS, 0
+add_pirate: FAILURE
+get_pirate_money: SUCCESS, 0
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+add_pirate: FAILURE
+add_pirate: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 72
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 80
+add_pirate: SUCCESS
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+add_pirate: FAILURE
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 35
+add_pirate: FAILURE
+add_fleet: FAILURE
+add_pirate: FAILURE
+add_pirate: SUCCESS
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: FAILURE
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 83
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 86
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 93
+get_pirate_money: SUCCESS, 37
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 49
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 50
+get_pirate_money: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+add_fleet: FAILURE
+add_fleet: FAILURE
+add_fleet: FAILURE
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 99
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 100
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 22
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 31
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 3
+add_pirate: SUCCESS
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 30
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 32
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+add_pirate: SUCCESS
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+add_pirate: FAILURE
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+get_pirate_money: FAILURE
+add_fleet: FAILURE
+add_pirate: SUCCESS
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 110
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 116
+add_pirate: FAILURE
+get_pirate_money: FAILURE
+add_fleet: FAILURE
+add_pirate: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 93
+add_fleet: FAILURE
+add_pirate: FAILURE
+get_pirate_money: SUCCESS, 0
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 11
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 20
+add_pirate: FAILURE
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 0
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 105
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 106
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 56
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 59
+add_fleet: FAILURE
+add_pirate: FAILURE
+get_pirate_money: SUCCESS, 43
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 32
+add_fleet: FAILURE
+add_pirate: FAILURE
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 17
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 19
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 120
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 123
+add_pirate: FAILURE
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 0
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 129
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 139
+add_fleet: FAILURE
+add_fleet: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+add_fleet: FAILURE
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 31
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: SUCCESS
+get_pirate_money: FAILURE
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 29
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 30
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 40
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 44
+get_pirate_money: SUCCESS, 18
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 24
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 26
+get_pirate_money: SUCCESS, 93
+add_fleet: FAILURE
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 14
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 20
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 19
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 20
+add_pirate: FAILURE
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 84
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 134
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 137
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 39
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 45
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+add_pirate: FAILURE
+get_pirate_money: FAILURE
+get_pirate_money: SUCCESS, 139
+add_pirate: FAILURE
+add_fleet: FAILURE
+add_pirate: FAILURE
+get_pirate_money: FAILURE
+add_pirate: FAILURE
+get_pirate_money: SUCCESS, 139
+get_pirate_money: SUCCESS, 20
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 46
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 50
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 52
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 61
+add_fleet: FAILURE
+add_fleet: FAILURE
+add_pirate: FAILURE
+add_pirate: SUCCESS
+add_fleet: FAILURE
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 50
+add_pirate: FAILURE
+get_pirate_money: FAILURE
+add_pirate: SUCCESS
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 89
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 93
+get_pirate_money: SUCCESS, 37
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 137
+add_pirate: SUCCESS
+add_pirate: SUCCESS
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 13
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 17
+get_pirate_money: SUCCESS, 0
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 32
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 21
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 24
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 11
+get_pirate_money: SUCCESS, 44
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 53
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 58
+get_pirate_money: SUCCESS, 139
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 45
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 47
+add_pirate: FAILURE
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 142
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 145
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 93
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 99
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 102
+add_pirate: FAILURE
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+add_pirate: FAILURE
+add_pirate: SUCCESS
+get_pirate_money: SUCCESS, 50
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 64
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 67
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+add_fleet: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 23
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 26
+get_pirate_money: SUCCESS, 0
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 93
+add_fleet: FAILURE
+add_pirate: FAILURE
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 11
+get_pirate_money: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 33
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 42
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 44
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 50
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 52
+add_pirate: FAILURE
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 62
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 64
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 37
+add_pirate: FAILURE
+get_pirate_money: SUCCESS, 64
+get_pirate_money: SUCCESS, 0
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 26
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 29
+get_pirate_money: SUCCESS, 29
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 29
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 38
+add_fleet: FAILURE
+add_fleet: FAILURE
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 64
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 74
+add_fleet: FAILURE
+add_fleet: FAILURE
+add_pirate: FAILURE
+add_pirate: FAILURE
+add_fleet: FAILURE
+add_pirate: FAILURE
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 26
+add_pirate: SUCCESS
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 42
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 154
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 160
+add_pirate: FAILURE
+add_fleet: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+add_fleet: FAILURE
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 29
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 35
+add_pirate: FAILURE
+get_pirate_money: SUCCESS, 61
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 66
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 74
+add_pirate: FAILURE
+add_fleet: FAILURE
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: FAILURE
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+get_pirate_money: SUCCESS, 0
+add_fleet: FAILURE
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 67
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 75
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 85
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+add_pirate: SUCCESS
+get_pirate_money: SUCCESS, 29
+add_pirate: FAILURE
+add_fleet: FAILURE
+add_pirate: SUCCESS
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 24
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 44
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 11
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 12
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 74
+get_pirate_money: SUCCESS, 38
+add_pirate: FAILURE
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 65
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 71
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 26
+get_pirate_money: SUCCESS, 24
+add_pirate: SUCCESS
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 48
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 52
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 86
+add_fleet: FAILURE
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 34
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 40
+get_pirate_money: SUCCESS, 59
+get_pirate_money: SUCCESS, 26
+get_pirate_money: SUCCESS, 145
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 49
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 57
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 38
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 29
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+add_fleet: FAILURE
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 74
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 50
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 55
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 58
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 62
+get_pirate_money: SUCCESS, 67
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 69
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 75
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 51
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 55
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 75
+add_pirate: FAILURE
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 80
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 86
+get_pirate_money: SUCCESS, 74
+get_pirate_money: SUCCESS, 35
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 40
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 43
+get_pirate_money: SUCCESS, 85
+add_pirate: FAILURE
+get_pirate_money: SUCCESS, 64
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 38
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 55
+add_pirate: FAILURE
+add_pirate: FAILURE
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 28
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 32
+add_pirate: FAILURE
+add_pirate: FAILURE
+get_pirate_money: SUCCESS, 44
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 59
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 102
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 107
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 108
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 81
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 87
+get_pirate_money: SUCCESS, 108
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 71
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 73
+add_pirate: SUCCESS
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 12
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 53
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 55
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 99
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 104
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 101
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 104
+add_pirate: FAILURE
+add_fleet: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+get_pirate_money: SUCCESS, 55
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 77
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 85
+add_fleet: FAILURE
+add_pirate: FAILURE
+get_pirate_money: SUCCESS, 87
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 12
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 127
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 133
+get_pirate_money: SUCCESS, 102
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 154
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 156
+get_pirate_money: SUCCESS, 12
+add_pirate: FAILURE
+add_pirate: FAILURE
+add_fleet: FAILURE
+add_fleet: FAILURE
+add_pirate: FAILURE
+add_pirate: FAILURE
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 77
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 79
+get_pirate_money: SUCCESS, 35
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 40
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 47
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 185
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 194
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 91
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 100
+add_fleet: FAILURE
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 55
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 158
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 161
+add_pirate: FAILURE
+add_pirate: FAILURE
+add_fleet: FAILURE
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 102
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 107
+add_fleet: FAILURE
+add_pirate: FAILURE
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+add_fleet: FAILURE
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 125
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 126
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 75
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 83
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 79
+add_pirate: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+add_pirate: FAILURE
+get_pirate_money: SUCCESS, 102
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 75
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 85
+add_fleet: FAILURE
+add_pirate: SUCCESS
+get_pirate_money: SUCCESS, 107
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 49
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 53
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 0
+get_pirate_money: SUCCESS, 43
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 103
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 111
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+add_pirate: FAILURE
+get_pirate_money: SUCCESS, 83
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 46
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 52
+get_pirate_money: SUCCESS, 108
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 41
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 51
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 100
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 109
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 111
+add_pirate: FAILURE
+get_pirate_money: SUCCESS, 58
+add_pirate: FAILURE
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 114
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 119
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 0
+add_fleet: FAILURE
+add_pirate: FAILURE
+add_fleet: FAILURE
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 73
+add_fleet: FAILURE
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 55
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 64
+get_pirate_money: SUCCESS, 111
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 134
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 140
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 2
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 9
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 121
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 125
+add_pirate: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 21
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 26
+get_pirate_money: SUCCESS, 58
+get_pirate_money: SUCCESS, 43
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 107
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 109
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 9
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+add_fleet: FAILURE
+add_pirate: FAILURE
+get_pirate_money: SUCCESS, 145
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 169
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 172
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 149
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 150
+add_pirate: FAILURE
+add_pirate: FAILURE
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 79
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 89
+get_pirate_money: SUCCESS, 57
+add_fleet: FAILURE
+add_pirate: FAILURE
+add_fleet: FAILURE
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 71
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 100
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 106
+add_fleet: FAILURE
+add_fleet: FAILURE
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 132
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 137
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 85
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 94
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 133
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 141
+add_fleet: FAILURE
+add_pirate: FAILURE
+get_pirate_money: SUCCESS, 140
+get_pirate_money: SUCCESS, 75
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 89
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 15
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 18
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 99
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 104
+add_pirate: FAILURE
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 111
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 208
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 212
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 164
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 173
+add_fleet: FAILURE
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 75
+add_fleet: FAILURE
+get_pirate_money: FAILURE
+get_pirate_money: SUCCESS, 106
+get_pirate_money: SUCCESS, 150
+add_fleet: FAILURE
+add_pirate: FAILURE
+add_fleet: FAILURE
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 75
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 84
+add_pirate: FAILURE
+get_pirate_money: SUCCESS, 172
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+get_pirate_money: SUCCESS, 57
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 9
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 12
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 65
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 74
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 136
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 137
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 99
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 108
+add_pirate: SUCCESS
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 109
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 116
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 39
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 46
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 17
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 22
+get_pirate_money: SUCCESS, 106
+add_fleet: FAILURE
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 46
+add_fleet: FAILURE
+add_pirate: FAILURE
+add_pirate: FAILURE
+add_pirate: FAILURE
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 33
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 36
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 122
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 129
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 79
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 82
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 172
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 125
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 135
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 179
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 187
+get_pirate_money: SUCCESS, 187
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 98
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 100
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 31
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 37
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 166
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 168
+get_pirate_money: SUCCESS, 116
+add_fleet: FAILURE
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 163
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 167
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 61
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 62
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 172
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 100
+add_fleet: FAILURE
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 116
+add_pirate: FAILURE
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 24
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 31
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 157
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 166
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 196
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 201
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 150
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 113
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 114
+add_fleet: FAILURE
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 65
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 73
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 138
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 147
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 204
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 214
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 160
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 161
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 107
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 117
+get_pirate_money: SUCCESS, 166
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 108
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 116
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 89
+add_fleet: FAILURE
+add_pirate: FAILURE
+add_pirate: FAILURE
+add_pirate: FAILURE
+get_pirate_money: SUCCESS, 137
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 67
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 70
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 103
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 106
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+get_pirate_money: SUCCESS, 114
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 187
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 47
+add_fleet: FAILURE
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 71
+add_fleet: FAILURE
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 103
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 109
+get_pirate_money: SUCCESS, 172
+add_fleet: FAILURE
+add_pirate: FAILURE
+add_fleet: FAILURE
+add_fleet: FAILURE
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 141
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 149
+get_pirate_money: SUCCESS, 106
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+add_fleet: FAILURE
+add_fleet: FAILURE
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 45
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 54
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 97
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 106
+get_pirate_money: SUCCESS, 114
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 123
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 132
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 187
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 189
+add_pirate: FAILURE
+get_pirate_money: SUCCESS, 36
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 209
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 217
+add_fleet: FAILURE
+add_fleet: FAILURE
+add_pirate: FAILURE
+add_pirate: FAILURE
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 115
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 119
+get_pirate_money: SUCCESS, 172
+get_pirate_money: SUCCESS, 126
+add_fleet: FAILURE
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 119
+get_pirate_money: SUCCESS, 54
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 92
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 97
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 159
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 166
+get_pirate_money: SUCCESS, 114
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 159
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 164
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+add_fleet: FAILURE
+add_pirate: FAILURE
+add_pirate: FAILURE
+get_pirate_money: SUCCESS, 132
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 114
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 124
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 116
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 168
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 169
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 150
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 156
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 159
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 145
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 152
+get_pirate_money: SUCCESS, 126
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 130
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 135
+add_fleet: FAILURE
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 181
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 190
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 189
+get_pirate_money: SUCCESS, 150
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 163
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 170
+get_pirate_money: SUCCESS, 159
+add_fleet: FAILURE
+add_pirate: FAILURE
+add_fleet: FAILURE
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 157
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 163
+add_fleet: FAILURE
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 117
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 130
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 136
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 170
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 173
+get_pirate_money: SUCCESS, 36
+get_pirate_money: SUCCESS, 166
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 163
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+add_pirate: FAILURE
+add_fleet: FAILURE
+add_fleet: FAILURE
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+add_pirate: FAILURE
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 165
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 169
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 167
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 177
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 12
+get_pirate_money: SUCCESS, 170
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 161
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 192
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 201
+get_pirate_money: SUCCESS, 173
+add_pirate: FAILURE
+get_pirate_money: SUCCESS, 43
+add_fleet: FAILURE
+add_pirate: FAILURE
+add_pirate: FAILURE
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 161
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 166
+add_fleet: FAILURE
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 181
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 185
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 170
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 215
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 216
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 189
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 196
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 50
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 54
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 65
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 71
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 123
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 128
+add_pirate: FAILURE
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 161
+add_pirate: FAILURE
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 173
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 80
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 81
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 196
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 170
+add_pirate: FAILURE
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 195
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 199
+add_fleet: FAILURE
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 212
+get_pirate_money: SUCCESS, 81
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 230
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 232
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 68
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 77
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 167
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 175
+add_fleet: FAILURE
+add_pirate: FAILURE
+add_pirate: FAILURE
+add_pirate: FAILURE
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 12
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 88
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 89
+get_pirate_money: SUCCESS, 169
+add_fleet: FAILURE
+add_pirate: FAILURE
+add_fleet: FAILURE
+add_fleet: FAILURE
+add_fleet: FAILURE
+add_pirate: FAILURE
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 92
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 94
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 121
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 128
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 171
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 172
+add_fleet: FAILURE
+add_pirate: FAILURE
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 73
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 79
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 35
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 41
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 190
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 195
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 72
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 80
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 173
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 99
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 108
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 102
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 104
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 114
+get_pirate_money: SUCCESS, 199
+get_pirate_money: SUCCESS, 79
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 130
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 133
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 188
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 195
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+get_pirate_money: SUCCESS, 43
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 214
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 128
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 129
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 135
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 201
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 208
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 116
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 122
+add_pirate: FAILURE
+add_fleet: FAILURE
+add_pirate: FAILURE
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 101
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 109
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 50
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 51
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 215
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 224
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 161
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 166
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 190
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 193
+add_fleet: FAILURE
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 173
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 79
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 81
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 41
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 47
+get_pirate_money: SUCCESS, 217
+get_pirate_money: SUCCESS, 173
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 227
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 230
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 229
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 236
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 216
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 223
+get_pirate_money: SUCCESS, 236
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 153
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 155
+add_fleet: FAILURE
+add_pirate: FAILURE
+get_pirate_money: SUCCESS, 114
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 130
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 139
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 242
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 243
+get_pirate_money: SUCCESS, 217
+get_pirate_money: SUCCESS, 104
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 155
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 108
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 252
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 253
+get_pirate_money: SUCCESS, 253
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 257
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 258
+add_fleet: FAILURE
+add_fleet: FAILURE
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 199
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+add_fleet: FAILURE
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 216
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 225
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 287
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 290
+add_fleet: FAILURE
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 128
+get_pirate_money: SUCCESS, 169
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 198
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 203
+add_pirate: FAILURE
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 154
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 159
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 231
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 234
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 197
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 203
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+get_pirate_money: SUCCESS, 80
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 180
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 189
+add_pirate: FAILURE
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 137
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 139
+add_pirate: FAILURE
+get_pirate_money: SUCCESS, 196
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 243
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 245
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 245
+get_pirate_money: SUCCESS, 43
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 168
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 176
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 144
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 154
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+add_pirate: FAILURE
+get_pirate_money: SUCCESS, 41
+get_pirate_money: SUCCESS, 169
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 139
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 49
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 53
+get_pirate_money: SUCCESS, 253
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 80
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 89
+get_pirate_money: SUCCESS, 176
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+add_pirate: FAILURE
+get_pirate_money: SUCCESS, 245
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 264
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 269
+add_fleet: FAILURE
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 161
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 171
+get_pirate_money: SUCCESS, 236
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 81
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 135
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 237
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 238
+add_pirate: FAILURE
+get_pirate_money: SUCCESS, 89
+get_pirate_money: SUCCESS, 139
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 154
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 156
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 135
+get_pirate_money: SUCCESS, 238
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 230
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 234
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 57
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 63
+add_pirate: FAILURE
+get_pirate_money: SUCCESS, 43
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 263
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 273
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 139
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 191
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 195
+add_pirate: FAILURE
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 139
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 212
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 220
+add_pirate: FAILURE
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 195
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 72
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 75
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 217
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 205
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 206
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 139
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 60
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 61
+add_fleet: FAILURE
+add_fleet: FAILURE
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 110
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 118
+get_pirate_money: SUCCESS, 234
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 199
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 200
+get_pirate_money: SUCCESS, 155
+get_pirate_money: SUCCESS, 220
+add_pirate: FAILURE
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 186
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 188
+get_pirate_money: SUCCESS, 234
+get_pirate_money: SUCCESS, 243
+get_pirate_money: SUCCESS, 75
+get_pirate_money: SUCCESS, 75
+get_pirate_money: SUCCESS, 43
+add_pirate: FAILURE
+add_pirate: FAILURE
+add_fleet: FAILURE
+add_pirate: SUCCESS
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 200
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 217
+get_pirate_money: SUCCESS, 238
+add_pirate: FAILURE
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 217
+get_pirate_money: SUCCESS, 139
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+get_pirate_money: SUCCESS, 234
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 205
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 212
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 93
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 101
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 238
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 239
+add_pirate: FAILURE
+get_pirate_money: SUCCESS, 156
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 73
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 75
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 83
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 87
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 266
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 274
+get_pirate_money: SUCCESS, 155
+get_pirate_money: SUCCESS, 101
+get_pirate_money: SUCCESS, 75
+get_pirate_money: SUCCESS, 243
+get_pirate_money: SUCCESS, 290
+get_pirate_money: SUCCESS, 139
+get_pirate_money: SUCCESS, 200
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 228
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 237
+get_pirate_money: SUCCESS, 273
+get_pirate_money: SUCCESS, 189
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 93
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 96
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 203
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 210
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 302
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 306
+get_pirate_money: SUCCESS, 206
+add_pirate: FAILURE
+add_fleet: FAILURE
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 73
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 76
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 89
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 245
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 118
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+get_pirate_money: SUCCESS, 87
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 193
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 203
+get_pirate_money: SUCCESS, 188
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+get_pirate_money: SUCCESS, 75
+add_fleet: FAILURE
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+add_fleet: FAILURE
+add_pirate: FAILURE
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 118
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 127
+add_fleet: FAILURE
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 218
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 222
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 97
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 100
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 128
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 129
+add_pirate: FAILURE
+add_fleet: FAILURE
+add_fleet: FAILURE
+add_fleet: FAILURE
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 231
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 238
+add_pirate: FAILURE
+add_pirate: FAILURE
+add_pirate: FAILURE
+add_pirate: FAILURE
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 75
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 87
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 90
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 102
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 103
+get_pirate_money: SUCCESS, 234
+add_pirate: FAILURE
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 247
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 248
+add_pirate: FAILURE
+add_pirate: FAILURE
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 139
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 240
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 245
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 121
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 128
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 156
+get_pirate_money: SUCCESS, 118
+get_pirate_money: SUCCESS, 118
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 255
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 263
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 122
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 128
+get_pirate_money: SUCCESS, 129
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 253
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 257
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 271
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 276
+add_pirate: FAILURE
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 271
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 281
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 247
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 256
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 131
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 139
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 80
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 86
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 249
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 251
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 109
+add_pirate: FAILURE
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 316
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 324
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+add_fleet: FAILURE
+add_pirate: FAILURE
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+get_pirate_money: SUCCESS, 135
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 284
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 286
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 283
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 288
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 228
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 236
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 108
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 109
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 290
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 294
+get_pirate_money: SUCCESS, 139
+add_fleet: FAILURE
+add_fleet: FAILURE
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 309
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 316
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 251
+get_pirate_money: SUCCESS, 118
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+add_fleet: FAILURE
+add_pirate: FAILURE
+get_pirate_money: SUCCESS, 286
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 86
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 118
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 87
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 94
+add_pirate: FAILURE
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 269
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+add_fleet: FAILURE
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 140
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 143
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 156
+get_pirate_money: SUCCESS, 256
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 246
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 255
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 278
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 283
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 298
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 304
+add_fleet: FAILURE
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 248
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 252
+get_pirate_money: SUCCESS, 252
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 212
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 296
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 299
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 226
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 229
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 253
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 263
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 121
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 124
+add_pirate: FAILURE
+get_pirate_money: SUCCESS, 222
+add_fleet: FAILURE
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 229
+get_pirate_money: SUCCESS, 129
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 159
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 165
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 136
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 139
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+get_pirate_money: SUCCESS, 245
+get_pirate_money: SUCCESS, 255
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 304
+get_pirate_money: SUCCESS, 288
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 160
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 170
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 329
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 334
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 258
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 267
+add_fleet: FAILURE
+add_pirate: FAILURE
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 288
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 289
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 291
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 297
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 303
+get_pirate_money: SUCCESS, 291
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 81
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 214
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 219
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 82
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 88
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 161
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 169
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 315
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 322
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 251
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 252
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 353
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 360
+get_pirate_money: SUCCESS, 276
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 147
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 152
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 116
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 126
+add_fleet: FAILURE
+add_pirate: FAILURE
+add_fleet: FAILURE
+add_pirate: FAILURE
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 279
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 289
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+add_fleet: FAILURE
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 223
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 227
+get_pirate_money: SUCCESS, 118
+get_pirate_money: SUCCESS, 118
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 227
+get_pirate_money: SUCCESS, 100
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 133
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 141
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+add_fleet: FAILURE
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 348
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 350
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 257
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 264
+add_pirate: FAILURE
+get_pirate_money: SUCCESS, 152
+get_pirate_money: SUCCESS, 165
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 94
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 273
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 276
+add_fleet: FAILURE
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 286
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 291
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 213
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 222
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 129
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 132
+get_pirate_money: SUCCESS, 286
+get_pirate_money: SUCCESS, 227
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+add_fleet: FAILURE
+add_pirate: FAILURE
+get_pirate_money: SUCCESS, 227
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 169
+get_pirate_money: SUCCESS, 276
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 152
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 160
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 296
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 300
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 319
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 323
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 100
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+get_pirate_money: SUCCESS, 303
+get_pirate_money: SUCCESS, 323
+get_pirate_money: SUCCESS, 152
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 172
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 177
+add_pirate: FAILURE
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 151
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 156
+get_pirate_money: SUCCESS, 300
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 156
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 235
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 241
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 156
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 374
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 379
+add_pirate: FAILURE
+add_fleet: FAILURE
+add_pirate: FAILURE
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 302
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 306
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 167
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 173
+add_fleet: FAILURE
+add_fleet: FAILURE
+add_pirate: FAILURE
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 157
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 167
+add_fleet: FAILURE
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 186
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 194
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 166
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 245
+add_pirate: FAILURE
+add_pirate: FAILURE
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 246
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 256
+get_pirate_money: SUCCESS, 306
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+pay_pirate: FAILURE
+get_pirate_money: FAILURE
+get_pirate_money: SUCCESS, 379
+get_pirate_money: SUCCESS, 334
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 173
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 181
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 327
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 337
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 309
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 314
+get_pirate_money: SUCCESS, 286
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 126
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 181
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 187
+add_fleet: FAILURE
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 288
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 289
+add_pirate: FAILURE
+add_pirate: FAILURE
+get_pirate_money: SUCCESS, 152
+get_pirate_money: SUCCESS, 289
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 151
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 158
+num_ships_for_fleet: SUCCESS, 1
+get_pirate_money: SUCCESS, 303
+get_pirate_money: SUCCESS, 334
+add_fleet: FAILURE
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 187
+get_pirate_money: SUCCESS, 360
+add_pirate: FAILURE
+get_pirate_money: SUCCESS, 177
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 384
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 386
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 412
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 422
+get_pirate_money: SUCCESS, 227
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 164
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 166
+add_fleet: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+get_pirate_money: SUCCESS, 194
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 213
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 221
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 169
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 174
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+num_ships_for_fleet: SUCCESS, 1
+add_fleet: FAILURE
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 184
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 194
+add_pirate: FAILURE
+get_pirate_money: SUCCESS, 267
+add_fleet: FAILURE
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 354
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 355
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 102
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 105
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 240
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 248
+get_pirate_money: SUCCESS, 303
+get_pirate_money: SUCCESS, 194
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 252
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 257
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+add_pirate: FAILURE
+num_ships_for_fleet: SUCCESS, 1
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 176
+pay_pirate: SUCCESS
+get_pirate_money: SUCCESS, 186
+add_pirate: FAILURE
+get_pirate_money: SUCCESS, 100
+get_pirate_money: SUCCESS, 337
+add_fleet: FAILURE
