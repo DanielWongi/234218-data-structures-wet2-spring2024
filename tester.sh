@@ -39,8 +39,8 @@ run_test() {
     local jsonFile=$5
 
     local testNumber=$(basename "$inFile" .in)
-    local resultFile="${outFileDir}/${testNumber}.out"
-    local expectedFile="${outFileDir}/${testNumber}.result"
+    local resultFile="${outFileDir}/${testNumber}.result"
+    local expectedFile="${outFileDir}/${testNumber}.out"
     local valgrindLogFile="${inFile}.valgrind_log"
 
     echo -e "${BLUE}Running test $testNumber >>>${NC}"
